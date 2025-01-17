@@ -1,5 +1,5 @@
 
-���
+���
 
 enHunter's Blind
 
@@ -8,6 +8,8 @@
 frPavillon de chasse
 $
 jaハンター・ブラインド
+
+plAmbona myśliwska
 
 ptCabana do Caçador
 !
@@ -16,7 +18,7 @@ $
 ukХатинка в тайзі
 
 zh猎人的盲区
-���
+���
 
 enCentury Oak
 
@@ -25,6 +27,8 @@ $
 frChêne centenaire
 $
 jaセンチュリー・オーク
+
+plWiekowa dębina
 
 ptCarvalho Secular
 
@@ -33,7 +37,7 @@ $
 ukСтолітній дуб
 
 zh百年橡树
-���
+���
 
 enJanuary Frost
 
@@ -42,6 +46,8 @@ $
 frGivre en janvier
 
 ja1 月の霜
+
+plStyczniowy mróz
 
 ptJaneiro Congelado
 
@@ -50,7 +56,7 @@ $
 ukСічнева крига
 
 zh	一月雪
-���
+���
 
 en	Ice Storm
 
@@ -59,6 +65,8 @@ $
 frTempête de glace
 
 jaアイス・ストーム
+
+plBurza lodowa
 
 ptTempestade de Gelo
 !
@@ -67,13 +75,15 @@ $
 ukСнігова завірюха
 
 zh冰暴
-���
+���
 
 enMirage
 
 es	Espejismo
 
 ja幻影
+
+plMiraż
 
 ptMiragem
 "
@@ -82,7 +92,7 @@ $
 ukМіраж у пустелі
 
 zh海市蜃楼
-���
+���
 
 enAfrican Savanna
 
@@ -91,6 +101,8 @@ $
 frSavane africaine
 $
 jaアフリカ・サヴァンナ
+
+plSawanna afrykańska
 
 ptSavana Africana
 +
@@ -99,7 +111,7 @@ $
 uk#Африканська савана
 
 zh非洲大草原
-���
+���
 
 enSwamp Alligator
 
@@ -108,6 +120,8 @@ $
 frAlligator du marais
 
 ja沼地のワニ
+
+plBagienny aligator
 
 ptCrocodilo do Pântano
 )
@@ -116,7 +130,7 @@ $
 uk Алігатор із болот
 
 zh	沼泽鳄
-���
+���
 
 enLowland Beast
 !
@@ -125,6 +139,8 @@ $
 frMonstre des plaines
 $
 jaローランド・ビースト
+
+plBestia z nizin
 
 ptBesta da Planície
 
@@ -133,7 +149,7 @@ $
 ukЗвір рівнин
 
 zh野兽平原
-�	�	�
+�	�	�
 
 enIce Panther
 
@@ -142,6 +158,8 @@ $
 frPanthère de glace
 
 jaアイス・パンサー
+
+plLodowa pantera
 
 ptPantera de Gelo
 
@@ -150,9 +168,9 @@ $
 ukКрижана пума
 
 zh冰豹
-�
-�
-�
+�
+�
+�
 
 enSnow Leopard
 
@@ -161,6 +179,8 @@ $
 frLéopard des neiges
 
 jaユキヒョウ
+
+plŚnieżny lampart
 
 ptLeopardo da Neve
 
@@ -169,7 +189,7 @@ $
 ukСніговий барс
 
 zh雪豹
-���
+���
 
 en
 Desert Fox
@@ -179,6 +199,8 @@ Desert Fox
 frRenard du désert
 
 ja砂漠の狐
+
+plPustynny lis
 
 ptRaposa do Deserto
 
@@ -187,7 +209,7 @@ Desert Fox
 ukПустельний лис
 
 zh沙漠之狼
-���
+���
 
 en
 Sand Snake
@@ -198,6 +220,8 @@ Sand Snake
 
 jaサンドスネーク
 
+plPiaskowy wąż
+
 ptCobra da Areia
 
 ruПесчаный змей
@@ -205,7 +229,7 @@ Sand Snake
 ukПіщаний змій
 
 zh沙蛇
-���
+���
 
 en	Willpower
 
@@ -214,6 +238,9 @@ Sand Snake
 frVolonté
 
 jaウィルパワー
+
+pl
+Siła woli
 
 ptForça de Vontade
 
@@ -222,7 +249,7 @@ Sand Snake
 ukСила волі
 
 zh	意志力
-���
+���
 
 enHonor of a Nation
 
@@ -231,6 +258,8 @@ Sand Snake
 frFierté de la nation
 
 ja国家の名誉
+
+plHonor narodowy
 
 ptHonra da Nação
 !
@@ -239,7 +268,7 @@ Sand Snake
 ukГордість нації
 
 zh民族荣耀
-���
+���
 
 en
 Confidence
@@ -249,6 +278,8 @@ Confidence
 fr	Confiance
 
 ja信頼
+
+plPewność siebie
 
 pt
 Confiança
@@ -258,7 +289,7 @@ Confiança
 ukВіра в перемогу
 
 zh信念
-���
+���
 
 enFrostbitten Glacier
 
@@ -267,6 +298,8 @@ Confiança
 frGlacier gelé
 
 ja凍てつく氷河
+
+plMroźny lodowiec
 
 ptGeleira
 +
@@ -275,7 +308,7 @@ Confiança
 ukКрижаний спокій
 
 zh霜冻冰川
-���
+���
 
 en	Iron Zeal
 
@@ -284,6 +317,8 @@ Confiança
 frNerfs d'acier
 
 ja鋼の情熱
+
+plŻelazny zapał
 
 ptZelo de Ferro
 %
@@ -292,7 +327,7 @@ Confiança
 uk%Сталева сумлінність
 
 zh钢铁之心
-���
+���
 
 enCombat Valor
 
@@ -301,6 +336,8 @@ Confiança
 frLutte courageuse
 
 ja武勇
+
+plMęstwo bitewne
 
 ptValor de Combate
 -
@@ -309,7 +346,7 @@ Confiança
 uk'Незаперечна мужність
 
 zh勇敢战斗
-���
+���
 
 enField Clover
 
@@ -319,6 +356,8 @@ Confiança
 '
 ja!フィールド・クローバー
 
+plPole koniczyny
+
 ptCampo de Trevo
 !
 ruПолевой клевер
@@ -326,7 +365,7 @@ Confiança
 ukПольова конюшина
 
 zh	三叶草
-���
+���
 
 en
 Highlander
@@ -335,6 +374,8 @@ Highlander
 Montañés
 
 jaハイランダー
+
+plGóral
 
 ptImortal
 '
@@ -343,7 +384,7 @@ Montañés
 uk%Шотландський горець
 
 zh	高地人
-���
+���
 
 enRugged Weather
 
@@ -353,6 +394,8 @@ Montañés
 Sale temps
 
 ja荒天
+
+plSurowy klimat
 
 ptTempo Acidentado
 %
@@ -361,7 +404,7 @@ Sale temps
 ukНегода
 
 zh恶劣气候
-���
+���
 
 enFoggy Albion
 
@@ -370,6 +413,8 @@ Sale temps
 frAlbion brumeux
 
 ja霧のアルビオン
+
+plMglisty Albion
 
 ptNeblina de Albion
 %
@@ -378,7 +423,7 @@ Sale temps
 ukТуманний Альбіон
 
 zh迷雾之阿尔比恩
-���
+���
 
 en
 Old Legend
@@ -388,6 +433,8 @@ Old Legend
 frVieille légende
 
 ja古き伝説
+
+plStara legenda
 
 ptLenda Antiga
 #
@@ -396,7 +443,7 @@ Old Legend
 uk#Стародавня легенда
 
 zh古老的传说
-���
+���
 
 enRoyal Ribbon
 
@@ -405,6 +452,8 @@ Old Legend
 frRuban royal
 
 jaロイヤル・リボン
+
+plKrólewska wstęga
 
 pt	Fita Real
 '
@@ -413,7 +462,7 @@ Old Legend
 uk%Королівська стрічка
 
 zh皇家丝绸
-���
+���
  
 enForest of a Thousand Souls
  
@@ -422,6 +471,8 @@ Old Legend
 frForêt aux mille âmes
 
 ja千魂の森
+
+plLas Tysiąca Dusz
 #
 ptFloresta de Milhares de Almas
  
@@ -430,7 +481,7 @@ Old Legend
 ukЛіс тисячі душ
 
 zh千魂森林
-���
+���
 
 enCicadas' Songs
 
@@ -439,6 +490,8 @@ Old Legend
 frChant des cigales
 
 ja	蝉の歌
+
+plPieśni cykad
 
 ptSons das Cigarras
 
@@ -447,7 +500,7 @@ Old Legend
 ukГолоси цикад
 
 zh蝉鸣
-���
+���
 
 enCherry Blossom
 
@@ -456,6 +509,8 @@ Old Legend
 frFleurs de cerisier
 
 ja桜花
+
+plKwitnąca wiśnia
 
 ptMargarida de Cereja
 
@@ -464,7 +519,7 @@ Old Legend
 ukБіла сакура
 
 zh樱花盛开
-���
+���
 
 enMountain Silence
  
@@ -473,6 +528,8 @@ Old Legend
 frSilence de la montagne
 
 ja静かなる山
+
+plGórska cisza
 
 ptSilêncio da Montanha
 
@@ -481,7 +538,7 @@ Old Legend
 ukМовчання гір
 
 zh寂静山岭
-���
+���
 
 enCrouching Tiger
 
@@ -491,6 +548,8 @@ Old Legend
 Tigre tapi
 
 ja身をかがめた虎
+
+plPrzyczajony tygrys
 
 ptO Tigre
 %
@@ -499,7 +558,7 @@ Tigre tapi
 ukТигр у схованці
 
 zh卧虎藏龙
-���
+���
 
 enSand Cyclone
 
@@ -508,6 +567,8 @@ Tigre tapi
 frTempête de sable
 
 ja砂嵐
+
+plPiaszczysty wir
 
 ptCiclone de Areia
 #
@@ -516,7 +577,7 @@ Tigre tapi
 ukПіщаний тайфун
 
 zh	沙尘暴
-���
+���
 
 enUneven Boulder
 
@@ -526,6 +587,8 @@ Tigre tapi
 
 ja異形の岩
 
+plChropowaty kamień
+
 ptPedreira Irregular
 %
 ruКаменистая почва
@@ -533,7 +596,7 @@ Tigre tapi
 uk Кам'янистий ґрунт
 
 zh怪石
-� � �
+� � �
 
 enGreen Tundra
 
@@ -542,6 +605,8 @@ Tigre tapi
 frToundra verdoyante
 
 ja緑のツンドラ
+
+plZielona tundra
 
 ptTundra Verde
 !
@@ -550,7 +615,7 @@ Tigre tapi
 ukЗелена тундра
 
 zh绿色苔原
-�!�!�
+�!�!�
 
 en
 Sand Drift
@@ -560,6 +625,8 @@ Sand Drift
 frDérive des sables
 
 ja漂砂
+
+plPiaszczysty wał
 
 ptVento de Areia
 #
@@ -568,7 +635,7 @@ Sand Drift
 ukПіщаний бархан
 
 zh沙丘
-�"�"�
+�"�"�
 
 en
 Desert Sun
@@ -578,6 +645,8 @@ Desert Sun
 frSoleil du désert
 
 ja砂漠の太陽
+
+plPustynne słońce
 
 ptSol do Deserto
 #
@@ -586,7 +655,7 @@ Desert Sun
 uk!Пустельна засмага
 
 zh沙漠烈阳
-�#�#�
+�#�#�
 
 en
 Wild Dunes
@@ -596,6 +665,8 @@ Wild Dunes
 frDunes sauvages
 
 ja不毛の砂丘
+
+plDzikie wydmy
 
 ptDunas Selvagens
 
@@ -604,7 +675,7 @@ Wild Dunes
 ukДикі дюни
 
 zh荒凉沙丘
-�$�$�
+�$�$�
 
 enCedar Woodland
 
@@ -613,6 +684,8 @@ Wild Dunes
 frBois de cèdres
 
 jaヒマラヤスギの森
+
+plLas cedrowy
 
 ptFloresta de Cedro
 '
@@ -621,7 +694,7 @@ Wild Dunes
 uk!Кедровий підлісок
 
 zh	雪松林
-�%�%�
+�%�%�
 
 en
 Swamp Moss
@@ -631,6 +704,8 @@ Swamp Moss
 frMousse des marais
 
 ja湿地の苔
+
+plBagienny mech
 
 ptPântano de Musgo
 
@@ -639,7 +714,7 @@ Swamp Moss
 ukБолотний мох
 
 zh沼泽苔藓
-�&�&�
+�&�&�
 
 enForest Windbreak
 
@@ -648,6 +723,8 @@ Swamp Moss
 frForêt brise-vent
 
 ja	防風林
+
+plLeśny wiatrochron
 
 ptFloresta de Vento
 !
@@ -656,7 +733,7 @@ Swamp Moss
 ukПовалений ліс
 
 zh	防风林
-�'�'�
+�'�'�
 
 enMountain Peak
 
@@ -665,6 +742,8 @@ Swamp Moss
 frSommet
 
 ja山頂
+
+plGórski szczyt
 
 ptPico da Montanha
 !
@@ -673,7 +752,7 @@ Swamp Moss
 ukГірська вершина
 
 zh山岳
-�(�(�
+�(�(�
 
 enMelting Snow
 
@@ -682,6 +761,8 @@ Swamp Moss
 frFonte des neiges
 
 ja融雪
+
+plTopniejący śnieg
 
 ptNeve Derretida
 
@@ -690,13 +771,15 @@ Swamp Moss
 ukРозталий сніг
 
 zh白雪融化
-�)�)�
+�)�)�
 
 enBlizzard
 
 esTormenta de nieve
 
 jaブリザード
+
+plZamieć
 
 ptNevasca
 
@@ -705,7 +788,7 @@ Swamp Moss
 uk!Крижана хуртовина
 
 zh	暴风雪
-�2�2�
+�2�2�
 
 enAncient Bamboo
 
@@ -714,6 +797,8 @@ Swamp Moss
 frBambou antique
 
 ja古竹
+
+plPrastary bambus
 
 ptBambu Antigo
 !
@@ -722,7 +807,7 @@ Swamp Moss
 ukДревній бамбук
 
 zh古竹
-�3�3�
+�3�3�
 
 enWater Dragon
 
@@ -731,6 +816,9 @@ Swamp Moss
 frDragon d'eau
 
 ja水竜
+
+pl
+Wodny smok
 
 ptDragão D'água
 
@@ -739,7 +827,7 @@ Swamp Moss
 ukВодний дракон
 
 zh水龙
-�4�4�
+�4�4�
 
 en	Ice Kirin
 
@@ -748,6 +836,8 @@ Swamp Moss
 frKirin de glace
 
 ja	氷麒麟
+
+plLodowy kirin
 
 ptKirin de Gelo
 
@@ -756,7 +846,7 @@ Swamp Moss
 ukКрижаний кірін
 
 zh	冰麒麟
-�5�5�
+�5�5�
 
 en
 Snow Panda
@@ -766,6 +856,8 @@ Snow Panda
 frPanda des neiges
 
 jaスノーパンダ
+
+plŚnieżna panda
 
 ptPanda da Neve
 
@@ -774,7 +866,7 @@ Snow Panda
 ukСнігова панда
 
 zh	雪熊猫
-�6�6�
+�6�6�
 
 enWise Turtle
 
@@ -783,6 +875,8 @@ Snow Panda
 frTortue sage
 
 ja賢亀
+
+plRoztropny żółw
 
 ptTartaruga Sábia
 #
@@ -791,7 +885,7 @@ Snow Panda
 ukМудра черепаха
 
 zh智龟
-�7�7�
+�7�7�
 
 enGolden Phoenix
 
@@ -800,6 +894,8 @@ Snow Panda
 frPhénix doré
 *
 ja$ゴールデン・フェニックス
+
+plZłoty feniks
 
 ptFênix Dourada
 !
@@ -821,7 +917,7 @@ Snow Panda
 ukОле-Оле-Оле
 
 zhOlé，Olé，Olé
-�9�9�
+�9�9�
 
 enThunderbolt
 
@@ -830,6 +926,8 @@ Snow Panda
 frFoudre
 
 jaサンダーボルト
+
+plPiorun
 
 
 ptRaio
@@ -839,7 +937,7 @@ Snow Panda
 uk!Грозова блискавка
 
 zh雷电
-�:�:�
+�:�:�
 
 enDigital Forest
 
@@ -848,6 +946,8 @@ Snow Panda
 frForêt numérique
 !
 jaデジタルフォレスト
+
+plCyfrowy las
 
 ptFloresta Digital
 
@@ -856,7 +956,7 @@ Snow Panda
 ukЦифровий ліс
 
 zh数字森林
-�;�;�
+�;�;�
 
 enUndeniable Advantage
 
@@ -865,6 +965,8 @@ Snow Panda
 frAvantage indéniable
 $
 ja明白なアドバンテージ
+
+plNiepodważalna przewaga
 
 ptVantagem Inegável
 3
@@ -888,7 +990,7 @@ $
 ukІнферно
 
 zh地狱
-�=�=�
+�=�=�
 
 enShattered Ice
 
@@ -897,6 +999,8 @@ $
 frBanquise brisée
 
 ja	破砕氷
+
+plSkruszony lód
 
 ptGelo Despedaçado
 
@@ -905,7 +1009,7 @@ $
 ukКрижані уламки
 
 zh碎冰
-�>�>�
+�>�>�
 
 enFaster, Higher, Stronger
 *
@@ -914,6 +1018,8 @@ $
 frPlus vite, plus haut, plus fort
 0
 ja*より速く、より高く、より強く
+
+plSzybciej, wyżej, mocniej
 )
 pt#Mais Rápido, Mais Alto, Mais Forte
 .
@@ -922,7 +1028,7 @@ $
 uk(Швидше, вище, сильніше
 
 zh更快，更高，更强
-�?�?�
+�?�?�
 
 enTriumph
 
@@ -931,6 +1037,8 @@ $
 frTriomphe
 
 ja偉業
+
+plTriumf
 
 ptTriunfo
 
@@ -939,7 +1047,7 @@ $
 ukТріумф
 
 zh胜利
-�@�@�
+�@�@�
 
 enClan Warrior
 
@@ -948,6 +1056,8 @@ $
 frGuerrier de clan
 
 jaクラン戦士
+
+plWojownik klanowy
 
 ptGuerreiro de Clã
 
@@ -956,7 +1066,7 @@ $
 ukВоїн клану
 
 zh军团战士
-�A�A�
+�A�A�
 
 enSteel Irbis
 
@@ -966,6 +1076,8 @@ $
 
 ja鋼鉄のイルビス
 
+plStalowy Irbis
+
 ptIrbis de Aço
 #
 ruСеребряный барс
@@ -973,7 +1085,7 @@ $
 ukСрібний барс
 
 zh银色雪豹
-�B�B�
+�B�B�
 
 enPsych
 
@@ -982,13 +1094,15 @@ $
 frPsyché
 
 ja	サイケ
+
+plNa krawędzi
 
 ruНа взводе
 
 ukНа взводі
 
 zh边锋斗士
-�C�C�
+�C�C�
 
 enKalhoon
 
@@ -997,13 +1111,15 @@ $
 frFier guerrier
 
 ja誇り高きカルーン
+
+plWiteź
 
 ruГордый воин
 
 ukГордий воїн
 
 zh铁血战士
-�D�D�
+�D�D�
 
 enSteel Sentinel
 
@@ -1013,6 +1129,8 @@ $
 
 ja鋼鉄のセンチネル
 
+plStalowy Strażnik
+
 ptSentinela de Aço
 !
 ruСтальной страж
@@ -1020,7 +1138,7 @@ $
 uk#Сталевий охоронець
 
 zh钢铁哨兵
-�E�E�
+�E�E�
 
 enVerdun Forest
 
@@ -1029,6 +1147,9 @@ $
 frForêt de Verdun
 '
 ja!ヴェルダン・フォレスト
+
+pl
+Las Verdun
 
 ptFloresta Verdun
 !
@@ -1037,7 +1158,7 @@ $
 ukВерденський ліс
 
 zh凡尔登丛林
-�F�F�
+�F�F�
 
 enBreakthrough
 
@@ -1046,6 +1167,8 @@ $
 frPercée
 
 ja	突破口
+
+plPrzełom
 
 ptRuptura
 
@@ -1054,7 +1177,7 @@ $
 ukПрорив
 
 zh突破
-�G�G�
+�G�G�
 
 enTrue Devotion
 
@@ -1064,6 +1187,8 @@ $
 
 ja真の献身
 
+plPełne poświęcenie
+
 ptDevoção Verdadeira
 )
 ru#Истинное призвание
@@ -1071,7 +1196,7 @@ $
 uk%Справжнє покликання
 
 zh忠实粉丝
-�H�H�
+�H�H�
 
 enWinter Celebrations
 
@@ -1080,6 +1205,8 @@ $
 frFêtes hivernales
 
 ja冬のお祝い
+
+plGwiazdka
 
 ptCelebrações de Inverno
 
@@ -1088,7 +1215,7 @@ $
 ukНоворічний
 
 zh冬季庆典
-�I�I�
+�I�I�
 
 en
 Alpine Fog
@@ -1098,6 +1225,8 @@ Alpine Fog
 frBrouillard alpin
 
 ja山岳の霧
+
+plGórska żaba
 
 ptNeblina dos Alpes
 %
@@ -1106,7 +1235,7 @@ Alpine Fog
 uk!Альпійський туман
 
 zh阿尔卑斯蛙
-�J�J�
+�J�J�
 
 en	Snow Lily
 
@@ -1115,6 +1244,8 @@ Alpine Fog
 frLys des neiges
 
 jaスノウ・リリー
+
+plŚnieżna lilia
 
 ptLírio de Neve
 
@@ -1123,7 +1254,7 @@ Alpine Fog
 ukСнігова лілея
 
 zh	雪百合
-�K�K�
+�K�K�
 
 enFreedom Spirit
 
@@ -1132,6 +1263,8 @@ Alpine Fog
 frEsprit de la liberté
 
 ja自由の魂
+
+plDuch wolności
 
 ptEspírito da Liberdade
 
@@ -1140,7 +1273,7 @@ Alpine Fog
 ukДух свободи
 
 zh自由灵魂
-�L�L�
+�L�L�
 
 enForce Unity
 
@@ -1149,6 +1282,8 @@ Alpine Fog
 frL'union fait la force
 
 ja統一戦線
+
+plZjednoczona siła
 
 ptForça da União
 
@@ -1157,7 +1292,7 @@ Alpine Fog
 ukЄдність сили
 
 zh联合势力
-�M�M�
+�M�M�
 
 enImmortal Legion
 
@@ -1166,6 +1301,8 @@ Alpine Fog
 frLégion éternelle
 
 ja不死の軍勢
+
+plNieśmiertelny legion
 
 ptLegião Imortal
 )
@@ -1174,7 +1311,7 @@ Alpine Fog
 uk#Безсмертний легіон
 
 zh神鬼联盟
-�N�N�
+�N�N�
 
 enScarlet Oriflamme
 
@@ -1183,6 +1320,8 @@ Alpine Fog
 frOriflamme écarlate
 
 ja深紅の王旗
+
+plSzkarłatny Oriflamme
 
 ptOriflama Escarlate
 !
@@ -1191,7 +1330,7 @@ Alpine Fog
 uk.Яскраво-червона орифлама
 
 zh鲜红的旗帜
-�O�O�
+�O�O�
 
 enThe Mirage Phantoms
 
@@ -1200,6 +1339,8 @@ Alpine Fog
 frLes fantômes de Mirage
 *
 ja$ミラージュ・ファントムズ
+
+plWidma Miraż
 
 ptOs Fantasmas da Miragem
 )
@@ -1208,7 +1349,7 @@ Alpine Fog
 uk#Манливі досягнення
 
 zh幻影
-�P�P�
+�P�P�
 
 enThe Rockfield Rackers
 
@@ -1217,6 +1358,8 @@ Alpine Fog
 frLes combattants de Rockfield
 3
 ja-ロック・フィールド・ラッカーズ
+
+plZadymiarze Kamieniec
  
 ptOs Chutadores de Rockfield
 )
@@ -1225,13 +1368,15 @@ Alpine Fog
 uk!Колекціонери боїв
 
 zh石之域拷问者
-�Q�Q�
+�Q�Q�
 
 enBlitz Brawlers
 
 frBagarreurs de Blitz
 '
 ja!ブリッツ・ブラウラーズ
+
+plAwanturnicy Blitz
 
 ptOs Brigadores Blitz
 
@@ -1240,7 +1385,7 @@ Alpine Fog
 ukBlitz-бійці
 
 zhBlitz 争斗者
-�R�R�
+�R�R�
 
 enThe Dead Rail Trackers
 $
@@ -1249,6 +1394,8 @@ $
 frLes pisteurs de Rails mortels
 -
 ja'デッドレイル・トラッカーズ
+
+plKolejarze Martwego Toru
 %
 ptOs Batedores do Trilho Fantasma
 *
@@ -1257,7 +1404,7 @@ $
 uk(Мисливці за перемогою
 
 zh死亡之环追猎者
-�S�S�
+�S�S�
 
 en
 Mint Candy
@@ -1267,6 +1414,9 @@ Mint Candy
 frBonbon à la menthe
 $
 jaミント・キャンディー
+
+pl
+Miętówka
 
 ptDoce de Hortelã
 !
@@ -1275,7 +1425,7 @@ $
 ukМ'ятний льодяник
 
 zh	薄荷糖
-�T�T�
+�T�T�
 
 enLook Different
 
@@ -1284,6 +1434,8 @@ $
 frChangez de look
 
 ja変貌
+
+plNowa aparycja
 
 ptSeja Diferente
 
@@ -1292,7 +1444,7 @@ $
 ukСвіжий погляд
 
 zh与众不同
-�U�U�
+�U�U�
 
 enHeroic Warrior
 
@@ -1301,6 +1453,8 @@ $
 frGuerrier héroïque
 
 ja壮烈なる戦士
+
+plHeroiczny wojownik
 
 ptGuerreiro Heroico
 )
@@ -1309,7 +1463,7 @@ $
 uk#Доблесний войовник
 
 zh英勇战士
-�V�V�
+�V�V�
 
 enFull Forward
 
@@ -1319,6 +1473,8 @@ A todo gas
 frEn avant toute
 
 ja全速前進
+
+plCała naprzód
 
 ptTotalmente pra Frente
 
@@ -1327,13 +1483,15 @@ A todo gas
 ukПовний вперед
 
 zh全速向前
-�X�X�
+�X�X�
 
 enGhost in the Machine
 
 frFantôme dans la machine
 
 jaアーマーソウル
+
+plDuch w maszynie
 
 ptFantasma na Máquina
 
@@ -1342,7 +1500,7 @@ A todo gas
 ukДух у броні
 
 zh机器幽灵
-�Y�Y�
+�Y�Y�
 
 enMan's Best Friend
 
@@ -1351,6 +1509,8 @@ A todo gas
 frMeilleur ami de l'homme
 
 jaベストフレンド
+%
+plNajlepszy przyjaciel człowieka
 
 ptMelhor Amigo do Tanqueiro
 ,
@@ -1391,7 +1551,7 @@ t[p[l
 Ретро
 
 zh复古
-�\�\�
+�\�\�
 
 enFan Zone
 
@@ -1400,6 +1560,8 @@ t[p[l
 frZone des supporteurs
 
 jaファンゾーン
+
+plStrefa fana
 
 ptZona de Fãs
 
@@ -1411,13 +1573,16 @@ t[p[l
 ]]
 
 enTankFest
-�^�^�
+�^�^�
 
 enOld Signora
 
 esVecchia Signora
 
 ja老貴婦人
+
+pl
+Stara Dama
 
 ptVelha Senhora
 !
@@ -1437,7 +1602,7 @@ t[p[l
 ukГалактикос
 
 zh银河战舰
-�`�`�
+�`�`�
 
 enEffective Concealment
 
@@ -1446,6 +1611,8 @@ t[p[l
 frCamouflage efficace
 
 ja巧みな隠蔽
+
+plSkuteczny kamuflaż
 
 ptOcultamento Eficiente
 +
@@ -1454,7 +1621,7 @@ t[p[l
 uk#Надійне маскування
 
 zh有效的隐蔽
-�a�a�
+�a�a�
 
 enFestive Fireworks
 
@@ -1463,6 +1630,8 @@ t[p[l
 frFeux d'artifice
 
 ja華やかな花火
+
+plŚwiąteczne fajerwerki
 "
 ptFogos de Artifício Festivos
 '
@@ -1475,13 +1644,15 @@ t[p[l
 b
 
 en
-�c�c�
+�c�c�
 
 enBastille
 
 esBastilla
 
 jaバスティーユ
+
+plBastylia
 
 ptBastilha
 
@@ -1495,7 +1666,7 @@ t[p[l
 enGamescom
 
 esgamescom
-�e�e�
+�e�e�
 
 enMissile Arsenal
 
@@ -1504,6 +1675,8 @@ t[p[l
 frArsenal de missiles
 
 jaミサイル工場
+
+plArsenał rakietowy
 
 ptArsenal de Mísseis
 %
@@ -1512,7 +1685,7 @@ t[p[l
 ukРакетний арсенал
 
 zh	导弹库
-�f�f�
+�f�f�
 
 enMissile Salvo
 
@@ -1521,6 +1694,8 @@ t[p[l
 frSalve de missiles
 
 jaミサイル斉射
+
+plSalwa rakietowa
 
 ptSalva de Mísseis
 
@@ -1532,7 +1707,7 @@ t[p[l
 gg
 	
 enTGS
-�h�h�
+�h�h�
 
 enSeasonal Hunt
 
@@ -1542,6 +1717,8 @@ t[p[l
 
 ja狩りの季節
 
+plPolowanie sezonowe
+
 ptTemporada de Caça
 !
 ruСезонная охота
@@ -1549,7 +1726,7 @@ t[p[l
 uk!Сезонне полювання
 
 zh	狩猎季
-�����
+�����
 
 enTroublemaker
 
@@ -1558,6 +1735,9 @@ t[p[l
 frFauteur de troubles
 
 jaトラブルメーカー
+
+pl
+Rozrabiaka
 
 ptEncrenqueiro
 
@@ -1574,7 +1754,7 @@ t[p[l
 enGrille 15 Troublemaker
 &
 ru Grille 15 Разрушитель
-����j
+����x
 
 enBeast
 
@@ -1583,6 +1763,8 @@ t[p[l
 frBête
 
 jaビースト
+
+plBestia
 
 
 ptFera
@@ -1622,7 +1804,7 @@ t[p[l
 enM48 Patton Pit Bull
 
 ruM48 Patton Питбуль
-�����
+�����
 
 enCruel Twist
 
@@ -1632,6 +1814,8 @@ Implacable
 frImpitoyable
 
 ja残酷ないたずら
+
+plOkrutny zwrot akcji
 
 ptReviravolta Cruel
 
@@ -1724,7 +1908,7 @@ $
 enPredator DA"
 
 enPredator Dark Angels
-�����
+�����
 
 en	Musketeer
 
@@ -1734,6 +1918,9 @@ Mosquetero
 frMousquetaire
 
 ja銃士
+
+pl
+Muszkieter
 
 ptMosqueteiro
 
@@ -1750,7 +1937,7 @@ $
 enBat.-Châtillon 25 t Musketeer
 +
 ru%Bat.-Châtillon 25 t Мушкетёр
-�����
+�����
 
 enSteel Cavalry
 
@@ -1759,6 +1946,8 @@ $
 frCavalerie blindée
 
 ja鋼鉄の騎兵
+
+plStalowa kawaleria
 
 ptCavalaria de Aço
 )
@@ -1775,7 +1964,7 @@ $
 enKpz 70 Cavalry
 !
 ruKpz 70 Кавалерист
-�����
+�����
 
 enDedicated Warrior
 
@@ -1784,6 +1973,8 @@ $
 frGuerrier dévoué
 
 ja献身的な戦士
+
+plOddany wojownik
 
 ptGuerreiro Dedicado
 -
@@ -1800,7 +1991,7 @@ $
 enKV-1 Warrior
 
 ruКВ-1 Боец
-�����
+�����
 
 enHammer
 
@@ -1809,6 +2000,8 @@ $
 frMarteau
 
 jaハンマー
+
+plMłot
 
 ptMarreta
 
@@ -1825,7 +2018,7 @@ $
 enFV215b 183 Hammer
 
 ruFV215b 183 Разящий
-�����
+�����
 
 enTireless
 
@@ -1834,6 +2027,8 @@ $
 frInfatigable
 
 ja疲れ知らず
+
+plNiestrudzony
 
 ptIncansável
 
@@ -1850,7 +2045,7 @@ $
 enT57 Heavy Tireless
 $
 ruT57 Heavy Неутомимый
-����z
+�����
 
 enStalwart
 
@@ -1859,6 +2054,8 @@ $
 frLoyal
 
 ja頑健
+
+plSpiżowy
 
 ruСтойкий
 
@@ -1894,7 +2091,7 @@ $
 enObject 140 Terror
 %
 ruОбъект 140 Грозный
-�����
+�����
 
 en	Destroyer
 
@@ -1904,6 +2101,8 @@ Destructor
 frDestructeur
 
 jaデストロイヤー
+
+plNiszczyciel
 
 pt
 Destruidor
@@ -1921,7 +2120,7 @@ Destruidor
 enAMX 50 Foch Destroyer
 (
 ru"AMX 50 Foch Истребитель
-�����
+�����
 
 enHeritage
 
@@ -1931,6 +2130,8 @@ Patrimonio
 fr	Héritage
 
 ja遺産
+
+plDziedzictwo
 
 ptHerança
 
@@ -1947,7 +2148,7 @@ $
 enChieftain/T95 Heritage
 $
 ruChieftain/T95 Наследие
-�����
+�����
 
 enIndependence
 
@@ -1956,6 +2157,8 @@ $
 frIndépendance
 !
 jaインディペンデンス
+
+plNiepodległość
 
 ptIndependência
  
@@ -1968,7 +2171,7 @@ $
 enT28 HTC Independence"
 
 enT28 HTC Independence
-�����
+�����
 
 enClan Guardian
 
@@ -1977,6 +2180,8 @@ $
 frGardien du clan
 
 jaクランの守護者
+
+plStrażnik klanu
 
 ptGuardião do Clã
 #
@@ -1993,7 +2198,7 @@ $
 enIS-5 Guardian
 
 ruИС-5 Хранитель
-�����
+�����
 
 enLegend of Battles
 
@@ -2002,6 +2207,8 @@ $
 frLégende des batailles
 
 ja戦いの伝説
+
+plBitewna legenda
 
 ptLendas das Batalhas
 %
@@ -2018,11 +2225,13 @@ $
 enIS-6 Legend
 
 ruИС-6 Легенда
-�����
+�����
 
 enImperturbable
 
 ja冷静沈着
+
+plNiewzruszony
 
 ptImperturbável
  
@@ -2039,7 +2248,7 @@ $
 enIS-2Sh Imperturbable
 )
 ru#ИС-2Ш Непоколебимый
-����y
+�����
 
 en	Shrieking
 
@@ -2048,6 +2257,8 @@ $
 frHurlant
 
 ja叫喚
+
+pl	Grzmiący
 
 ruРевущий
 
@@ -2062,7 +2273,7 @@ $
 enM4A3E8 Shrieking
 
 ruM4A3E8 Ревущий
-�����
+�����
 
 enLiberty
 
@@ -2071,6 +2282,8 @@ $
 frLiberté
 
 jaリバティ
+
+pl	Wolność
 
 pt	Liberdade
 
@@ -2087,7 +2300,7 @@ $
 enAMX CDC Liberty
 &
 ru AMX CDC Освободитель
-�����
+�����
 
 enVeteran
 
@@ -2096,6 +2309,8 @@ $
 fr	Vétéran
 
 ja	古参兵
+
+plWeteran
 
 ptVeterano
 
@@ -2112,7 +2327,7 @@ $
 enAMX 50 B Veteran
 
 ruAMX 50 B Ветеран
-�����
+�����
 
 enAdamant
 
@@ -2122,6 +2337,8 @@ $
 Inflexible
 
 ja堅牢
+
+plTwardy
 
 pt
 Adamantium
@@ -2139,7 +2356,7 @@ $
 enSTB-1 Adamant
 $
 ruSTB-1 Несокрушимый
-�����
+�����
 
 enRebel
 
@@ -2148,6 +2365,8 @@ $
 frRebelle
 
 ja	反逆者
+
+pl	Buntownik
 
 ptRebelde
 
@@ -2164,7 +2383,7 @@ $
 enT110E5 Rebel
 
 ruT110E5 Бунтарь
-�����
+�����
 
 enMecha Phoenix
 
@@ -2173,6 +2392,8 @@ $
 frPhénix mécanique
 
 jaメカフェニックス
+
+plMecha Feniks
 +
 ru%Великолепный Феникс
 /
@@ -2187,7 +2408,7 @@ $
 enO-47 Phoenix
 
 ruO-47 Феникс
-�����
+�����
 
 enBattle-hardened
 
@@ -2196,6 +2417,8 @@ $
 frAguerri
 
 ja歴戦
+
+plZaprawiony w boju
 
 ptEndurecido em Batalha
 
@@ -2255,7 +2478,7 @@ Q�L�
 enGuP Type 95 Ha-Go"
 
 enGuP Type 95 Ha-Go
-����x
+�����
 
 
 enClaw
@@ -2265,6 +2488,8 @@ Q�L�
 frGriffe
 
 ja	クロー
+
+plPazur
 
 ptGarra
 
@@ -2290,13 +2515,15 @@ h�c�*
 enTiger I Gamescom"
 
 enTiger I Gamescom
-����o
+����~
 
 enValor
 
 frBravoure
 
 ja武勇
+
+plMęstwo
 
 ruДоблестный
 
@@ -2311,7 +2538,7 @@ h�c�*
 en	M36 Valor
 
 ruM36 Доблестный
-�����
+�����
 
 enNomad
 
@@ -2320,6 +2547,8 @@ h�c�*
 frNomade
 
 ja	ノマド
+
+plNomada
 
 ptNômade
 
@@ -2336,7 +2565,7 @@ h�c�*
 enT23E3 Nomad
 
 ruТ23Е3 Странник
-�����
+�����
 
 enSlashing
 
@@ -2346,6 +2575,9 @@ h�c�*
 Déchirant
 
 ja一網打尽
+
+pl
+Drapieżny
 
 pt
 Devastador
@@ -2359,7 +2591,7 @@ Devastador
 enCromwell Football"
 
 enCromwell Football
-�����
+�����
 
 enFierce
 
@@ -2368,6 +2600,8 @@ Devastador
 frFéroce
 
 ja獰猛
+
+plDziki
 
 pt
 Ferocidade
@@ -2386,7 +2620,7 @@ Ferocidade
 enKV-1S Football
 
 ruКВ-1С Football
-�����
+�����
 
 en
 Victorious
@@ -2398,6 +2632,9 @@ Victorioso
 Victorieux
 
 ja	勝利者
+
+pl
+Zwycięski
 
 pt	Vitorioso
 
@@ -2471,13 +2708,16 @@ M�H�
 enPz.Kpfw. IV (-o-)"
 
 enPz.Kpfw. IV (-o-)
-����j
+����v
 
 enDragon
 
 esDragón
 	
 ja竜
+
+
+plSmok
 
 ptDragão
 
@@ -2501,7 +2741,7 @@ M�H�
 enShinobi"
 
 enShinobi
-�����
+�����
 
 enNumber 1
 
@@ -2510,6 +2750,8 @@ M�H�
 fr	Numéro 1
 
 jaナンバー 1
+
+plNumer 1
 
 pt	Número 1
 
@@ -2538,7 +2780,7 @@ t�o�>
 enType 59 Ding"
 
 enType 59 Ding
-�����
+�����
 
 en
 Invincible
@@ -2547,6 +2789,9 @@ Invincible
 Invencible
 
 ja無敵
+
+pl
+Nietykalny
 
 ptInvencível
 
@@ -2563,7 +2808,7 @@ Invencible
 en121B Invincible
 
 ru121B Неуязвимый
-�����
+�����
 
 enGolden Carp
 
@@ -2573,6 +2818,8 @@ Invencible
 Carpe d'or
 
 ja金鯉
+
+plZłoty karp
 
 ptCarpa Dourada
 
@@ -2581,7 +2828,7 @@ Carpe d'or
 ukЗолотий короп
 
 zh锦鲤
-�����
+�����
 
 enBlack Dragon
 
@@ -2590,6 +2837,8 @@ Carpe d'or
 frDragon noir
 
 ja黒龍
+
+plCzarny smok
 
 ptDragão Negro
 
@@ -2598,7 +2847,7 @@ Carpe d'or
 ukЧорний дракон
 
 zh黑龙
-�����
+�����
 
 enAncient Relic
 
@@ -2607,6 +2856,8 @@ Carpe d'or
 frRelique antique
 	
 ja寿
+
+plStarożytny relikt
 
 ptRelíquia Antiga
 %
@@ -2615,7 +2866,7 @@ Carpe d'or
 uk%Стародавня реліквія
 	
 zh寿
-�����
+�����
 
 enWoodland Ranger
 
@@ -2624,6 +2875,8 @@ Carpe d'or
 frGarde-forestier
 
 ja	潜伏者
+
+plStrażnik lasu
 
 ptGuarda Florestal
 #
@@ -2632,7 +2885,7 @@ Carpe d'or
 uk#Лісовий мандрівник
 
 zh	潜伏者
-�����
+�����
 
 enFearless Gunner
 
@@ -2641,6 +2894,8 @@ Carpe d'or
 frTireur intrépide
 
 ja恐れ知らずの砲手
+ 
+plNieustraszony artylerzysta
 
 ptAtirador Destemido
 %
@@ -2657,7 +2912,7 @@ Carpe d'or
 enT-62A Fearless
 
 ruТ-62А Отважный
-�����
+�����
 
 enWarrior
 
@@ -2666,6 +2921,8 @@ Carpe d'or
 frGuerrier
 
 jaウォリアー
+
+plWojownik
 
 pt	Guerreiro
 
@@ -2680,7 +2937,7 @@ T34 Falcon"
 
 en
 T34 Falcon
-�����
+�����
 
 enCovert Threat
 
@@ -2689,6 +2946,8 @@ T34 Falcon
 frMenace secrète
 
 ja隠れた脅威
+
+plZakulisowe zagrożenie
 
 ptAmeaça Encoberta
 !
@@ -2708,7 +2967,7 @@ T34 Falcon
 ��
 
 enWG Fest
-����w
+�����
 
 
 enBear
@@ -2719,6 +2978,8 @@ T34 Falcon
 frOurs
 
 ja	ベアー
+
+plNiedźwiedź
 
 
 ptUrso
@@ -2736,7 +2997,7 @@ T34 Falcon
 en	IS-3 Bear
 
 ruИС-3 Медведь
-�����
+�����
 
 enSteel Predator
 
@@ -2745,6 +3006,8 @@ T34 Falcon
 frPrédateur d'acier
 
 ja鋼鉄の捕食者
+
+plStalowy drapieżnik
 
 ptPredador de Aço
 #
@@ -2757,7 +3020,7 @@ T34 Falcon
 enMaus 313"
 
 enMaus 313
-�����
+�����
 
 enSteppe Snowstorm
 
@@ -2766,6 +3029,8 @@ T34 Falcon
 frTempête de neige
 
 ja大草原の雪嵐
+
+plStepowa śnieżyca
 
 ptEstepe Tempestade de Neve
 
@@ -2774,7 +3039,7 @@ T34 Falcon
 ukСтеповий буревій
 
 zh草原暴风雪
-�����
+�����
 
 en	Predatory
 
@@ -2785,6 +3050,9 @@ Predatorio
 Prédateur
 
 ja捕食
+
+pl
+Drapieżny
 
 ptPredatório
 
@@ -2802,7 +3070,7 @@ Prédateur
 enT26E4 Predator
 
 ruT26E4 Хищник
-�����
+�����
 
 enFire Sentinel
 
@@ -2812,6 +3080,8 @@ Prédateur
 $
 jaファイア・センチネル
 
+plOgnisty Strażnik
+
 ptSentinela de Fogo
 !
 ruОгненный страж
@@ -2819,7 +3089,7 @@ $
 uk#Вогняний охоронець
 
 zh	消防车
-�����
+�����
 
 en	Legionary
 
@@ -2829,6 +3099,9 @@ Legionario
 frLégionnaire
 
 jaローマ軍団兵
+
+pl
+Legionista
 
 pt	Lendário
 
@@ -2845,7 +3118,7 @@ Legionario
 enMaus Legionary
 
 ruMaus Легионер
-�����
+�����
 
 enProfessional Blue
 
@@ -2854,6 +3127,8 @@ Legionario
 frProfessionnel bleu
 -
 ja'プロフェッショナル・ブルー
+
+plNiebieski Profesjonalista
 
 ptAzul Profissional
 1
@@ -2862,7 +3137,7 @@ Legionario
 uk!Професійний Синій
 
 zh	职业蓝
-�����
+�����
 
 enProfessional Orange
 
@@ -2871,6 +3146,8 @@ Legionario
 frProfessionnel orange
 0
 ja*プロフェッショナル・オレンジ
+#
+plPomarańczowy Profesjonalista
 
 ptLaranja Profissional
 9
@@ -2879,7 +3156,7 @@ Legionario
 uk)Професійний Оранжевий
 
 zh	职业橙
-�����
+�����
 
 enReliant Cover
 
@@ -2888,6 +3165,8 @@ Legionario
 frCouverture fiable
 
 ja救いの盾
+
+plBezpieczna przystań
 
 ptCobertura Confiante
 )
@@ -2904,7 +3183,7 @@ Legionario
 enLöwe Reliant
 
 ruLöwe Надёжный
-�����
+�����
 
 enRating Camo
 !
@@ -2913,6 +3192,8 @@ Legionario
 frCamouflage de cote
 
 jaレーティング迷彩
+
+plKamuflaż rankingowy
 #
 ptCamuflagem de Classificação
 
@@ -2921,7 +3202,7 @@ Legionario
 ukРейтинговий
 
 zh排名涂装
-�����
+�����
 #
 enTournament Spring Season Camo
 $
@@ -2930,6 +3211,8 @@ $
 fr1Camouflage de la saison printanière des tournois
 ;
 ja5トーナメント: スプリングシーズン迷彩
+,
+pl&Kamuflaż turniejowy Wiosennego Sezonu
 5
 pt/Camuflagem do Torneio da Temporada de Primavera
 5
@@ -2938,7 +3221,7 @@ $
 uk/Турнірний. Весняний сезон
 
 zh春季联赛涂装
-�����
+�����
 
 en	Iron Will
 
@@ -2947,6 +3230,8 @@ $
 frVolonté de fer
 
 ja鋼の意思
+
+plŻelazna Wola
 
 ptVontade de Ferro
 '
@@ -2955,7 +3240,7 @@ $
 ukЗалізна витримка
 
 zh钢铁意志
-�����
+�����
 
 enOxidized Metal
 
@@ -2964,6 +3249,8 @@ $
 frMétal oxydé
 
 ja酸化金属
+
+plZaśniedziały
 
 ptMetal Enferrujado
 '
@@ -2972,7 +3259,7 @@ $
 ukОкислений метал
 
 zh生锈的金属
-�����
+�����
 
 enTime-tested
 
@@ -2981,6 +3268,8 @@ $
 frÉprouvé par le temps
 
 ja実績
+
+plDoświadczony
 
 ptTestado
 -
@@ -2989,7 +3278,7 @@ $
 uk!Перевірений часом
 
 zh久经考验
-�����
+�����
 
 enUnexpectable
 
@@ -2998,6 +3287,8 @@ $
 fr	Inattendu
 
 ja予測不能
+
+plNiespodziewanka
 
 pt
 Inesperado
@@ -3007,7 +3298,7 @@ $
 uk Непередбачуваний
 
 zh无法预料
-�����
+�����
 
 enChaser
 
@@ -3016,6 +3307,8 @@ $
 frTraqueur
 
 jaチェイサー
+
+plŚcigacz
 
 ptPerseguidor
 
@@ -3032,7 +3325,7 @@ $
 enObject 268 Chaser
 %
 ruОбъект 268 Охотник
-�����
+�����
 
 enMenacing
 
@@ -3042,6 +3335,8 @@ Amenazante
 fr	Menaçant
 
 ja威嚇
+
+plGroźny
 
 ptAmeaça
 
@@ -3061,7 +3356,7 @@ Amenazante
 ��
 
 enLiberté
-�����
+�����
 
 enForest Shadow
 
@@ -3070,6 +3365,8 @@ Amenazante
 frOmbre de la forêt
 
 ja	森の闇
+
+plLeśny Cień
 
 ptSombra da Floresta
 
@@ -3078,7 +3375,7 @@ Amenazante
 ukЛісова тінь
 
 zh森林之影
-�����
+�����
 
 enGlorious Eagle
 
@@ -3087,6 +3384,8 @@ Amenazante
 frAigle glorieux
 
 ja栄光のワシ
+
+plChlubny Orzeł
 
 ptÁguia Gloriosa
 
@@ -3095,7 +3394,7 @@ Amenazante
 ukГордий орел
 
 zh荣耀之鹰
-�����
+�����
 
 enFearless Lion
 
@@ -3104,6 +3403,8 @@ Amenazante
 frLion intrépide
 
 ja大胆なライオン
+
+plNieustraszony Lew
 
 ptLeão Destemido
 
@@ -3112,7 +3413,7 @@ Amenazante
 ukЗухвалий лев
 
 zh无畏雄狮
-�����
+�����
 
 en
 Wise Raven
@@ -3122,6 +3423,8 @@ Wise Raven
 frCorbeau sage
 
 ja神知のカラス
+
+plRoztropny Kruk
 
 ptCorvo Sábio
 
@@ -3130,7 +3433,7 @@ Wise Raven
 ukМудрий крук
 
 zh睿智渡鸦
-�����
+�����
 
 enFierce Beak
 
@@ -3140,6 +3443,8 @@ Pico feroz
 frBec féroce
 
 ja獰猛なクチバシ
+
+plZaciekły Dziób
 
 pt
 Bico Feroz
@@ -3149,7 +3454,7 @@ Bico Feroz
 ukГрізний дзьоб
 
 zh凶猛之喙
-�����
+�����
 
 enSharp Spurs
 
@@ -3158,6 +3463,8 @@ Bico Feroz
 frErgots acérés
 
 ja鋭利なケヅメ
+
+plCięte Ostrogi
 
 ptEsporas Afiadas
 
@@ -3173,7 +3480,7 @@ U�P�
 enChieftain Mk. 6 Royal"
 
 enChieftain Mk. 6 Royal
-�����
+�����
 
 enStinging
 
@@ -3182,6 +3489,8 @@ U�P�
 frPiquant
 
 ja猛毒の針
+
+plZajadły
 
 ptPicador
 
@@ -3198,7 +3507,7 @@ U�P�
 enSkorpion G Stinging
 
 ruSkorpion G Жалящий
-�����
+�����
 
 enHunter
 
@@ -3207,6 +3516,8 @@ U�P�
 frChasseur
 
 jaハンター
+
+plŁowca
 
 ptCaçador
 
@@ -3223,7 +3534,7 @@ U�P�
 enISU-152 Hunter
 !
 ruИСУ-152 Зверобой
-�����
+�����
 
 enStrong-willed
 
@@ -3232,6 +3543,9 @@ U�P�
 frDéterminé
 
 ja固い決意
+
+pl
+Silna wola
 
 ptTeimoso
 
@@ -3240,7 +3554,7 @@ U�P�
 ukСильний духом
 
 zh坚强意志
-�����
+�����
 
 en
 Pixel Wave
@@ -3250,6 +3564,8 @@ Pixel Wave
 frVague de pixels
 
 jaピクセルウェーブ
+
+plFala pikseli
 
 ptOnda de Pixels
 %
@@ -3258,7 +3574,7 @@ Pixel Wave
 ukПіксельна хвиля
 
 zh	像素波
-�����
+�����
 
 enDigital Trace
 
@@ -3267,6 +3583,8 @@ Pixel Wave
 frEmpreinte digitale
 (
 ja"デジタル フットプリント
+
+plCyfrowy ślad
 
 ptPegada Digital
 
@@ -3275,7 +3593,7 @@ Pixel Wave
 ukЦифровий слід
 
 zh数字足迹
-�����
+�����
 
 en
 Spooky Web
@@ -3285,6 +3603,8 @@ Spooky Web
 frToile sinistre
 
 ja不気味なクモの巣
+
+plStraszna pajęczyna
 
 ptTeia Assustadora
 %
@@ -3293,7 +3613,7 @@ Spooky Web
 uk#Павутанкові тенета
 
 zh	幽灵网
-�����
+�����
 
 enPumpkin Mayhem
 
@@ -3302,6 +3622,8 @@ Spooky Web
 frCitrouilles en pagaille
 !
 jaパンプキン・カオス
+
+plDyniowe piekło
 
 ptO Caos da Abóbora
 #
@@ -3310,7 +3632,7 @@ Spooky Web
 ukГарбузовий заміс
 
 zh南瓜暴乱
-�����
+�����
 
 enTrue Challenger
 
@@ -3319,6 +3641,8 @@ Spooky Web
 frVéritable compétiteur
 
 ja真の挑戦者
+
+plPrawdziwy zawodnik
 
 ptVerdadeiro Desafiante
 
@@ -3336,7 +3660,7 @@ V�Q�L
 ja世界の頂点!
 
 zhYou Rock！
-�����
+�����
 
 enJade Shards
 
@@ -3345,6 +3669,8 @@ V�Q�L
 frÉclats de jade
 
 jaヒスイのかけら
+
+plOdłamki jadeitu
 
 ptEstilhaços de Jade
 )
@@ -3353,7 +3679,7 @@ V�Q�L
 ukНефритові уламки
 
 zh碎玉
-�����
+�����
 
 enTactical Shield
 
@@ -3362,6 +3688,8 @@ V�Q�L
 frBouclier tactique
 
 ja戦術の盾
+
+plTarcza taktyczna
 
 ptEscudo Tático
 #
@@ -3370,7 +3698,7 @@ V�Q�L
 ukТактичний щит
 
 zh	战术盾
-�����
+�����
 
 en	Ice Block
 
@@ -3379,6 +3707,8 @@ V�Q�L
 frBloc de glace
 
 ja塊氷
+
+pl	Blok lodu
 
 ptBloco de Gelo
 
@@ -3387,7 +3717,7 @@ V�Q�L
 ukКрижана брила
 
 zh冰柱
-�����
+�����
 
 enDemon's Soul
 
@@ -3396,6 +3726,8 @@ V�Q�L
 frÂme de démon
 
 ja悪魔の魂
+
+plDusza demona
 
 ptAlma do Demônio
 
@@ -3404,7 +3736,7 @@ V�Q�L
 ukДуша демона
 
 zh恶魔之魂
-�����
+�����
 
 en
 Nine Lives
@@ -3414,6 +3746,8 @@ Nine Lives
 fr	Neuf vies
 
 ja強運
+
+plDziewięć żyć
 
 pt
 Nove Vidas
@@ -3431,7 +3765,7 @@ F�A�
 enPanzer 58 Mutz"
 
 enPanzer 58 Mutz
-�����
+�����
 
 enCold-blooded
 
@@ -3440,6 +3774,9 @@ F�A�
 frÀ sang froid
 
 ja冷血
+
+pl
+Zimna krew
 
 ptSangue Frio
 #
@@ -3448,7 +3785,7 @@ F�A�
 uk%Холодний розрахунок
 
 zh冷血
-�����
+�����
 
 enFrozen Flame
 
@@ -3457,6 +3794,8 @@ F�A�
 frFlamme givrée
 
 ja凍った炎
+
+plZastygnięty płomień
 
 ptChama Congelada
 #
@@ -3465,7 +3804,7 @@ $
 ukЗастигле полум'я
 
 zh冰冻火焰
-�����
+�����
 
 enGlacial Armor
 
@@ -3475,6 +3814,8 @@ $
 
 ja氷河の装甲
 
+plLodowcowy pancerz
+
 ptBlindagem Glacial
 !
 ruЛедяной доспех
@@ -3482,7 +3823,7 @@ $
 uk#Крижаний обладунок
 
 zh冰川装甲
-�����
+�����
 
 enHellfire
 
@@ -3491,6 +3832,8 @@ $
 frFeux de l'enfer
 
 ja業火
+
+plOgień piekielny
 
 ptFogo do Inferno
 !
@@ -3507,7 +3850,7 @@ $
 enT-44-100 Hellfire
  
 ruТ-44-100 Огненный
-�����
+�����
 
 enUncatchable
 
@@ -3516,6 +3859,8 @@ $
 frInsaisissable
 
 ja捕獲不能
+
+plNieuchwytny
 
 ptIncapturável
 
@@ -3532,7 +3877,7 @@ $
 enT-22 Uncatchable
  
 ruТ-22 Неуловимый
-�����
+�����
 
 enSkilled
 
@@ -3542,6 +3887,8 @@ $
 Talentueux
 
 ja	熟練者
+
+plZręczny
 
 pt
 Habilidoso
@@ -3559,7 +3906,7 @@ Habilidoso
 enIS-4 Skilled
 
 ruИС-4 Опытный
-�����
+�����
 
 enTectonic
 
@@ -3570,6 +3917,8 @@ Tectónico
 Tectonique
 
 ja地殻変動
+
+plTektoniczny
 
 pt
 Tectônico
@@ -3579,7 +3928,7 @@ Tectônico
 ukТектонічний
 
 zh	构造学
-�����
+�����
 
 enExceptional Fighter
 
@@ -3588,6 +3937,8 @@ Tectônico
 frCombattant exceptionnel
 
 ja格別の戦士
+
+plWyjątkowy wojownik
 
 ptLutador Excepcional
 +
@@ -3604,13 +3955,15 @@ Tectônico
 enT-44 Exceptional
 (
 ru"Т-44 Исключительный
-����m
+�����
 
 en	Celestial
 
 frCéleste
 
 ja天空
+
+plNiebiański
 
 ruНебесный
 
@@ -3651,7 +4004,7 @@ L�G�
 enGrille 15 RA1DER"
 
 enGrille 15 RA1DER
-�����
+�����
 
 en
 Rating Ace
@@ -3661,6 +4014,8 @@ Rating Ace
 frAs du classement
 $
 jaレーティング・エース
+
+plRankingowy as
 
 ptClassificação Ás
 +
@@ -3669,7 +4024,7 @@ $
 uk%Підкорювач рейтингу
 
 zh评级高手
-����}
+�����
 
 enOrigin
 
@@ -3678,6 +4033,8 @@ $
 frOrigine
 
 ja起源
+
+plPochodzenie
 
 ptOrigem
 
@@ -3695,7 +4052,7 @@ $
 enT-54 mod. 1 Origin
  
 ruТ-54 обр. 1 Исток
-�����
+�����
 
 
 enWild
@@ -3705,6 +4062,8 @@ $
 frSauvage
 
 jaワイルド
+
+plDziki
 
 ptSelvagem
 
@@ -3726,7 +4085,7 @@ $
 ��
 
 enOzzie
-�����
+�����
 
 enDesert Wind
 
@@ -3735,6 +4094,8 @@ $
 frVent du désert
 
 ja砂漠の風
+
+plPustynny wiatr
 
 ptVento do Deserto
 
@@ -3743,7 +4104,7 @@ $
 ukВітер пустелі
 
 zh沙漠之风
-�����
+�����
 
 enCrimson Fury
 
@@ -3752,6 +4113,8 @@ $
 frFurie cramoisie
 
 ja紅の怒り
+
+plSzkarłatna furia
 
 ptFúria Carmesim
 #
@@ -3760,7 +4123,7 @@ $
 ukБагряна лють
 
 zh绯红之怒
-�����
+�����
 
 enHardy
 
@@ -3771,6 +4134,8 @@ Resistente
 Résistant
 
 ja強靭
+
+plWytrzymały
 
 pt
 Resistente
@@ -3780,7 +4145,7 @@ Resistente
 ukЖивучий
 
 zh坚韧
-�����
+�����
 
 enFrozen Soil
 
@@ -3789,6 +4154,8 @@ Resistente
 fr	Sol gelé
 
 ja凍土
+
+plZmrożona ziemia
 
 ptSolo Congelado
 
@@ -3797,11 +4164,14 @@ Resistente
 ukМерзла земля
 
 zh冻土
-i�d�_
+u�p�k
 
 enOasis
 
 jaオアシス
+
+
+plOaza
 
 ptOásis
 
@@ -3811,7 +4181,7 @@ i�d�_
 ukОаза
 
 zh绿洲
-�����
+�����
 
 enHexagons
 
@@ -3821,6 +4191,8 @@ Hexágonos
 fr	Hexagones
 
 jaヘキサゴン
+
+plSześciokąty
 
 pt
 Hexágonos
@@ -3830,7 +4202,7 @@ Hexágonos
 ukГексагони
 
 zh	六边形
-�����
+�����
 
 enGreen Mamba
 
@@ -3840,6 +4212,8 @@ Hexágonos
 Mamba vert
 
 jaグリーンマンバ
+
+plZielona mamba
 
 ptMamba Verde
 
@@ -3848,7 +4222,7 @@ Mamba vert
 ukЗелена мамба
 
 zh	绿曼巴
-�����
+�����
 
 enCarbon
 
@@ -3857,6 +4231,8 @@ Mamba vert
 frCarbone
 
 jaカーボン
+
+plKarbon
 
 ptCarbono
 
@@ -3865,7 +4241,7 @@ Mamba vert
 ukКарбон
 	
 zh碳
-�����
+�����
 
 enRadiant Energy
 
@@ -3874,6 +4250,8 @@ Mamba vert
 frÉnergie rayonnante
 
 ja放射エネルギー
+
+plEnergia promienista
 
 ptEnergia Radiante
 
@@ -3882,7 +4260,7 @@ Mamba vert
 ukЕнергія світла
 
 zh	辐射能
-�����
+�����
 
 enGolden Warrior
 
@@ -3891,6 +4269,8 @@ Mamba vert
 frGuerrier doré
 
 ja黄金の侍
+
+plZłoty wojownik
 
 ptGuerreiro Dourado
 
@@ -3899,7 +4279,7 @@ Mamba vert
 ukЗолотий воїн
 
 zh	执金吾
-�����
+�����
 
 en
 Black Tide
@@ -3909,6 +4289,8 @@ Black Tide
 frMarée noire
 
 ja黒潮
+
+plCzarny przypływ
 
 ptMaré Negra
 !
@@ -3917,13 +4299,15 @@ Black Tide
 ukТемна течія
 
 zh黑潮
-|�w�r
+�����
 
 enGraphite
 
 esGrafito
 
 ja黒鉛
+
+plGrafit
 
 ptGrafite
 
@@ -3939,7 +4323,7 @@ E�@�
 enBadger, Esq."
 
 enBadger, Esq.
-�����
+�����
 
 enHornet
 
@@ -3948,6 +4332,8 @@ E�@�
 frFrelon
 
 jaスズメバチ
+
+pl	Szerszeń
 
 ptVespa
 
@@ -3966,7 +4352,7 @@ T49 Hornet
 T49 Hornet
 
 ruT49 Шершень
-�����
+�����
 
 enReal Fighter
 
@@ -3975,6 +4361,8 @@ T49 Hornet
 frVéritable combattant
 
 ja真の兵士
+
+plPrawdziwy wojownik
 
 ptLutador Real
 !
@@ -3983,7 +4371,7 @@ T49 Hornet
 ukСправжній боєць
 
 zh	真斗士
-�����
+�����
 
 enStars and Stripes
 
@@ -3992,6 +4380,8 @@ T49 Hornet
 frBannière étoilée
 
 ja星とストライプ
+
+plGwiazdy i pasy
 
 ptEstrelas e Listras
 '
@@ -4000,19 +4390,21 @@ T49 Hornet
 ukЗоряно-смугастий
 
 zh	星条旗
-w�r�m
+�����
 
 enBlitz
 
 es
 Relámpago
+
+plBłyskawiczny
 
 ruМолниеносный
 
 ukБлискавичний
 
 zh闪电
-�����
+�����
 
 enThunder and Lightning
 
@@ -4021,6 +4413,8 @@ Relámpago
 frTonnerre et éclair
 
 ja雷と稲妻
+
+plGrzmot i błyskawica
 
 ptTrovão e Relâmpago
 
@@ -4032,7 +4426,7 @@ $
 ��
 
 en血色暗夜
-�����
+�����
 
 enBronze Warrior
 
@@ -4041,6 +4435,8 @@ $
 frGuerrier de bronze
 
 ja銅の戦士
+
+plWojownik z brązu
 
 ptGuerreiro de Bronze
 
@@ -4076,7 +4472,7 @@ $
 en59-Patton Aratinga
  
 ru59-Patton Аратинга
-�����
+�����
 
 enTopsy-Turvy
 
@@ -4086,6 +4482,8 @@ $
 Vice-versa
 $
 jaトプシー・ターヴィー
+
+plDruga Strona
 
 ptMundo Invertido
 %
@@ -4120,7 +4518,7 @@ $
 enProgetto 65 Gladiator
 $
 ruProgetto 65 Гладиатор
-�����
+�����
 
 enArea 52
 
@@ -4129,6 +4527,8 @@ $
 frZone 52
 
 jaエリア 52
+
+pl	Strefa 52
 
 ptÁrea 52
 
@@ -4137,7 +4537,7 @@ $
 ukЗона 52
 
 zh52区
-����p
+����~
 
 enEagle
 
@@ -4146,6 +4546,8 @@ $
 frAigle
 	
 ja鷹
+
+plOrzeł
 
 ptÁguia
 
@@ -4162,7 +4564,7 @@ $
 enE 75 TS Eagle
 
 ruE 75 TS Орёл
-�����
+�����
 
 enHeatwave
 
@@ -4171,6 +4573,9 @@ $
 frVague de chaleur
 
 ja熱波
+
+pl
+Letni żar
 
 ptOnda de Calor
 
@@ -4179,7 +4584,7 @@ $
 ukЛітня спека
 
 zh热浪
-�����
+�����
 
 en	Tree Bark
 
@@ -4188,6 +4593,8 @@ $
 frÉcorce d'arbre
 
 ja樹皮
+
+plKora drzewa
 
 ptCasca de Árvore
 !
@@ -4196,7 +4603,7 @@ $
 ukКора дерева
 
 zh树皮
-�����
+�����
 
 enWinter Steppe
 
@@ -4205,6 +4612,8 @@ $
 frSteppe hivernale
 
 ja冬の草原
+
+plStep zimowy
 
 ptEstepe de Inverno
 
@@ -4213,7 +4622,7 @@ $
 ukЗимовий степ
 
 zh冬季草原
-�����
+�����
 
 en
 Ice Mosaic
@@ -4223,6 +4632,8 @@ Ice Mosaic
 frMosaïque de glace
 
 jaアイスモザイク
+
+plLodowa mozaika
 
 ptMosaico de Gelo
 #
@@ -4231,7 +4642,7 @@ Ice Mosaic
 ukКрижана мозаїка
 
 zh冰冻马赛克
-�����
+�����
 
 enSun-scorched
 
@@ -4241,6 +4652,8 @@ Ice Mosaic
 
 ja灼熱
 
+plSpalony słońcem
+
 ptQueimado pelo Sol
 '
 ru!Выжженный солнцем
@@ -4248,7 +4661,7 @@ Ice Mosaic
 ukВипалений сонцем
 
 zh太阳炙烤
-�����
+�����
 
 enBronze Green
 
@@ -4257,6 +4670,8 @@ Ice Mosaic
 frVert bronze
 
 jaブロンズグリーン
+
+plBrązowo-zielony
 
 ptVerde Bronze
 %
@@ -4265,7 +4680,7 @@ Ice Mosaic
 ukБронзова зелень
 
 zh	青铜绿
-�����
+�����
 
 enTiger Stripes
 
@@ -4274,6 +4689,8 @@ Ice Mosaic
 frRayures de tigre
 
 ja	虎模様
+
+plTygrysie pasy
 
 ptListras de Tigre
 !
@@ -4282,13 +4699,15 @@ Ice Mosaic
 uk%Тигрове забарвлення
 
 zh虎斑
-����o
+����}
 
 enSheriff
 
 frShérif
 
 ja	保安官
+
+plSzeryf
 
 ptXerife
 
@@ -4307,7 +4726,7 @@ Ice Mosaic
 enT26E5 Sheriff
 
 ruT26E5 Шериф
-�����
+�����
 
 enFurious
 
@@ -4316,6 +4735,9 @@ Ice Mosaic
 frFurieux
 
 ja逆上
+
+pl
+Wściekły
 
 ptFurioso
 
@@ -4332,7 +4754,7 @@ Ice Mosaic
 enP.44 Pantera Furious
 
 ruP.44 Pantera Резвый
-�����
+�����
 
 enLucky
 
@@ -4342,6 +4764,8 @@ Afortunado
 frChanceux
 
 ja幸運
+
+plSzczęściarz
 
 ptSortudo
 
@@ -4358,7 +4782,7 @@ Afortunado
 enWZ-113G FT Lucky
 #
 ruWZ-113G FT Удачливый
-�����
+�����
 
 en	Two-faced
 
@@ -4367,6 +4791,8 @@ Afortunado
 frDeux visages
 
 ja二つの顔
+
+plDwuobliczny
 
 pt
 Duas Caras
@@ -4384,7 +4810,7 @@ Duas Caras
 enDracula Two-faced
 %
 ruДракула Двуликий
-�����
+�����
 
 enPumpkin Spice
 
@@ -4393,6 +4819,8 @@ Duas Caras
 frÉpices à citrouille
 !
 jaパンプキンスパイス
+
+plDyniowa przyprawa
 
 ptTempero de Abóbora
 
@@ -4401,7 +4829,7 @@ Duas Caras
 ukГарбузопад
 
 zh南瓜入侵
-�����
+�����
 
 enScary Swarm
 
@@ -4410,6 +4838,8 @@ Duas Caras
 frNuée effrayante
 
 ja恐怖の群れ
+
+plStraszny rój
 
 ptEnxame Assustador
 
@@ -4418,7 +4848,7 @@ Duas Caras
 ukМоторошна зграя
 
 zh恐怖蝠群
-�����
+�����
 
 en
 Spidertrap
@@ -4428,6 +4858,8 @@ Spidertrap
 frPiège d'araignée
 
 ja蜘蛛の罠
+
+plPułapka na pająki
 
 ptTeia de Aranha
 
@@ -4445,7 +4877,7 @@ d�_�&
 enFCM 50 t Twister"
 
 enFCM 50 t Twister
-�����
+�����
 
 enKnight
 
@@ -4454,6 +4886,8 @@ d�_�&
 fr	Chevalier
 
 ja騎士
+
+plRycerz
 
 pt	Cavaleiro
 
@@ -4471,7 +4905,7 @@ d�_�&
 enLycan Knight
 
 ruЛикан Рыцарь
-����x
+�����
 
 enRaven
 
@@ -4480,6 +4914,9 @@ d�_�&
 frCorbeau
 
 ja	カラス
+
+
+plKruk
 
 ptCorvo
 
@@ -4497,7 +4934,7 @@ d�_�&
 enHelsing Raven
 
 ruХелсинг Ворон
-�����
+�����
 
 enElemental Breath
 
@@ -4506,6 +4943,8 @@ d�_�&
 frSouffle des éléments
 
 ja自然の息吹
+
+plPierwiastkowe tchnienie
 
 ptSopro Elementar
 !
@@ -4514,7 +4953,7 @@ d�_�&
 ukПодих стихій
 
 zh元素吐息
-�����
+�����
 
 enOn the Edge
 
@@ -4525,6 +4964,8 @@ Al límite
 Sur le fil
 
 ja崖っぷち
+
+plNa krawędzi
 
 pt	No Limite
 
@@ -4533,7 +4974,7 @@ Sur le fil
 ukНа межі
 
 zh	临界点
-�����
+�����
 
 enRoaring
 
@@ -4542,6 +4983,8 @@ Sur le fil
 frRugissement
 
 ja咆哮
+
+plRyczący
 
 ptRugido
 
@@ -4558,7 +5001,7 @@ Sur le fil
 enE 50 M Roaring
 
 ruE 50 M Рычащий
-�����
+�����
 
 en	Top-Notch
 
@@ -4567,6 +5010,8 @@ Sur le fil
 frÀ la pointe
 
 ja一流
+
+plNajwyższej klasy
 
 ptTopo de Linha
 *
@@ -4575,7 +5020,7 @@ Sur le fil
 uk$На вершині рейтингу
 
 zh巅峰
-�����
+�����
 
 enBlooming Garden
 
@@ -4584,6 +5029,8 @@ Sur le fil
 frJardin fleuri
 
 ja宵の花園
+
+plKwitnący ogród
 
 ptJardim Florido
 
@@ -4592,7 +5039,7 @@ Sur le fil
 ukКвітучий сад
 
 zh茂盛花园
-�����
+�����
 
 enVerdant Meadow
 
@@ -4601,6 +5048,8 @@ Sur le fil
 frPrairie verdoyante
 
 ja緑の海原
+
+plBujna łąka
 
 ptPrado Verdejante
 #
@@ -4609,7 +5058,7 @@ $
 ukТрав'янисті луки
 
 zh葱郁草地
-�����
+�����
 
 en	Pink Iris
 
@@ -4618,6 +5067,8 @@ $
 fr	Iris rose
 
 ja春の饗宴
+
+plRóżowy irys
 
 pt
 Íris Rosa
@@ -4627,7 +5078,7 @@ $
 ukРожевий ірис
 
 zh粉红鸢尾
-�����
+�����
 
 enBlade
 
@@ -4637,6 +5088,8 @@ $
 frLame
 
 jaブレード
+
+plOstrze
 
 ptLâmina
 
@@ -4653,7 +5106,7 @@ $
 enVK 90.01 (P) Blade
 
 ruVK 90.01 (P) Клинок
-�����
+�����
 
 enCombat Star
 
@@ -4662,6 +5115,8 @@ $
 frÉtoile de combat
 
 ja戦闘の星
+
+plGwiazda bojowa
 
 ptEstrela de Combate
 
@@ -4678,7 +5133,7 @@ $
 enT110E4 Combat Star
 
 ruT110E4 Звёздный
-�����
+�����
 
 en	Evergreen
 
@@ -4687,6 +5142,8 @@ $
 frÀ feuilles persistantes
 
 ja常緑
+
+plWieczna zieleń
 
 ptSempre-Verde
 
@@ -4695,7 +5152,7 @@ $
 ukЯлинове гілля
 
 zh长青
-�����
+�����
 
 enGrandma's Gift
 
@@ -4704,6 +5161,8 @@ $
 frCadeau de grand-mère
 
 ja祖母の贈り物
+
+plPrezent od babci
 
 ptPresente da Vovó
 (
@@ -4712,7 +5171,7 @@ $
 uk&Подарунок від бабусі
 
 zh奶奶的礼物
-�����
+�����
 
 enStarlight Night
 
@@ -4721,6 +5180,8 @@ $
 frNuit étoilée
 
 ja星の輝く夜
+
+plGwieździsta noc
 
 ptCéu Estrelado
 
@@ -4729,7 +5190,7 @@ $
 ukЗоряна ніч
 
 zh星夜
-�����
+�����
 
 enFiery Serpent
 
@@ -4738,6 +5199,8 @@ $
 frSerpent ardent
 
 ja火炎大蛇
+
+plOgnisty wąż
 
 ptSerpente Ardente
 
@@ -4754,7 +5217,7 @@ $
 enWZ-111 5A Serpent
 
 ruWZ-111 5A Змей
-�����
+�����
 
 enPhantom
 
@@ -4763,6 +5226,8 @@ $
 frSpectre
 
 jaファントム
+
+plFantom
 
 ptFantasma
 
@@ -4801,7 +5266,7 @@ Sidewinder
 enSheridan Sidewinder
 
 ruSheridan Смерч
-�����
+�����
 
 enMolten Lava
 
@@ -4810,6 +5275,8 @@ Sidewinder
 frLave en fusion
 
 ja溶岩
+
+plStopiona lawa
 
 ptLava Derretida
 %
@@ -4818,7 +5285,7 @@ Sidewinder
 ukРозпечена лава
 
 zh熔岩
-�����
+�����
 
 enSinister Traces
 
@@ -4827,6 +5294,8 @@ Sidewinder
 frTraces sinistres
 
 ja邪悪な痕跡
+
+plZłowieszcze ślady
 
 ptTraços Sinistros
 !
@@ -4835,7 +5304,7 @@ Sidewinder
 ukЗловісні сліди
 
 zh邪痕
-�����
+�����
 
 enResolute
 
@@ -4844,6 +5313,8 @@ Sidewinder
 frDéterminé
 
 ja固い意志
+
+plNiezachwiany
 
 ptResoluto
 
@@ -4881,7 +5352,7 @@ Sidewinder
 enAction X Morpho
 
 ruAction X Морфо
-����{
+�����
 
 enSavage
 
@@ -4890,6 +5361,8 @@ Sidewinder
 frSauvage
 
 ja蛮人
+
+plDzikus
 
 ruСвирепый
 
@@ -4904,7 +5377,7 @@ Sidewinder
 enTiger II Savage
 
 ruTiger II Свирепый
-����u
+�����
 
 enSamurai
 
@@ -4913,6 +5386,8 @@ Sidewinder
 fr	Samouraï
 	
 ja侍
+
+plSamuraj
 
 ruСамурай
 
@@ -4927,7 +5402,7 @@ Sidewinder
 enHo-Ri Samurai
 
 ruHo-Ri Самурай
-�����
+�����
 
 enShady Grove
 
@@ -4936,6 +5411,8 @@ Sidewinder
 frBosquet ombragé
 
 ja	暗い林
+
+plZacieniony zagajnik
 
 ptBosque Sombrio
 
@@ -4944,7 +5421,7 @@ Sidewinder
 ukТінистий ліс
 
 zh林荫
-�����
+�����
 
 enVesuvio
 
@@ -4953,6 +5430,8 @@ Sidewinder
 frVésuve
 
 jaベズビオ
+
+pl	Wezuwiusz
 
 ptVesúvio
 
@@ -4961,7 +5440,7 @@ Sidewinder
 ukВезувій
 
 zh	维苏威
-�����
+�����
 
 en
 Aquamarine
@@ -4972,6 +5451,9 @@ Aguamarina
 frAigue-marine
 
 jaアクアマリン
+
+pl
+Akwamaryna
 
 ptVerde Água
 
@@ -4995,13 +5477,15 @@ Aguamarina
 ukАмазонія
 
 zh	亚马逊
-����h
+����v
 
 enScarface
 
 esCicatrizado
 
 ja顔の傷跡
+
+plBlizna
 
 ruШрам
 
@@ -5016,7 +5500,7 @@ Aguamarina
 enSU-130PM Scarface
 
 ruСУ-130ПМ Шрам
-�����
+�����
 
 enGalaxy
 
@@ -5025,6 +5509,8 @@ Aguamarina
 frGalaxie
 
 ja銀河
+
+pl	Galaktyka
 
 ptGaláxia
 
@@ -5033,7 +5519,7 @@ Aguamarina
 ukГалактика
 
 zh银河
-�����
+�����
 
 enVertigo
 
@@ -5042,6 +5528,8 @@ Aguamarina
 frVertiges
 
 ja	目まい
+
+plZawrót głowy
 
 ptVertigem
 
@@ -5050,7 +5538,7 @@ Aguamarina
 ukЗапаморочення
 
 zh眩晕
-����{
+�����
 
 enShark
 
@@ -5059,6 +5547,8 @@ Aguamarina
 frRequin
 	
 ja鮫
+
+plRekin
 
 ptTubarão
 
@@ -5084,13 +5574,15 @@ O�J�
 enSuper Conqueror Rex"
 
 enSuper Conqueror Rex
-�����
+�����
 
 en	Neon Rush
 
 esNeón cegador
 
 jaネオンラッシュ
+
+plNeonowy pęd
 
 ptNeon Agitado
 
@@ -5099,7 +5591,7 @@ O�J�
 ukНеонова мережа
 
 zh霓虹魅影
-�����
+�����
 
 en	Old Glory
 
@@ -5108,6 +5600,8 @@ O�J�
 frGloire passée
 
 ja古い栄光
+
+plDawna chwała
 
 ptGlória Americana
 '
@@ -5116,7 +5610,7 @@ O�J�
 uk#Доблесть минувшини
 
 zh	星条旗
-�����
+�����
 
 enVenomous Shock
 
@@ -5125,6 +5619,8 @@ O�J�
 frChoc venimeux
 
 ja毒のショック
+
+plJadowity wstrząs
 
 ptChoque Venenoso
 #
@@ -5133,7 +5629,7 @@ O�J�
 ukОтруйна безодня
 
 zh剧毒震荡
-�����
+�����
 
 enStellar Shine
 
@@ -5142,6 +5638,8 @@ O�J�
 frBrillance astrale
 
 ja星の輝き
+
+plGwiezdny połysk
 
 ptBrilho Estelar
 !
@@ -5150,7 +5648,7 @@ O�J�
 ukЗоряний дощ
 
 zh星耀
-�����
+�����
 
 enRising Fury
 
@@ -5159,6 +5657,8 @@ O�J�
 frFurie montante
 
 ja込み上げる怒り
+
+plRosnąca furia
 
 ptFúria Crescente
 )
@@ -5220,7 +5720,7 @@ Intrépido
 enT25 Intrepid
 
 ruT25 Храбрый
-�����
+�����
 
 
 enFlux
@@ -5228,13 +5728,15 @@ Intrépido
 esFlujo
 
 ja流動
+
+pl	Strumień
 '
 ru!Бесконечный поток
 )
 uk#Нескінченний потік
 
 zh熔剂
-�����
+�����
 
 enShattered Flames
 
@@ -5243,6 +5745,8 @@ Intrépido
 frFlammes brisées
 
 ja砕けた炎
+
+plStrzaskane płomienie
 
 ptFragmentos de Chamas
 %
@@ -5251,7 +5755,7 @@ Intrépido
 uk!Жевріючі полігони
 
 zh碎焰
-�����
+�����
 
 en
 Azure Maze
@@ -5261,6 +5765,8 @@ Azure Maze
 frDédale azur
 
 ja空色の迷路
+
+plLazurowy labirynt
 
 ptLabirinto Azure
 
@@ -5269,7 +5775,7 @@ Azure Maze
 ukЛазурова сітка
 
 zh蔚蓝迷宫
-�����
+�����
 
 enCyber Summer
 
@@ -5278,6 +5784,8 @@ Azure Maze
 frÉté cybernétique
 
 jaサイバー・サマー
+
+plCybernetyczne lato
 
 ptVerão Cyber
 
@@ -5286,7 +5794,7 @@ Azure Maze
 ukЛітній тріумф
 
 zh赛博之夏
-�����
+�����
 
 enCyber Winter
 
@@ -5295,6 +5803,8 @@ Azure Maze
 frHiver cybernétique
 $
 jaサイバー・ウィンター
+
+plCybernetyczna zima
 
 ptInverno Cyber
 
@@ -5303,7 +5813,7 @@ $
 ukЗимовий тріумф
 
 zh赛博之冬
-�����
+�����
 
 enCyber Spring
 
@@ -5312,6 +5822,8 @@ $
 frPrintemps cybernétique
 $
 jaサイバー・スプリング
+
+plCybernetyczna wiosna
 
 ptPrimavera Cyber
 #
@@ -5320,7 +5832,7 @@ $
 ukВесняний тріумф
 
 zh赛博之春
-�����
+�����
 
 en
 Cyber Fall
@@ -5330,6 +5842,8 @@ Cyber Fall
 frAutomne cybernétique
 !
 jaサイバー・フォール
+
+plCybernetyczna jesień
 
 ptOutono Cyber
 !
@@ -5338,7 +5852,7 @@ Cyber Fall
 ukОсінній тріумф
 
 zh赛博之秋
-�����
+�����
 
 en
 Code Chaos
@@ -5349,6 +5863,8 @@ Code Chaos
 Code chaos
 
 jaコード・カオス
+
+plChaotyczny kod
 
 ptCódigo Caos
 
@@ -5357,7 +5873,7 @@ Code chaos
 ukЦифрова буря
 
 zh混沌代码
-�����
+�����
 
 enQuantum Ghost
 
@@ -5366,6 +5882,8 @@ Code chaos
 frFantôme quantique
 
 ja量子の亡霊
+
+plKwantowy duch
 
 ptFantasma Quantum
 %
@@ -5389,7 +5907,7 @@ Tecnotrón
 ukІмпульсний код
 
 zh电子效应
-�����
+�����
 
 en	Neon Dark
 
@@ -5398,6 +5916,8 @@ Tecnotrón
 frNéon obscur
 
 jaネオンダーク
+
+plNeonowa ciemność
 
 ptNeon Escuro
 
@@ -5406,7 +5926,7 @@ Tecnotrón
 ukКіберніч
 
 zh暗黑霓虹
-�����
+�����
 
 enWieldy
 
@@ -5416,6 +5936,8 @@ Tecnotrón
 
 ja	利便的
 
+pl	Poręczny
+
 pt	Portável
 
 ruПортативный
@@ -5423,7 +5945,7 @@ Tecnotrón
 ukПортативний
 
 zh便携掌机
-�����
+�����
 
 en
 Undercover
@@ -5434,6 +5956,8 @@ Encubierto
 fr	Infiltré
 
 ja覆面捜査
+
+plTajniak
 
 ptDisfarçado
 
@@ -5442,7 +5966,7 @@ Encubierto
 ukКод доступу
 
 zh密探
-�����
+�����
 
 enSpy Ring
 
@@ -5452,6 +5976,8 @@ Encubierto
 
 jaスパイ組織
 
+plKrąg szpiegów
+
 ptAnel de Espião
 !
 ruШпионская сеть
@@ -5459,7 +5985,7 @@ Encubierto
 uk!Шпигунська мережа
 
 zh谍网
-�����
+�����
 
 en	Overthrow
 
@@ -5468,6 +5994,8 @@ Encubierto
 frRenversement
 
 ja転覆
+
+pl	Przewrót
 
 pt
 Subversão
@@ -5477,7 +6005,7 @@ Subversão
 ukПлан захоплення
 
 zh颠覆
-�����
+�����
 
 enSecret Service
 
@@ -5486,6 +6014,8 @@ Subversão
 frServices secrets
 $
 jaシークレットサービス
+
+plSłużba specjalna
 
 ptServiço Secreto
 %
@@ -5494,7 +6024,7 @@ $
 ukСекретна служба
 
 zh	特勤处
-�����
+�����
 
 enSalvaged Scrap
 
@@ -5503,6 +6033,8 @@ $
 frTas de ferraille rapiécé
 
 ja鉄くずの寄せ集め
+
+plZbiórka złomu
 
 ptSucata Recuperada
 +
@@ -5511,7 +6043,7 @@ $
 uk%Індустріальний хаос
 
 zh回收的废料
-�����
+�����
 
 enBurning Mad
 
@@ -5520,6 +6052,8 @@ $
 frSombrer dans la folie
 
 ja灼熱の狂気
+
+plOgień szaleństwa
 
 ptFervendo de Louco
 '
@@ -5528,13 +6062,15 @@ $
 ukШалене графіті
 
 zh燃烧的疯狂
-����p
+����~
 
 enViking
 
 esVikingo
 
 jaヴァイキング
+
+plWiking
 
 ruВикинг
 
@@ -5580,7 +6116,7 @@ j�e�*
 enKranvagn Nord
 
 ruKranvagn Норд
-�����
+�����
 
 enRadioactive Glow
 
@@ -5590,6 +6126,8 @@ j�e�*
 
 ja放射の光
 
+plRadioaktywny opad
+
 ptBrilho Radioativo
 +
 ru%Радиоактивный дождь
@@ -5597,7 +6135,7 @@ j�e�*
 uk!Радіоактивний дощ
 
 zh辐射
-�����
+�����
 
 en
 Rating Wiz
@@ -5607,6 +6145,8 @@ Rating Wiz
 frCrack des cotées
 
 ja魔のレーティング
+
+plCzarodziej rankingu
 
 ptMagia Classificatória
 %
@@ -5615,13 +6155,15 @@ Rating Wiz
 ukЕнергія рейтингу
 
 zh排位战魔能
-����e
+����x
 
 enOctopus
 
 esPulpo
 
 jaオクトパス
+
+plOśmiornica
 
 ru
 Спрут
@@ -5657,13 +6199,15 @@ Rating Wiz
 enCenturion RAAC Dingo
 
 ruCenturion RAAC Динго
-����r
+�����
 
 en	Octopus X
 
 esPulpo X
 
 jaオクトパス X
+
+plOśmiornica X
 
 ruСпрут Х
 
@@ -5678,7 +6222,7 @@ Rating Wiz
 enFV215b Octopus X
 
 ruFV215b Спрут X
-����t
+�����
 
 enBravery
 
@@ -5687,6 +6231,8 @@ Rating Wiz
 frBravoure
 
 ja勇敢
+
+plDzielność
 
 ruБравый
 
@@ -5701,7 +6247,7 @@ Rating Wiz
 enT-44-85 Bravery
 
 ruТ-44-85 Бравый
-�����
+�����
 
 enBrothers-in-Arms
 
@@ -5711,6 +6257,8 @@ Rating Wiz
 
 ja戦友
 
+plTowarzysze broni
+
 ptIrmãos de Armas
 
 ruОбщая цель
@@ -5718,7 +6266,7 @@ Rating Wiz
 ukСпільна мета
 
 zh	兄弟连
-�����
+�����
 
 enUnited Goal
 
@@ -5727,6 +6275,8 @@ Rating Wiz
 frObjectif commun
 
 ja共通の目標
+
+plWspólny cel
 
 ptObjetivo Unificado
 
@@ -5735,7 +6285,7 @@ Rating Wiz
 ukВагомий внесок
 
 zh目标一致
-�����
+�����
 
 enCoordinated Strike
 
@@ -5744,6 +6294,8 @@ Rating Wiz
 frFrappe coordonnée
 
 ja連携プレー
+
+plSkoordynowane uderzenie
 
 ptAtaque Coordenado
  
@@ -5752,7 +6304,7 @@ Rating Wiz
 ukБрат по зброї
 
 zh联合攻击
-�����
+�����
 
 enShoulder to Shoulder
 
@@ -5761,6 +6313,8 @@ Rating Wiz
 frCôte à côte
 
 ja一致団結
+
+plRamię w ramię
 
 ptOmbro a Ombro
  
@@ -5769,7 +6323,7 @@ Rating Wiz
 ukПліч-о-пліч
 
 zh	肩并肩
-�����
+�����
 
 enNew Year Sparklers
 
@@ -5778,6 +6332,8 @@ Rating Wiz
 frCierges magiques du Nouvel An
 
 ja新年の花火
+
+plNoworoczne zimne ognie
 
 ptEstrelinhas de Ano Novo
 %
@@ -5786,7 +6342,7 @@ Rating Wiz
 uk!Бенгальські вогні
 
 zh新年烟花
-�����
+�����
 
 enHolly Jolly
 
@@ -5795,6 +6351,8 @@ Rating Wiz
 frHoux sacré
 
 ja陽気なホリデー
+
+plRadośnie i świątecznie
 
 pt	Pinheiros
 
@@ -5803,7 +6361,7 @@ Rating Wiz
 ukХвойний ліс
 
 zh圣洁快乐
-�����
+�����
 
 enDelightful Fire
 
@@ -5812,6 +6370,8 @@ Rating Wiz
 frFeu agréable
 
 ja暖炉の火
+
+plRozkoszny ogień
 
 ptFogo Agradável
 #
@@ -5820,7 +6380,7 @@ Rating Wiz
 ukІскри свята
 
 zh欣欣之火
-�����
+�����
 
 en	Xmas Tree
 
@@ -5829,6 +6389,8 @@ Rating Wiz
 frSapin de Noël
 
 jaクリスマスツリー
+
+plChoinka
 
 ptÁrvore de Natal
 +
@@ -5837,7 +6399,7 @@ Rating Wiz
 ukРіздвяна ялинка
 
 zh	圣诞树
-�����
+�����
 
 enInvader
 
@@ -5846,6 +6408,8 @@ Rating Wiz
 frEnvahisseur
 
 ja	侵略者
+
+plNajeźdźca
 
 ptInvasor
 
@@ -5854,7 +6418,7 @@ Rating Wiz
 ukІнвейдер
 
 zh	侵入者
-�����
+�����
 
 enIntruder
 
@@ -5863,6 +6427,8 @@ Rating Wiz
 frIntrus
 
 ja	侵入者
+
+plIntruz
 
 ptIntruso
 
@@ -5871,7 +6437,7 @@ Rating Wiz
 ukІнтрудер
 
 zh	闯入者
-�����
+�����
 
 en
 Wow Effect
@@ -5881,6 +6447,8 @@ Wow Effect
 frEffet Waouh
 
 jaコミック
+
+plEfekt „wow”
 
 pt
 Efeito Uau
@@ -5890,7 +6458,7 @@ Efeito Uau
 ukWow-ефект
 
 zh哇哦效果
-����
+�����
 
 enGuard
 
@@ -5899,6 +6467,8 @@ Efeito Uau
 frGarde
 
 ja守衛
+
+pl	Strażnik
 
 ptGuarda
 
@@ -5916,7 +6486,7 @@ Efeito Uau
 en	STG Guard
 
 ruСТГ Страж
-�����
+�����
 
 enFirebird
 
@@ -5925,6 +6495,8 @@ Efeito Uau
 frOiseau de feu
 
 ja	火の鳥
+
+plOgnisty ptak
  
 ruОгнерождённый
 '
@@ -5945,7 +6517,7 @@ Efeito Uau
 ��
 
 enFire Element
-�����
+�����
 
 enGingerbread House
 
@@ -5954,6 +6526,8 @@ Efeito Uau
 frMaison de pain d'épices
 *
 ja$ジンジャーブレッドハウス
+
+plDomek z piernika
 
 ptCasa de Pão de Gengibre
 #
@@ -5962,7 +6536,7 @@ Efeito Uau
 ukПряникова хатка
 
 zh	姜饼屋
-�����
+�����
 
 enChristmas Cheer
 
@@ -5971,6 +6545,8 @@ Efeito Uau
 frJoie de Noël
 
 jaクリスマスの歓び
+
+plŚwiąteczna radość
 
 ptAlegria Natalina
 #
@@ -5979,12 +6555,14 @@ Efeito Uau
 ukЗимові канікули
 
 zh欢庆圣诞
-����D
+����R
 
 
 enJade
 
 ja翡翠
+
+plJadeit
 
 ruНефритовый
 
@@ -5997,7 +6575,7 @@ Efeito Uau
 en	M41D Jade
 
 ruM41D Нефритовый
-�����
+�����
 
 en	Icy Comet
 
@@ -6007,6 +6585,8 @@ Efeito Uau
 
 ja氷の彗星
 
+plLodowa kometa
+
 ptCometa Gelado
 !
 ruЛедяная комета
@@ -6014,7 +6594,7 @@ Efeito Uau
 ukКрижана комета
 
 zh冰冷彗星
-�����
+�����
 
 en	Frostbite
 
@@ -6023,6 +6603,8 @@ Efeito Uau
 fr	Engelures
 
 ja凍傷
+
+plOdmrożenie
 
 pt
 Congelante
@@ -6032,7 +6614,7 @@ Congelante
 ukПекучий холод
 
 zh霜冻之殇
-�����
+�����
 
 enForgotten Bunker
 
@@ -6041,6 +6623,8 @@ Congelante
 frBunker oublié
 '
 ja!忘れ去られたシェルター
+
+plZapomniany bunkier
 
 ptBunker Esquecido
 )
@@ -6049,7 +6633,7 @@ Congelante
 ukЗакинутий бункер
 
 zh遗忘地堡
-�����
+�����
 
 enIce Crystal
 
@@ -6058,6 +6642,8 @@ Congelante
 frCristal de glace
 
 ja結晶
+
+plLodowy kryształ
 
 ptCristal de Gelo
 '
@@ -6066,7 +6652,7 @@ Congelante
 ukКрижані кристали
 
 zh冰霜结晶
-�����
+�����
 
 enDeep Freeze
 
@@ -6075,6 +6661,8 @@ Congelante
 frCongélation
 
 ja極寒
+
+plZamrożenie
 
 ptCongelamento Profundo
 )
@@ -6083,7 +6671,7 @@ Congelante
 uk%Глибоке замороження
 
 zh深度冻结
-�����
+�����
 
 enOriental Waves
 
@@ -6093,6 +6681,8 @@ Congelante
 
 ja東洋の波
 
+plFale orientalne
+
 ptOndas Orientais
 
 ruЗолотой омут
@@ -6100,7 +6690,7 @@ Congelante
 ukЗолотий чорторий
 
 zh东方波纹
-�����
+�����
 
 enStaunch Defender
 
@@ -6109,6 +6699,8 @@ Congelante
 frDéfenseur inébranlable
 
 ja強力な守護者
+
+plOddany obrońca
 
 ptDefensor Firme
 )
@@ -6117,7 +6709,7 @@ Congelante
 uk%Ламелярні обладунки
 
 zh坚定捍卫者
-�����
+�����
 
 enSpirit of the Moon
 
@@ -6126,6 +6718,8 @@ Congelante
 frEsprit de la Lune
 
 ja月の精霊
+
+plDuch księżyca
 
 ptEspírito da Lua
 
@@ -6134,7 +6728,7 @@ Congelante
 ukДух Місяця
 
 zh	月之魂
-�����
+�����
 
 enSpirit of the Sky
 
@@ -6143,6 +6737,9 @@ Congelante
 frEsprit du Ciel
 
 ja空の精霊
+
+pl
+Duch nieba
 
 ptEspírito do Céu
 
@@ -6151,7 +6748,7 @@ Congelante
 ukДух хмари
 
 zh	空之魂
-�����
+�����
 
 enSpirit of the Sun
 
@@ -6160,6 +6757,8 @@ Congelante
 frEsprit du Soleil
 
 ja太陽の精霊
+
+plDuch słońca
 
 ptEspírito do Sol
 
@@ -6168,7 +6767,7 @@ Congelante
 ukДух Сонця
 
 zh	日之魂
-�����
+�����
 
 enSpirit of the Wind
 
@@ -6177,6 +6776,8 @@ Congelante
 frEsprit du Vent
 
 ja風の精霊
+
+plDuch wiatru
 
 ptEspírito do Vento
 
@@ -6260,7 +6861,7 @@ Hoplômaco
 ukГопломах
 
 zh重装角斗士
-�����
+�����
 
 enShale Luminescence
 
@@ -6269,6 +6870,8 @@ Hoplômaco
 frLuminescence du schiste
 
 ja岩石の光
+
+plŁupkowy blask
 
 ptLuminescência do Xisto
 
@@ -6277,7 +6880,7 @@ Hoplômaco
 ukПотаємне світло
 
 zh页岩炫彩
-�����
+�����
 
 enEmerald Radiance
 
@@ -6287,6 +6890,8 @@ Hoplômaco
 
 jaエメラルドの輝き
 
+plSzmaragdowy połysk
+
 ptEsplendor Esmeralda
 '
 ru!Изумрудное сияние
@@ -6294,7 +6899,7 @@ Hoplômaco
 ukСмарагдове сяйво
 
 zh翡翠炫光
-�����
+�����
 
 enOrbital Bombardment
 
@@ -6303,6 +6908,8 @@ Hoplômaco
 frBombardement orbital
 
 ja軌道爆撃
+
+plBombardowanie orbitalne
 
 ptBombardeio Orbital
 7
@@ -6311,7 +6918,7 @@ Hoplômaco
 uk/Орбітальне бомбардування
 
 zh轨道轰炸
-�����
+�����
 
 en
 Superalloy
@@ -6321,6 +6928,9 @@ Superalloy
 frSuperalliage
 
 ja	超合金
+
+pl
+Super stop
 
 pt	Superliga
 )
@@ -6347,7 +6957,7 @@ Meteoroide
 ukМетеорний потік
 
 zh	流星体
-�����
+�����
 
 enRough Landing
 
@@ -6356,6 +6966,8 @@ Meteoroide
 frAtterrissage mouvementé
 
 ja	硬着陸
+
+plTwarde lądowanie
 
 ptPouso Difícil
 #
@@ -6364,13 +6976,15 @@ Meteoroide
 ukЖорстка посадка
 
 zh	硬着陆
-}�x�s
+�����
 
 enJupiter
 
 esJúpiter
 
 ja木星
+
+plJowisz
 
 ptJúpiter
 
@@ -6379,7 +6993,7 @@ Meteoroide
 ukЮпітер
 
 zh木星
-�����
+�����
 
 enUrban Jungle
 
@@ -6388,6 +7002,8 @@ Meteoroide
 frJungle urbaine
 
 ja都会のジャングル
+
+plMiejska dżungla
 
 ptSelva Urbana
 
@@ -6422,7 +7038,7 @@ Granadeiro
 enSomua Grenadier
 
 ruSomua Гренадёр
-����s
+�����
 
 
 enPike
@@ -6433,6 +7049,8 @@ Granadeiro
 frBrochet
 
 ja	パイク
+
+plSzczupak
 
 ptPique
 
@@ -6449,7 +7067,7 @@ Granadeiro
 enObject 260 Pike
 
 ruОбъект 260 Щука
-�����
+�����
 
 enRuthless
 
@@ -6459,6 +7077,8 @@ Despiadado
 frSans pitié
 
 ja	無慈悲
+
+plBezwzględny
 
 ruБезжалостный
 
@@ -6479,7 +7099,7 @@ Despiadado
 0�+�&
 $
 enBlue Children's Day Camouflage
-����z
+�����
 
 enRampant
 
@@ -6488,6 +7108,8 @@ $
 fr	Fulgurant
 
 ja凶暴
+
+plNieokiełznany
 
 ruЯрость
 
@@ -6502,7 +7124,7 @@ $
 enŠkoda T 27 Rampant
 
 ruŠkoda T 27 Ярость
-�����
+�����
 
 enHunter Markings
 
@@ -6512,6 +7134,8 @@ $
 
 ja狩人の印
 
+plOznakowanie łowcy
+
 ptMarcas do Caçador
 %
 ruОхотничий капкан
@@ -6519,7 +7143,7 @@ $
 uk!Мисливська пастка
 
 zh猎人标记
-�����
+�����
 
 enMotley Trap
 
@@ -6528,6 +7152,8 @@ $
 frPiège hétéroclite
 
 ja寄せ集めの罠
+
+plPstre plamy
 
 ptArmadilha Matizada
 #
@@ -6536,7 +7162,7 @@ $
 ukСтежка звіролова
 
 zh杂色陷阱
-�����
+�����
 
 enLeafy Flecks
 
@@ -6545,6 +7171,8 @@ $
 frTaches feuillues
 
 ja	枯れ葉
+
+plNakrapiany liściasty
 
 ptManchas Frondosas
 
@@ -6553,7 +7181,7 @@ $
 ukЛігво звіра
 
 zh叶斑
-�����
+�����
 
 enFighting Spirit
 
@@ -6562,6 +7190,9 @@ $
 frEsprit combatif
 
 ja闘争精神
+
+pl
+Duch walki
 
 ptEspírito de Luta
 
@@ -6570,7 +7201,7 @@ $
 ukУдача в бою
 
 zh战斗精神
-�����
+�����
 
 enMartial Glory
 
@@ -6580,6 +7211,8 @@ $
 
 ja戦争の栄光
 
+plWojenna chwała
+
 ptGlória Marcial
 
 ruВоенная слава
@@ -6587,7 +7220,7 @@ $
 ukВійськова слава
 
 zh赫赫战功
-�����
+�����
 
 enSteel Fortitude
 
@@ -6596,6 +7229,8 @@ $
 frCourage d'acier
 
 ja鋼の精神
+
+plStalowe męstwo
 
 ptFortaleza de Aço
 3
@@ -6604,7 +7239,7 @@ $
 uk#Виняткова мужність
 
 zh铮铮铁骨
-�����
+�����
 
 enHeroic Destiny
 
@@ -6613,6 +7248,8 @@ $
 frDestinée héroïque
 
 ja英雄の運命
+
+plBohaterskie przeznaczenie
 
 ptDestino Heróico
 
@@ -6621,7 +7258,7 @@ $
 ukЗірки героя
 
 zh英雄宿命
-�����
+�����
 
 enFire Flyers
 
@@ -6630,13 +7267,15 @@ $
 frRejetons du feu
 
 ja空飛ぶ火
+
+plOgniki
 !
 ruКомната страха
 !
 ukКімната страху
 
 zh飞火
-�����
+�����
 
 enRacin' Kart
 
@@ -6645,13 +7284,15 @@ $
 frKart de course
 
 jaレーシングカート
+
+plWyścigówka
 
 ruАвтодром
 
 ukАвтодром
 
 zh赛车
-����
+�����
 
 en	Targetron
 
@@ -6660,13 +7301,16 @@ $
 frStand de tir
 
 jaターゲトロン
+
+pl
+Strzelnica
 
 ruТир
 
 ukТир
 
 zh靶场
-�����
+�����
 
 enTilt-A-Twirl
 
@@ -6675,13 +7319,15 @@ $
 frTourbillon perturbateur
 
 ja回転
+
+plPaski i wiry
 #
 ruЛавка сладостей
 #
 ukЛавка солодощів
 
 zh	转转乐
-�����
+�����
 
 en	Firestorm
 
@@ -6690,6 +7336,8 @@ $
 frTempête de feu
 
 ja燃えさかる炎
+
+plOgnista burza
 
 ruМетеор
 
@@ -6700,7 +7348,7 @@ $
 ruTurbo Метеор"
 
 enTurbo
-����
+�����
 
 enMighty
 
@@ -6709,6 +7357,8 @@ $
 frPuissant
 
 ja強力
+
+pl	Potężny
 
 ruМогучий
 
@@ -6748,13 +7398,15 @@ $
 enKunze Pz. Daredevil
  
 ruKunze Pz. Заводила
-����P
+����]
 
 enBison
 
 esBisonte
 
 jaバイソン
+
+plBizon
 
 ru
 Бизон
@@ -6770,7 +7422,7 @@ TS-5 Bison
 TS-5 Bison
 
 ruTS-5 Бизон
-����~
+�����
 
 enPride
 
@@ -6779,6 +7431,9 @@ TS-5 Bison
 frFierté
 
 ja誇り
+
+
+plDuma
 
 ptOrgulho
 
@@ -6810,7 +7465,7 @@ TS-5 Bison
 uk'Синтетичний організм
 
 zh合成坦克
-�����
+�����
 
 enBattle Robot
 
@@ -6819,6 +7474,8 @@ TS-5 Bison
 frRobot de combat
 
 ja戦闘ロボット
+
+plRobot bojowy
 
 ptRobô de Batalha
 
@@ -6827,7 +7484,7 @@ TS-5 Bison
 ukБойовий робот
 
 zh战斗机器人
-�����
+�����
 
 enBionic Monster
 
@@ -6836,6 +7493,8 @@ TS-5 Bison
 frMonstre bionique
 
 ja最強のモンスター
+
+plBioniczne monstrum
 
 ptMonstro Biônico
 )
@@ -6844,7 +7503,7 @@ TS-5 Bison
 ukБіонічний монстр
 
 zh	仿生兽
-�����
+�����
 
 enExoskeleton
 
@@ -6854,6 +7513,8 @@ TS-5 Bison
 
 jaスケルトン
 
+plEgzoszkielet
+
 ptExoesqueleto
 
 ruЭкзоскелет
@@ -6861,7 +7522,7 @@ TS-5 Bison
 ukЕкзоскелет
 
 zh	外骨骼
-�����
+�����
 
 enUrban Spark
 
@@ -6870,6 +7531,8 @@ TS-5 Bison
 frÉtincelle urbaine
 !
 ja都会のネオンライト
+
+plMiejska iskra
 
 ptFaísca Urbana
 %
@@ -6878,7 +7541,7 @@ TS-5 Bison
 ukМіський задирака
 
 zh都市火花
-�����
+�����
 
 enRed, White, 'n Blue
 
@@ -6887,6 +7550,8 @@ TS-5 Bison
 frRouge, blanc et bleu
 
 ja	赤白青
+"
+plCzerwony, biały i niebieski
 
 ptVermelha, Branca, Azul
 "
@@ -6895,7 +7560,7 @@ TS-5 Bison
 ukВелич і слава
 
 zh	红白蓝
-�����
+�����
 
 enStained Glass
 
@@ -6904,6 +7569,8 @@ TS-5 Bison
 frVitrail
 
 jaステンドグラス
+
+plWitraż
 
 ptVitral
 !
@@ -6912,7 +7579,7 @@ TS-5 Bison
 ukЗолотий вітраж
 
 zh彩绘玻璃
-�����
+�����
 
 en
 Deep Scars
@@ -6922,6 +7589,8 @@ Deep Scars
 frCicatrices profondes
 
 ja	深い傷
+
+plGłębokie blizny
 
 ptCicatrizes Profundas
 !
@@ -6930,7 +7599,7 @@ Deep Scars
 ukГлибокі шрами
 
 zh深层伤疤
-�����
+�����
 
 enHigh Voltage
 
@@ -6939,6 +7608,8 @@ Deep Scars
 frHaute tension
 
 ja	高電圧
+
+plWysokie napięcie
 
 ptAlta Voltagem
 )
@@ -6947,7 +7618,7 @@ Deep Scars
 ukВисока напруга
 
 zh	高压电
-�����
+�����
 
 enRazzle Dazzle
 
@@ -6956,6 +7627,8 @@ Deep Scars
 frTape-à-l'œil
 
 ja幻惑
+
+plIluzja optyczna
 
 pt	Festança
 )
@@ -6964,7 +7637,7 @@ Deep Scars
 ukОптична ілюзія
 
 zh眼花缭乱
-�����
+�����
 
 en	Shipwreck
 
@@ -6973,6 +7646,8 @@ Deep Scars
 frÉpave
 
 ja	難破船
+
+plNa dnie
 
 pt
 Naufrágio
@@ -6993,7 +7668,7 @@ e�`�[
 ukКракен
 
 zh海怪
-�����
+�����
 
 en	Minefield
 
@@ -7002,6 +7677,8 @@ e�`�[
 frChamp de mines
 
 ja	地雷原
+
+plPole minowe
 
 ptCampo Minado
 )
@@ -7016,7 +7693,7 @@ e�`�[
 #��
 
 enGreen Little Duck
-�����
+�����
 
 enPlasma Grid
 
@@ -7025,6 +7702,8 @@ e�`�[
 frGrille de plasma
 
 jaプラズマグリッド
+
+plSiatka plazmy
 
 ptGrade de Plasma
 !
@@ -7033,7 +7712,7 @@ e�`�[
 ukЕнергія плазми
 
 zh	电浆栅
-�����
+�����
 
 enBrute Force
 
@@ -7042,6 +7721,8 @@ e�`�[
 frForce brute
 
 ja	馬鹿力
+
+plBrutalna siła
 
 ptForça Bruta
 
@@ -7065,7 +7746,7 @@ e�`�[
 enSuper Hellcat Delta"
 
 enSuper Hellcat Delta
-����~
+�����
 
 enBulwark
 
@@ -7074,6 +7755,8 @@ e�`�[
 frRempart
 
 ja防塁
+
+plBulwar
 
 ptBaluarte
 
@@ -7103,11 +7786,13 @@ o�j�3
 enKpz 50 t König"
 
 enKpz 50 t König
-����h
+����y
 
 en	Barracuda
 
 jaバラクーダ
+
+pl	Barrakuda
 
 ruБарракуда
 
@@ -7134,7 +7819,7 @@ b�]�
 en	MS-1 1926
 
 ruМС-1 1926
-����
+�����
 
 enCarapace
 
@@ -7142,6 +7827,8 @@ b�]�
 Caparazón
 
 ja甲羅
+
+plSkorupa
 
 pt	Carapaça
 
@@ -7158,7 +7845,7 @@ Caparazón
 enTurtle Carapace
 
 ruTurtle Карапакс
-�����
+�����
 
 enTriumphant Return
 
@@ -7167,6 +7854,8 @@ Caparazón
 frRetour triomphant
 
 ja	凱旋者
+
+plTriumfalny powrót
 
 ptRetorno Triunfante
 5
@@ -7191,7 +7880,7 @@ Caparazón
 enBourrasque Noir"
 
 enBourrasque Noir
-�����
+�����
 
 enBattle of Delville Wood
 
@@ -7200,6 +7889,8 @@ Caparazón
 frBataille du bois Delville
 !
 jaデルヴィル森の戦い
+
+plBitwa pod Delville Wood
 
 ptBatalha de Delville Wood
 /
@@ -7208,7 +7899,7 @@ Caparazón
 uk+Бій за Делвільський ліс
 
 zh德尔维拉伍德战役
-�����
+�����
 
 enBattle of the Marne
 
@@ -7218,6 +7909,8 @@ Caparazón
 
 jaマルヌ会戦
 
+plBitwa nad Marną
+
 ptBatalha do Marne
 '
 ru!Марнское сражение
@@ -7225,7 +7918,7 @@ Caparazón
 ukМарнська битва
 
 zh马恩河战役
-�����
+�����
 
 enBattle of the Somme
 
@@ -7235,6 +7928,8 @@ Caparazón
 
 jaソンムの戦い
 
+plBitwa nad Sommą
+
 ptBatalha do Somme
  
 ruБитва на Сомме
@@ -7242,7 +7937,7 @@ Caparazón
 ukБитва на Соммі
 
 zh索姆河战役
-�����
+�����
 
 enBattle of Verdun
 
@@ -7251,6 +7946,8 @@ Caparazón
 frBataille de Verdun
 
 jaヴェルダンの戦い
+
+plBitwa pod Verdun
 
 ptBatalha de Verdun
 &
@@ -7259,7 +7956,7 @@ Caparazón
 ukВерденська битва
 
 zh凡尔登战役
-�����
+�����
 
 enGraywolf
 
@@ -7268,6 +7965,9 @@ Caparazón
 fr	Loup gris
 
 jaグレー・ウルフ
+
+pl
+Szary wilk
 
 pt
 Lobo Cinza
@@ -7285,7 +7985,7 @@ Lobo Cinza
 enObj. 263 Graywolf
 
 ruОбъект 263 Волк
-�����
+�����
 
 enButterfly Effect
 
@@ -7294,13 +7994,15 @@ Lobo Cinza
 frL'effet papillon
 $
 jaバタフライエフェクト
+
+plEfekt motyla
 !
 ruЭффект бабочки
 !
 ukЕфект метелика
 
 zh蝴蝶效应
-�����
+�����
 
 enFires of War
 
@@ -7309,6 +8011,8 @@ $
 frFeux de la guerre
 
 ja戦場の炎
+
+plOgnie wojny
 
 ptIncêndio da Guerra
 
@@ -7317,7 +8021,7 @@ $
 ukПолум'я битви
 
 zh战火
-�����
+�����
 
 enWinning Way
 
@@ -7326,6 +8030,8 @@ $
 frRecette gagnante
 
 ja勝利の道
+
+plPrzepis na zwycięstwo
 
 ptCaminho Vencedor
 
@@ -7398,7 +8104,7 @@ $
 enFV4005 Overkill"
 
 enFV4005 Overkill
-�����
+�����
 
 enBattle Readiness
 
@@ -7407,6 +8113,8 @@ $
 frPrêt au combat
 
 ja臨戦態勢
+
+plGotowość bojowa
 
 ptProntidão para Batalha
 '
@@ -7415,7 +8123,7 @@ $
 uk!Бойова готовність
 
 zh战斗就绪
-�����
+�����
 
 enBattle Reflections
 
@@ -7424,6 +8132,8 @@ $
 frReflets de la bataille
 
 ja戦場の輝き
+
+plPrzebłyski bitwy
 
 ptReflexos de Batalha
 '
@@ -7432,7 +8142,7 @@ $
 ukВідблиски битв
 
 zh战斗反射
-�����
+�����
 
 enPhosphorescent Light
 
@@ -7441,6 +8151,8 @@ $
 frLumière phosphorescente
 
 jaリン光のきらめき
+
+plFosforyczne światło
 
 ptLuz Fosforecente
 )
@@ -7449,7 +8161,7 @@ $
 uk!Фосфорне світіння
 
 zh荧光
-�����
+�����
 
 enSection Structural Mods
 +
@@ -7458,6 +8170,8 @@ $
 fr#Section Modifications structurelles
 
 ja構造改修班
+"
+plSekcja modów strukturalnych
 (
 pt"Seção Modificações Estruturais
 =
@@ -7466,7 +8180,7 @@ $
 uk/Відділ «Cтруктурні зміни»
 
 zh结构改造部
-�����
+�����
 
 enSection R&D
 
@@ -7475,6 +8189,8 @@ $
 fr#Section Recherche et développement
 
 ja技術開発班
+
+plSekcja badawcza
 
 ptSeção R&D
 *
@@ -7483,7 +8199,7 @@ $
 uk'Відділ «Експеримент»
 
 zh	研发部
-�����
+�����
 
 enSection Liquidation
 
@@ -7492,6 +8208,8 @@ $
 frSection Élimination
 
 ja特別処理班
+
+plSekcja likwidacyjna
 
 ptSeção Liquidação
 (
@@ -7500,13 +8218,15 @@ $
 uk!Відділ «Усунення»
 
 zh	清算部
-�����
+�����
 
 en	Section T
 
 esSección T
 
 jaT 班
+
+plSekcja T
 
 pt	Seção T
 
@@ -7516,7 +8236,7 @@ $
 
 
 zhT部
-�����
+�����
 
 enTyphoon
 
@@ -7525,6 +8245,8 @@ $
 frTyphon
 
 jaタイフーン
+
+plTajfun
 
 ptTufão
 
@@ -7541,7 +8263,7 @@ $
 enWZ-121 Typhoon
 
 ruWZ-121 Тайфун
-�����
+�����
 
 enPlatoon Smasher
 
@@ -7550,6 +8272,8 @@ $
 frPeloton des broyeurs
 
 ja小隊スマッシャー
+
+plPlutonowy miażdżyciel
 
 ptEsmagador de Pelotão
 %
@@ -7558,7 +8282,7 @@ $
 uk#Взводний розбишака
 
 zh粉碎小队
-�����
+�����
 
 enPlatoon Slasher
 
@@ -7567,6 +8291,8 @@ $
 frPeloton des faucheurs
 
 ja小隊スラッシャー
+
+plPlutonowy siepacz
 
 ptMatador de Pelotão
 '
@@ -7599,13 +8325,15 @@ Flamboyant
 enTitan Flare
 #
 ruTitan Раскалённый
-����p
+����
 
 enCorsica
 
 esCórcega
 
 jaコルシカ
+
+plKorsyka
 
 ruКорсика
 
@@ -7620,13 +8348,15 @@ Flamboyant
 enAMX 30 B Corsica
 
 ruAMX 30 B Корсика
-����o
+����~
 
 enPiranha
 
 esPiraña
 
 jaピラニア
+
+plPirania
 
 ruПиранья
 
@@ -7641,7 +8371,7 @@ Flamboyant
 enT95E6 Piranha
 
 ruT95E6 Пиранья
-����J
+����[
 
 enUnity
 
@@ -7650,13 +8380,15 @@ Flamboyant
 frUnion
 
 jaユニティ
+
+pl	Jedność
 
 zh联合
 
 enM4 Sherman Unity"
 
 enM4 Sherman Unity
-����_
+����r
 
 enExtreme
 
@@ -7665,13 +8397,15 @@ Flamboyant
 frExtrême
 
 jaエクストリーム
+
+plEkstremalny
 
 zh极度狂热
 
 enSpark Extreme"
 
 enSpark Extreme
-�����
+�����
 
 enDigital Illusion
 
@@ -7680,6 +8414,8 @@ Flamboyant
 frIllusion numérique
 *
 ja$デジタル・イリュージョン
+
+plCyfrowe złudzenie
 
 ptIlusão Digital
 %
@@ -7688,7 +8424,7 @@ Flamboyant
 ukЦифрова ілюзія
 
 zh数字幻觉
-�����
+�����
 
 enGlowing Graphene
 
@@ -7697,6 +8433,8 @@ Flamboyant
 frGraphène luisant
 
 ja発光性グラフェン
+
+plŚwietlisty grafen
 
 ptGrafeno Brilhante
 !
@@ -7705,7 +8443,7 @@ Flamboyant
 ukСяйливий графен
 
 zh发光石墨烯
-�����
+�����
 
 enFan Support
 
@@ -7714,6 +8452,8 @@ Flamboyant
 frSoutien du passionné
 
 jaファン・サポート
+
+plWsparcie fanów
 
 ptTorcida
 /
@@ -7722,7 +8462,7 @@ Flamboyant
 uk/Підтримка вболівальників
 
 zh粉丝支持
-�����
+�����
 
 en
 True Drive
@@ -7732,6 +8472,8 @@ True Drive
 frPilotage authentique
 !
 jaトゥルー・ドライブ
+
+plPrawdziwa determinacja
 
 ptDireção Verdadeira
 
@@ -7740,7 +8482,7 @@ True Drive
 ukВіра в успіх
 
 zh风驰电掣
-�����
+�����
 
 enChampion Way
 
@@ -7749,6 +8491,8 @@ True Drive
 frVoie du champion
 
 ja覇道
+
+plDroga mistrza
 
 ptCaminho do Campeão
 
@@ -7757,7 +8501,7 @@ True Drive
 ukШлях чемпіона
 
 zh冠军之路
-�����
+�����
 
 enTeam Spirit
 
@@ -7766,6 +8510,8 @@ True Drive
 frEsprit d'équipe
 !
 jaチーム・スピリット
+
+plDuch zespołowy
 
 ptEspírito de Equipe
 
@@ -7774,7 +8520,7 @@ True Drive
 ukКомандний дух
 
 zh团队精神
-����^
+����o
 
 enReborn
 
@@ -7784,6 +8530,8 @@ True Drive
 
 ja回生
 
+pl	Odrodzony
+
 pt	Renascido
 
 zh重生
@@ -7791,7 +8539,7 @@ True Drive
 enProgetto 46 Reborn"
 
 enProgetto 46 Reborn
-�����
+�����
 
 enSecret Santa
 
@@ -7800,6 +8548,8 @@ True Drive
 frPère Noël secret
 $
 jaシークレット・サンタ
+
+plTajemniczy Mikołaj
 
 ptNoel Secreto
 
@@ -7808,7 +8558,7 @@ $
 ukТаємний Санта
 
 zh神秘圣诞老人
-�����
+�����
 
 en	Tank Ride
 
@@ -7817,6 +8567,8 @@ $
 frPromenade en char
 -
 ja'クリスマス・デコレーション
+
+plPrzejażdżka czołgiem
 
 ptPasseio de Tanque
 
@@ -7825,7 +8577,7 @@ $
 ukЙолки-танки
 
 zh坦克大冒险
-�����
+�����
 
 en
 Warm Fuzzy
@@ -7835,6 +8587,8 @@ Warm Fuzzy
 frChaud au cœur
 
 jaホリデーシーズン
+
+plCieplusi
 
 ptCalor Difuso
 +
@@ -7843,7 +8597,7 @@ Warm Fuzzy
 uk#Серйозне утеплення
 
 zh温暖毛衣
-�����
+�����
 
 enMagical Light
 
@@ -7852,6 +8606,8 @@ Warm Fuzzy
 frLumière magique
 !
 jaクリスマス・ライト
+
+plMagiczne światełka
 
 ptLuz Mágica
 
@@ -7860,7 +8616,7 @@ Warm Fuzzy
 ukМагія вогнів
 
 zh	魔法灯
-�����
+�����
 
 enSparkling Spotlight
 
@@ -7869,6 +8625,8 @@ Warm Fuzzy
 frProjecteur étincelant
 '
 ja!スパークリング・ライト
+
+plSkrzący blask
 
 ptHolofote Cintilante
 
@@ -7877,13 +8635,15 @@ Warm Fuzzy
 ukСяяння софітів
 
 zh聚光灯闪耀
-����j
+����x
 
 en	Avalanche
 
 es	Avalancha
 
 ja雪崩
+
+plLawina
 
 ruАваланш
 
@@ -7898,7 +8658,7 @@ Warm Fuzzy
 enAMXmas Avalanche
 
 ruAMXmas Аваланш
-����{
+�����
 
 enMonster
 
@@ -7907,6 +8667,8 @@ Warm Fuzzy
 frMonstre
 
 jaモンスター
+
+plPotwór
 
 ruМонстр
 
@@ -7921,7 +8683,7 @@ Warm Fuzzy
 enE 50 Ausf. M Monster
 
 ruE 50 Ausf. M Монстр
-�����
+�����
 
 en	Snakebite
 
@@ -7930,6 +8692,9 @@ Warm Fuzzy
 frMorsure du serpent
 
 ja蛇の一噛み
+
+pl
+Ukąszenie
 
 ptMordida de Cobra
 
@@ -7946,7 +8711,7 @@ Warm Fuzzy
 enSteyr WT Snakebite
 
 ruSteyr WT Укус
-�����
+�����
 
 enEnduring Struggle
 
@@ -7955,6 +8720,8 @@ Warm Fuzzy
 frLongue lutte
 
 ja長き困難
+
+plBezustanna walka
 
 ptLuta Duradoura
 *
@@ -7963,7 +8730,7 @@ Warm Fuzzy
 uk(Боротьба за виживання
 
 zh长期抗争
-�����
+�����
 
 enWintry Hush
 
@@ -7972,6 +8739,8 @@ Warm Fuzzy
 frSilence glacial
 
 ja厳冬の静寂
+
+plLodowaty podmuch
 
 ptSilêncio Invernal
 '
@@ -7980,7 +8749,7 @@ Warm Fuzzy
 ukСнігова німота
 
 zh寂静之冬
-�����
+�����
 
 enFrigid Observance
 
@@ -7989,6 +8758,8 @@ Warm Fuzzy
 frObservation froide
 
 ja冷たき静観
+
+plChłodna obserwacja
 
 ptObservância Fria
 )
@@ -7997,7 +8768,7 @@ Warm Fuzzy
 uk#Торжество мерзлоти
 
 zh冰冷仪式
-�����
+�����
 
 enIce Volcano
 
@@ -8006,6 +8777,8 @@ Warm Fuzzy
 frVolcan de glace
 
 ja凍れる火山
+
+plWulkan lodu
 
 ptVulcão de Gelo
 !
@@ -8014,7 +8787,7 @@ Warm Fuzzy
 ukКрижаний вулкан
 
 zh冰冻火山
-�����
+�����
 
 enArctic Barricade
 
@@ -8023,6 +8796,8 @@ Warm Fuzzy
 frBarricade arctique
 
 ja氷結のバリケード
+
+plArktyczna barykada
 
 ptBarricada Ártica
 )
@@ -8051,7 +8826,7 @@ Q�L�
 en60TP Krzemień
 
 ja60TP Krzemien
-�����
+�����
 
 enThunderbird
 
@@ -8060,6 +8835,8 @@ Q�L�
 frOiseau-tonnerre
 
 jaサンダーバード
+
+plTotem
 
 ptPássaro do Trovão
 
@@ -8078,7 +8855,7 @@ Q�L�
 enConcept 1B Thunderbird
 
 ruConcept 1B Тотем
-����z
+�����
 
 enMoose
 
@@ -8088,6 +8865,8 @@ Q�L�
 frÉlan
 
 jaヘラジカ
+
+plŁoś
 
 
 ptAlce
@@ -8105,7 +8884,7 @@ Q�L�
 enLansen Moose
 
 ruLansen Сохатый
-�����
+�����
 
 en	Boomfetti
 
@@ -8114,13 +8893,15 @@ Q�L�
 fr	Boumfetti
 
 jaキラキラリボン
+
+plBumfetti
 '
 ru!Серпантиновый бум
 '
 uk!Серпантиновий бум
 
 zh缤纷
-�����
+�����
 
 enSurvivor
 
@@ -8129,6 +8910,8 @@ Q�L�
 fr	Survivant
 
 ja	生還者
+
+pl	Wprawiony
 
 ptSobrevivente
 
@@ -8156,7 +8939,7 @@ Y�T�O
 ukБай-Ху
 
 zh白虎
-�����
+�����
 
 enRegeneration
 
@@ -8165,6 +8948,8 @@ Y�T�O
 frRégénération
 !
 jaリジェネレーション
+
+plRegeneracja
 
 ptRegeneração
 
@@ -8173,7 +8958,7 @@ Y�T�O
 ukРегенерація
 
 zh恢复
-�����
+�����
 
 en
 Detonation
@@ -8183,6 +8968,8 @@ Detonation
 frDétonation
 -
 ja'ダイナミック・ダイナマイト
+
+pl	Detonacja
 
 ptDetonação
 
@@ -8191,13 +8978,16 @@ Detonation
 ukДетонація
 
 zh爆破
-�����
+�����
 
 enGravitation
 
 esGravitación
 '
 ja!グラビティー・トリック
+
+pl
+Grawitacja
 
 ptGravitação
 
@@ -8206,13 +8996,15 @@ Detonation
 ukГравітація
 
 zh重力
-�����
+�����
 
 enPoison
 
 esVeneno
 
 jaイビル・ポイズン
+
+plTrucizna
 
 ptVeneno
 
@@ -8221,13 +9013,15 @@ Detonation
 ukТоксичність
 
 zh毒素
-�����
+�����
 
 enInterceptor
 
 frIntercepteur
 
 jaインターセプター
+
+plPościgowiec
 
 ptInterceptador
 
@@ -8244,7 +9038,7 @@ Detonation
 enT-100 LT Interceptor
 (
 ru"Т-100 ЛТ Перехватчик
-�����
+�����
 
 enTrailblazer
 
@@ -8254,6 +9048,8 @@ Explorador
 frPionnier
 
 ja	先駆者
+
+pl	Prekursor
 
 ptPioneiro
 
@@ -8270,7 +9066,7 @@ $
 enTitan-150 Trailblazer
 $
 ruTitan-150 Испытатель
-�����
+�����
 
 enChinese Garden
 
@@ -8279,6 +9075,8 @@ $
 frJardin chinois
 
 ja中国庭園
+
+plChiński ogród
 
 ptJardim Chinês
 
@@ -8287,7 +9085,7 @@ $
 ukКитайський сад
 
 zh中式庭院
-�����
+�����
 
 enSwamp Hollow
 
@@ -8296,6 +9094,8 @@ $
 frTrou marécageux
 
 ja沼地の潜伏兵
+
+plBagnisko
 
 ptPântano Vazio
 #
@@ -8323,13 +9123,15 @@ $
 enType 59 Qinglong
 
 ruType 59 Лун
-�����
+�����
 
 enVigilant
 
 es	Vigilante
 
 ja戒心
+
+plCzujny
 
 pt	Vigilante
 
@@ -8346,13 +9148,16 @@ $
 enObject 252U Vigilant
 )
 ru#Объект 252У Поборник
-����U
+����g
 
 enRhino
 
 esRinoceronte
 
 ja猛き巨犀
+
+pl
+Nosorożec
 
 ptRinoceronte
 
@@ -8361,7 +9166,7 @@ $
 enRäumpanzer Rhino"
 
 enRäumpanzer Rhino
-�����
+�����
 
 enDazzling Luster
 
@@ -8370,6 +9175,8 @@ $
 frÉclat éblouissant
 
 jaまばゆいキラメキ
+
+plOlśniewający blask
 
 ptBrilho Deslumbrante
 !
@@ -8378,7 +9185,7 @@ $
 ukСяйво розкоші
 
 zh光彩夺目
-�����
+�����
 
 en	Sandstorm
 
@@ -8387,6 +9194,8 @@ $
 frTempête de sable
 
 ja砂塵の旋風
+
+plBurza piaskowa
 
 ptTempestade de Areia
 
@@ -8395,7 +9204,7 @@ $
 ukПіщана буря
 
 zh沙暴
-�����
+�����
 
 enDesert Mirage
 
@@ -8404,6 +9213,8 @@ $
 frMirage du désert
 
 ja砂漠の蜃気楼
+
+plPustynny miraż
 
 ptMiragem do Deserto
 #
@@ -8412,7 +9223,7 @@ $
 ukПустельний міраж
 
 zh沙漠蜃景
-�����
+�����
 
 enEternal Drought
 
@@ -8421,6 +9232,8 @@ $
 frSécheresse éternelle
 
 ja果てなき渇き
+
+plWieczna susza
 
 ptSeca Eterna
 
@@ -8429,7 +9242,7 @@ $
 ukДовга посуха
 
 zh久旱
-�����
+�����
 
 enSwirling Dunes
 
@@ -8438,6 +9251,8 @@ $
 frDunes tourbillonnantes
 
 jaうごめく流砂
+
+plWydmy wędrujące
 
 ptDunas em Espiral
 
@@ -8446,7 +9261,7 @@ $
 ukРух дюн
 
 zh沙丘旋涡
-����s
+�����
 
 en
 Expedition
@@ -8456,6 +9271,9 @@ Expedition
 frExpédition
 
 ja過酷な遠征
+
+pl
+Ekspedycja
 
 ptExpedição
 
@@ -8464,13 +9282,15 @@ Expedition
 enBarkhan Expedition"
 
 enBarkhan Expedition
-�����
+�����
 
 enChampion
 
 esCampeón
 
 jaチャンピオン
+
+plMistrz
 
 ptCampeão
 
@@ -8496,7 +9316,7 @@ Expedition
 ukСатурн
 
 zh土星
-�����
+�����
 
 en
 Impeccable
@@ -8504,6 +9324,8 @@ Impeccable
 es	Impecable
 
 ja豪華絢爛
+
+plNieskazitelny
 
 ruБезупречный
 
@@ -8518,7 +9340,7 @@ $
 enScepter Impeccable
 $
 ruScepter Безупречный
-����t
+�����
 
 enHussar
 
@@ -8527,6 +9349,8 @@ $
 frHussard
 
 jaユサール
+
+plHusarz
 
 ru
 Гусар
@@ -8543,7 +9367,7 @@ $
 en50TP prototyp Hussar
 
 ru50TP prototyp Гусар
-�����
+�����
 
 en	Stargazer
 
@@ -8553,6 +9377,8 @@ Estrellado
 frAstronome amateur
 
 jaスターゲイザー
+
+plAstronom
 
 ptObservador de Estrelas
 
@@ -8588,7 +9414,7 @@ Estrellado
 enŠkoda T 56 Golem
 
 ruŠkoda T 56 Голем
-�����
+�����
 
 enWizardly Rating
 
@@ -8597,6 +9423,8 @@ Estrellado
 frCote des cracks
 !
 jaレーティングの魔力
+
+plCzar rankingu
 
 ptClassificação Mágica
 +
@@ -8605,7 +9433,7 @@ Estrellado
 uk#Рейтингова енергія
 
 zh排位战魔力
-�����
+�����
 
 enDemon's Rage
 
@@ -8614,6 +9442,8 @@ Estrellado
 frRage du démon
 
 ja悪魔の憤怒
+
+plGniew demona
 
 ptFúria do Demônio
 %
@@ -8622,13 +9452,15 @@ Estrellado
 ukКарбоновий демон
 
 zh恶魔之怒
-�����
+�����
 
 enProvence
 
 esProvenza
 !
 jaプロヴァンスの抱擁
+
+pl	Prowansja
 
 pt	Provença
 
@@ -8659,7 +9491,7 @@ Estrellado
 ukПеревал Аньє
 
 zh阿格尼斯山
-�����
+�����
 
 enAlpine Fields
 
@@ -8668,6 +9500,8 @@ Estrellado
 frPrairies des Alpes
 !
 jaアルプス高原の彩り
+
+plAlpejskie łąki
 
 ptCampos Alpinos
 #
@@ -8683,11 +9517,13 @@ O�J�
 enAMX 30 Win Peaks"
 
 enAMX 30 Win Peaks
-����`
+����m
 
 enLeshy
 
 ja森の精レーシー
+
+plLeszy
 
 ru
 Леший
@@ -8703,7 +9539,7 @@ O�J�
 enObject 274a Leshy
 "
 ruОбъект 274a Леший
-�����
+�����
 
 enGallant
 
@@ -8712,6 +9548,9 @@ O�J�
 frGalant
 
 ja慈愛の勇者
+
+pl
+Szarmancki
 
 ruСлавный
 
@@ -8747,7 +9586,7 @@ O�J�
 enWZ-120-1 FT Gongbi
 
 ruWZ-120-1 FT Гунби
-�����
+�����
 
 enRating Power
  
@@ -8756,6 +9595,8 @@ O�J�
 frPuissance des cotées
 !
 ja全力のレーティング
+
+plMoc rankingu
 
 ptPoder de Classificação
 
@@ -8764,10 +9605,12 @@ O�J�
 ukМіць рейтингу
 
 zh排位战原力
-n�i�
+�z�+
 
 
 enBurn
+
+pl	Płomień
 
 ptChamas#
 
@@ -8780,7 +9623,7 @@ n�i�
 
 ru
 К-91 Burn
-�����
+�����
 
 enSecret Path
 
@@ -8789,6 +9632,8 @@ n�i�
 frVoie secrète
 
 ja未知なる道
+
+plSekretna ścieżka
 
 ptCaminho Secreto
 
@@ -8797,7 +9642,7 @@ n�i�
 ukПотаємна стежка
 
 zh秘密通道
-�����
+�����
 
 enScientific Observation
 
@@ -8806,6 +9651,8 @@ n�i�
 frObservation scientifique
 
 ja最新科学の力
+
+plNaukowa obserwacja
 
 ptObservação Científica
 )
@@ -8814,7 +9661,7 @@ n�i�
 uk)Наукове спостереження
 
 zh科学观察
-�����
+�����
 
 enWilderness Campground
 
@@ -8823,6 +9670,8 @@ n�i�
 frCamping sauvage
 
 jaソロキャンプ
+
+plBiwak w buszu
 
 ptAcampamento Deserto
 )
@@ -8831,7 +9680,7 @@ n�i�
 uk!Наметове містечко
 
 zh荒野营地
-�����
+�����
 
 enMushroom Mishap
 
@@ -8840,6 +9689,8 @@ n�i�
 frIncident des champignons
 
 jaキノコ事変
+
+plFiasko na grzybobraniu
 
 ptContratempo do Cogumelo
 %
@@ -8848,7 +9699,7 @@ n�i�
 ukГрибний інцидент
 
 zh蘑菇之祸
-�����
+�����
 
 enArcade Machine
 
@@ -8857,6 +9708,8 @@ n�i�
 frBorne d'arcade
 
 jaアーケードマシン
+
+plAutomat
 
 ptMáquina de Fliperama
 %
@@ -8865,7 +9718,7 @@ n�i�
 ukАркадний автомат
 
 zh街机
-�����
+�����
 
 enAll-Terrain
 
@@ -8874,6 +9727,8 @@ n�i�
 frTout-terrain
 
 jaオールマイティ
+
+plŁazik
 
 ptTodo-o-Terreno
 
@@ -8907,7 +9762,7 @@ n�i�
 enType 71 Sankai
 
 ruType 71 Санкай
-�����
+�����
 
 en
 Final Boss
@@ -8918,6 +9773,8 @@ Jefe final
 frBoss de fin
 
 ja最強のラスボス
+
+plFinałowy boss
 
 ptChefão Final
 +
@@ -8943,7 +9800,7 @@ Jefe final
 esType 57 Mecha
 
 frType 57 Mecha
-�����
+�����
 
 enBeware of Deer
 
@@ -8952,6 +9809,8 @@ Jefe final
 frAttention au cerf
 
 ja飛び出し注意!
+
+plUważaj na łosia
 
 ptCuidado com o Veado
 #
@@ -8960,7 +9819,7 @@ Jefe final
 ukСтережися оленів
 
 zh有鹿出没
-�����
+�����
 
 enMartial Art
 
@@ -8969,6 +9828,8 @@ Jefe final
 frArt martial
 
 ja機甲演武
+
+plSztuka walki
 
 ptArtes Marciais
 %
@@ -9010,7 +9871,7 @@ K�F�A
 enUrban Kings
 
 zh都市之王
-�����
+�����
 
 en	Enchanted
 
@@ -9019,6 +9880,9 @@ K�F�A
 fr	Enchanté
 !
 ja深闇のエンチャント
+
+pl
+Oczarowany
 
 ruЗаговорённый
 
@@ -9033,7 +9897,7 @@ K�F�A
 enShadowhunter Enchanted
 3
 ru-Мракоборец Заговорённый
-�����
+�����
 
 enSpider’s Den
 
@@ -9042,13 +9906,15 @@ K�F�A
 frRepaire de l'araignée
 
 jaクモの洞窟
+
+plLegowisko pająka
 
 ruПаучье логово
 
 ukПавуче лігво
 
 zh蜘蛛巢穴
-�����
+�����
 
 enVenom Swamp
 
@@ -9057,13 +9923,15 @@ K�F�A
 frMarais venimeux
 
 ja猛毒の沼
+
+plJadowite bagno
 #
 ruЯдовитое болото
 !
 ukОтруйні мочарі
 
 zh猛毒沼泽
-�����
+�����
 
 enCursed Cave
 
@@ -9072,13 +9940,15 @@ K�F�A
 frGrotte maudite
 
 ja呪いの晶洞
+
+plPrzeklęta jaskinia
 %
 ruПроклятая пещера
 #
 ukПроклята яскиня
 
 zh诅咒洞窟
-�����
+�����
 
 enSpooky Forest
 
@@ -9087,13 +9957,15 @@ K�F�A
 frForêt effrayante
 
 ja不気味の森
+
+plMroczny las
 
 ruЖуткий лес
 !
 ukМоторошний ліс
 
 zh幽魂森林
-�����
+�����
 
 enDanger Zone
 
@@ -9102,6 +9974,8 @@ K�F�A
 frZone de danger
 
 ja危険×地帯
+
+plStrefa zagrożenia
 
 ptZona de Perigo
 
@@ -9117,11 +9991,13 @@ K�F�A
 enVandal"
 
 enVandal
-����]
+����l
 
 enGlitch
 
 ja破壊的グリッチ
+
+plUsterka
 
 ru
 Глитч
@@ -9138,7 +10014,7 @@ K�F�A
 enCarro 45t Glitch
 
 ruCarro 45t Глитч
-�����
+�����
 
 enMoon Palace
 
@@ -9147,6 +10023,8 @@ K�F�A
 frPalais lunaire
 
 ja	月宮殿
+
+plPałac księżycowy
 
 ruЛунный дворец
 !
@@ -9202,7 +10080,7 @@ Q�L�
 enHellcat Arracourt"
 
 enHellcat Arracourt
-�����
+�����
 
 enMonster Evo.
 
@@ -9211,6 +10089,8 @@ Q�L�
 frMonstre Evo.
 
 jaモンスター Evo.
+
+plPotwór Ewol.
 
 ruМонстр Evo.
 
@@ -9231,7 +10111,7 @@ Q�L�
 ��
 
 en
-�����
+�����
 
 enRanks. Maturation
 
@@ -9240,6 +10120,8 @@ Q�L�
 frGrandes. Maturation
 
 jaランク道――円熟
+
+plStopnie. Dojrzewanie
 #
 ptClassificações. Maturação
 (
@@ -9248,7 +10130,7 @@ Q�L�
 uk"Ранги. Становлення
 
 zh段位：成熟
-�����
+�����
 
 enRanks. Overcoming
 
@@ -9257,6 +10139,8 @@ Q�L�
 frGrades. Domination
 
 jaランク道――克己
+ 
+plStopnie. Przezwyciężanie
 #
 ptClassificações. Superação
 $
@@ -9265,7 +10149,7 @@ $
 uk Ранги. Підкорення
 
 zh段位：飞跃
-�����
+�����
 
 enRanks. Perfection
 
@@ -9274,6 +10158,8 @@ $
 frGrades. Perfection
 
 jaランク道――大成
+
+plStopnie. Doskonałość
 #
 ptClassificações. Perfeição
 *
@@ -9285,7 +10171,7 @@ $
 ��
 
 enLa Calavera
-�����
+�����
 
 en
 All-Seeing
@@ -9296,6 +10182,8 @@ All-Seeing
 Omniscient
 
 ja見晴るかす王
+
+plWszystkowidzący
 
 ruВсевидящий
 
@@ -9385,13 +10273,15 @@ R�M�
 enIS-2 shld Trapper
 
 ruИС-2 экр. Trapper
-����a
+����n
 
 enTaiga
 
 frTaïga
 
 ja	タイガ
+
+plTajga
 
 ru
 Тайга
@@ -9451,7 +10341,7 @@ G�B�
 enChurchill W Defender"
 
 enChurchill W Defender
-�����
+�����
 
 enAncient Artifact
 
@@ -9460,6 +10350,8 @@ G�B�
 frArtefact antique
 
 ja太古の遺物
+
+plStarożytny artefakt
 
 ptArtefato Antigo
 %
@@ -9468,7 +10360,7 @@ G�B�
 uk'Стародавній артефакт
 
 zh古代神器
-�����
+�����
 
 enAge of Darkness
 
@@ -9477,6 +10369,8 @@ G�B�
 frÂge des ténèbres
 
 ja幾千年の闇の底
+
+plWiek ciemności
 
 ptEra das Trevas
 %
@@ -9485,7 +10379,7 @@ G�B�
 ukМорок тисячоліть
 
 zh黑暗纪元
-�����
+�����
 
 enDesert Guardian
 
@@ -9494,6 +10388,8 @@ G�B�
 frGardien du désert
 
 ja砂漠の番人
+
+plPustynny wartownik
 
 ptGuardião do Deserto
 
@@ -9551,7 +10447,7 @@ G�B�
 
 
 ukАС
-�����
+�����
 
 enRating Fighter
 $
@@ -9560,6 +10456,8 @@ $
 frCombattant des cotées
 *
 ja$レーティング・ファイター
+
+plPunktowany wojownik
 #
 ptCombatente da Classificação
 %
@@ -9568,7 +10466,7 @@ $
 uk!Рейтинговий боєць
 
 zh评级战士
-�����
+�����
 
 en	Elf Shoes
 
@@ -9577,6 +10475,9 @@ $
 frBottes de lutin
 
 jaエルフのブーツ
+
+pl
+Elfie buty
 
 ptSapatos de Elfos
 
@@ -9585,7 +10486,7 @@ $
 ukЧеревики ельфа
 
 zh	精灵靴
-�����
+�����
 
 enBag of Gifts
 
@@ -9594,6 +10495,8 @@ $
 frSac de cadeaux
 
 jaプレゼント袋
+
+plWorek prezentów
 
 ptSaco de Presentes
 !
@@ -9602,7 +10505,7 @@ $
 ukМішок подарунків
 
 zh	礼物袋
-�����
+�����
 
 enEvening by the Fireplace
 
@@ -9611,6 +10514,8 @@ $
 frLe soir au coin du feu
 
 jaまどろむ暖炉
+
+plWieczór przy kominku
 
 ptNoite Junto à Lareira
  
@@ -9619,7 +10524,7 @@ $
 uk Вечір біля каміну
 
 zh壁炉之夜
-�����
+�����
 
 en	Ice Giant
 
@@ -9628,6 +10533,8 @@ $
 frGéant de glace
 
 ja氷の巨人
+
+plLodowy olbrzym
 
 ptGigante de Gelo
 !
@@ -9664,7 +10571,7 @@ Z�U�
 enWT auf Pz. IV Darkwing"
 
 enWT auf Pz. IV Darkwing
-�����
+�����
 
 enGhost
 
@@ -9673,6 +10580,9 @@ Z�U�
 frFantôme
 
 ja怪物
+
+
+plDuch
 
 ptFantasma
 
@@ -9691,7 +10601,7 @@ KV-1 Ghost
 KV-1 Ghost
 
 ruКВ-1 Призрак
-����S
+����e
 
 en
 Jinglebell
@@ -9699,19 +10609,24 @@ Jinglebell
 esCascabel
 
 jaジングルベル
+
+pl
+Dzwoneczek
 
 zh铃儿响叮当
 
 enFrosty Jinglebell"
 
 enFrosty Jinglebell
-�����
+�����
 
 enExterminator
 
 frExterminateur
 
 ja蟲の殺し屋
+
+plDezynsektor
 
 ptExterminador
 
@@ -9758,13 +10673,16 @@ Jinglebell
 enObject 268/4 Chronos
 %
 ruОбъект 268/4 Хронос
-����S
+����e
 
 en	Disruptor
 
 frPerturbateur
 
 jaディスラプター
+
+pl
+Awanturnik
 
 zh	干扰器
 
@@ -9805,7 +10723,7 @@ Arniemania
 enStrv K Konung
 
 ruStrv K Конунг
-�����
+�����
 
 enTo the Ends of the Earth
 !
@@ -9814,6 +10732,8 @@ Arniemania
 frJusqu'au bout du monde
 
 jaまだ見ぬ世界ゆき
+
+plNa kraniec Ziemi
 
 ptAté os Confins da Terra
 
@@ -9822,7 +10742,7 @@ Arniemania
 ukНа край землі
 
 zh直到世界尽头
-�����
+�����
 
 enWarm Memories
 
@@ -9831,6 +10751,8 @@ Arniemania
 frSouvenirs chaleureux
 
 jaあったかい思い出
+
+plCiepłe wspomnienia
 
 ptMemórias Quentes
 +
@@ -9846,7 +10768,7 @@ P�K�
 enDefender D-Gunner"
 
 enDefender D-Gunner
-�����
+�����
 
 enFleeting Bloom
 
@@ -9855,6 +10777,8 @@ P�K�
 frFloraison éphémère
 
 ja泡沫の花香
+
+plPrzelotny rozkwit
 
 pt
 Flor Fugaz
@@ -9864,7 +10788,7 @@ Flor Fugaz
 uk)Швидкоплинний розквіт
 
 zh瞬间绽放
-�����
+�����
 
 enSunlit Dream
 
@@ -9873,6 +10797,8 @@ Flor Fugaz
 frRêve ensoleillé
 
 ja遠き陽光
+
+plSłoneczne marzenie
 
 ptSonho Ensolarado
  
@@ -9881,7 +10807,7 @@ Flor Fugaz
 uk"Осяяна сонцем мрія
 
 zh阳光幻梦
-�����
+�����
 
 enLand of Flowers
 
@@ -9891,6 +10817,8 @@ Flor Fugaz
 
 ja白花の青野
 
+plKwiecista kraina
+
 ptTerra das Flores
 
 ruЗемля цветов
@@ -9898,7 +10826,7 @@ Flor Fugaz
 ukЗемля квітів
 
 zh花卉之乡
-�����
+�����
 
 enPoet's Inspiration
 
@@ -9907,6 +10835,8 @@ Flor Fugaz
 frInspiration du poète
 
 ja詩神の囁き
+
+plInspiracja poety
 
 ptInspiração do Poeta
 '
@@ -9915,7 +10845,7 @@ Flor Fugaz
 ukНатхнення поета
 
 zh诗人灵感
-�����
+�����
 
 
 enFree
@@ -9925,6 +10855,8 @@ Flor Fugaz
 frGratuit
 
 jaさすらいの雄風
+
+plWolny
 
 ruВольный
 
@@ -9939,7 +10871,7 @@ Flor Fugaz
 en	Free Wind
 
 ruВольный Ветер
-�����
+�����
 
 enNine-Colors
 
@@ -9948,6 +10880,8 @@ Flor Fugaz
 frÀ neuf couleurs
 
 ja	九色彩
+
+plDziewięciobarwny
 
 pt
 Nove-Cores
@@ -9965,7 +10899,7 @@ Nove-Cores
 enWZ-113 Nine-Colors
 '
 ru!WZ-113 Девятицветный
-�����
+�����
 
 enEars to the Ground
 
@@ -9974,6 +10908,8 @@ Nove-Cores
 frOreilles contre le sol
 
 jaピョンと耳立てて
+
+plUszy przy ziemi
 
 ptOuvidos no Chão
 "
@@ -10008,7 +10944,7 @@ R�M�
 enGrille 15 Förster"
 
 enGrille 15 Förster
-�����
+�����
 
 enProfessional Green
 
@@ -10017,6 +10953,8 @@ R�M�
 frProfessionnel vert
 0
 ja*プロフェッショナル・グリーン
+
+plZielony Profesjonalista
 
 ptVerde Profissional
 5
@@ -10025,7 +10963,7 @@ R�M�
 uk%Професійний Зелений
 
 zh	职业绿
-�����
+�����
 
 enProfessional Violet
 
@@ -10034,6 +10972,8 @@ R�M�
 frProfessionnel violet
 6
 ja0プロフェッショナル・バイオレット
+
+plFioletowy Profesjonalista
 
 ptVioleta Profissional
 ;
@@ -10042,7 +10982,7 @@ R�M�
 uk+Професійний Фіолетовий
 
 zh	职业紫
-�����
+�����
 
 enMoon Rabbit
 
@@ -10051,19 +10991,24 @@ R�M�
 frLapin lunaire
 
 ja	朧月兎
+
+plKsiężycowy królik
 
 ruЛунный заяц
 !
 ukМісячний заєць
 
 zh月兔
-����k
+����w
 
 enSteppe
 
 esEstepa
 
 jaステップの原野
+
+
+plStep
 
 ru
 Степь
@@ -10080,7 +11025,7 @@ R�M�
 en	IS Steppe
 
 ruИС Степь
-�����
+�����
 
 enUnbreakable
 
@@ -10088,6 +11033,9 @@ R�M�
 
 fr
 Incassable
+
+pl
+Niezłomny
 
 ptIndestrutível
 
@@ -10104,7 +11052,7 @@ Incassable
 enBisonte Unbreakable
 &
 ru Bisonte Непреклонный
-�����
+�����
 
 enWinter Tournament
 
@@ -10113,6 +11061,8 @@ Incassable
 frTournoi d'hiver
 
 jaトーナメントの冬
+
+plTurniejowy zimowy
 
 ptTorneio de Inverno
 %
@@ -10121,7 +11071,7 @@ Incassable
 uk!Турнірний Зимовий
 
 zh	冬季赛
-�����
+�����
 
 enSpring Tournament
 
@@ -10130,6 +11080,8 @@ Incassable
 frTournoi du printemps
 
 jaトーナメントの春
+
+plTurniejowy wiosenny
 
 ptTorneio de Primavera
 )
@@ -10138,7 +11090,7 @@ Incassable
 uk#Турнірний Весняний
 
 zh	春季赛
-�����
+�����
 
 enSummer Tournament
 
@@ -10147,6 +11099,8 @@ Incassable
 frTournoi d'été
 
 jaトーナメントの夏
+
+plTurniejowy letni
 
 ptTorneio de Verão
 %
@@ -10155,7 +11109,7 @@ Incassable
 ukТурнірний Літній
 
 zh	夏季赛
-�����
+�����
 
 enAutumn Tournament
 
@@ -10164,6 +11118,8 @@ Incassable
 frTournoi d'automne
 
 jaトーナメントの秋
+
+plTurniejowy jesienny
 
 ptTorneio de Outono
 '
@@ -10197,7 +11153,7 @@ t�o�8
 enLeopard 1 Irbis"
 
 enLeopard 1 Irbis
-�����
+�����
 
 enUrban Pulse
 
@@ -10206,6 +11162,8 @@ t�o�8
 frPulsion urbaine
 
 ja大都会エッジ
+
+plRytm wielkiego miasta
 
 ptPulso Urbano
 
@@ -10214,7 +11172,7 @@ t�o�8
 ukГрані міста
 
 zh城市脉动
-�����
+�����
 
 enNeon Vertigo
 
@@ -10223,6 +11181,8 @@ t�o�8
 frNéon Vertigo
 
 ja都市圏スペクトル
+
+plNeonowy zawrót głowy
 '
 ru!Спектр мегаполиса
 '
@@ -10232,7 +11192,7 @@ t�o�8
 ��
 
 enAd Astra
-�����
+�����
 
 enRating Luck
 
@@ -10241,6 +11201,8 @@ t�o�8
 frChance des cotées
 
 jaレーティングの功
+
+plPunktowany fart
 
 ptSorte na Classificação
 '
@@ -10249,7 +11211,7 @@ t�o�8
 ukРейтингова удача
 
 zh评级好运
-����x
+�����
 
 enColossus
 
@@ -10258,6 +11220,8 @@ t�o�8
 frColosse
 
 jaコロッサス
+
+plKolos
 
 ruКолосс
 
@@ -10273,7 +11237,7 @@ t�o�8
 enLöwe Colossus
 
 ruLöwe Колосс
-�����
+�����
 
 enImmortal
 
@@ -10282,6 +11246,8 @@ t�o�8
 frImmortel
 
 ja不滅の蟠龍
+
+plNieśmiertelny
 
 ruБессмертный
 
@@ -10296,7 +11262,7 @@ t�o�8
 enPanlong Immortal
 +
 ru%Паньлун Бессмертный
-�����
+�����
 
 enLost Temple
 
@@ -10305,6 +11271,8 @@ t�o�8
 frTemple perdu
 
 ja蒼然の寺
+
+plZaginiona świątynia
 
 ptTemplo Perdido
 %
@@ -10313,7 +11281,7 @@ t�o�8
 ukЗагублений храм
 
 zh失落的神庙
-�����
+�����
 
 enValiant Warrior
 
@@ -10322,6 +11290,8 @@ t�o�8
 frVaillant guerrier
 
 ja忠義の士
+
+plDzielny wojownik
 
 ptGuerreiro de Valor
 #
@@ -10330,7 +11300,7 @@ t�o�8
 ukЗвитяжний воїн
 
 zh勇者
-�����
+�����
 
 enDragon's Lair
 
@@ -10339,6 +11309,8 @@ t�o�8
 frTanière du dragon
 
 ja龍護の洞
+
+plLegowisko smoka
 
 ptCovil do Dragão
 !
@@ -10347,7 +11319,7 @@ t�o�8
 ukЛігво дракона
 
 zh龙穴
-�����
+�����
 
 enTreasure Map
 
@@ -10356,6 +11328,8 @@ t�o�8
 frCarte au trésor
 
 ja神器の導
+
+plMapa skarbów
 
 ptMapa do Tesouro
 !
@@ -10388,7 +11362,7 @@ t�o�8
 enT49 Guanlong
 
 ruT49 Гуаньлун
-�����
+�����
 
 enStegosaurus
 
@@ -10397,6 +11371,8 @@ t�o�8
 frStégosaure
 
 jaステゴサウルス
+
+pl	Stegozaur
 
 ruСтегозавр
 
@@ -10411,7 +11387,7 @@ t�o�8
 enTornvagn Stegosaurus
 !
 ruTornvagn Стегозавр
-�����
+�����
 
 enSpinosaurus
 
@@ -10421,6 +11397,8 @@ t�o�8
 Spinosaure
 
 jaスピノサウルス
+
+pl	Spinozaur
 
 ruСпинозавр
 
@@ -10435,7 +11413,7 @@ Spinosaure
 enSTB-1 Spinosaurus
 
 ruSTB-1 Спинозавр
-�����
+�����
 
 enAnkylosaurus
 
@@ -10444,6 +11422,9 @@ Spinosaure
 frAnkylosaure
 
 jaアンキロサウルス
+
+pl
+Ankylozaur
 
 ruАнкилозавр
 
@@ -10458,7 +11439,7 @@ Spinosaure
 enM-VI-Yoh Ankylosaurus
 #
 ruM-VI-Yoh Анкилозавр
-�����
+�����
 
 enEnduring
 
@@ -10467,6 +11448,8 @@ Spinosaure
 frEndurant
 
 ja強靭の象
+
+pl	Wytrwały
 
 pt	Duradouro
 
@@ -10499,7 +11482,7 @@ q�l�+
 enRhm.-B. WT Tarnkappe"
 
 enRhm.-B. WT Tarnkappe
-�����
+�����
 
 enEndless Space
 
@@ -10508,6 +11491,8 @@ q�l�+
 frEspace infini
 $
 jaエンドレス・スペース
+
+plBezkresna przestrzeń
 
 ptEspaço Sem Limite
 '
@@ -10516,7 +11501,7 @@ $
 ukБезмежний космос
 
 zh无垠太空
-�����
+�����
 
 enSpace Station
 
@@ -10525,6 +11510,8 @@ $
 frStation spatiale
 
 ja星海ステーション
+
+plStacja kosmiczna
 
 ptEstação Espacial
 +
@@ -10533,7 +11520,7 @@ $
 ukКосмічна станція
 
 zh	空间站
-�����
+�����
 
 enFlight Control
 
@@ -10543,6 +11530,8 @@ $
 
 ja航宙コントロール
 
+plKontrola lotów
+
 ptControle do Voo
 )
 ru#Управление полётом
@@ -10550,7 +11539,7 @@ $
 uk#Керування польотом
 
 zh飞行控制
-�����
+�����
 
 enLife Support System
 
@@ -10559,6 +11548,8 @@ $
 frSystème de survie
 !
 jaライフオーダー管区
+"
+plSystem podtrzymywania życia
 
 ptSistema de Suporte Vital
 /
@@ -10567,7 +11558,7 @@ $
 uk1Система життєзабезпечення
 
 zh生命维持系统
-�����
+�����
 
 enSignal in the Void
 
@@ -10576,6 +11567,8 @@ $
 frSignal dans le vide
 
 ja果てなきシグナル
+
+plSygnał pustki
 
 ptSinal no Vazio
 0
@@ -10620,7 +11613,7 @@ F�A�
 enT34 H-Combat"
 
 enT34 H-Combat
-�����
+�����
 
 enEggstravagant
 
@@ -10629,13 +11622,15 @@ F�A�
 frŒufxtravagant
 
 ja満彩の手提げカゴ
+
+plEggscentryczny
 !
 ruПолное лукошко
 
 ukПовний кошик
 
 zh缤纷彩蛋
-�����
+�����
 
 enArachnid
 
@@ -10644,6 +11639,8 @@ F�A�
 fr	Arachnide
 
 jaクモの類縁
+
+pl	Pajęczak
 
 ruАрахнид
 
@@ -10731,7 +11728,7 @@ X�S�
 enŠkoda P-JS Xeno"
 
 enŠkoda P-JS Xeno
-�����
+�����
 
 enIntergalactic Voyager
 
@@ -10740,6 +11737,8 @@ X�S�
 frVoyageur intergalactique
 *
 ja$インターギャラクティック
+$
+plMiędzygalaktyczny podróżnik
 
 ptViagem Intergalática
  
@@ -10748,7 +11747,7 @@ X�S�
 ukІнтергалактик
 
 zh星际旅者
-�����
+�����
 
 enModified Specimen
 
@@ -10757,6 +11756,8 @@ X�S�
 frSpécimen modifié
 
 ja自在の顕現
+
+plZmodyfikowany osobnik
 
 ptEspécime Modificada
 5
@@ -10765,7 +11766,7 @@ X�S�
 uk'Модифікований зразок
 
 zh改造样本
-�����
+�����
 
 enVoltage Glow
 
@@ -10774,6 +11775,8 @@ X�S�
 frRayonnement électrique
 
 ja流電仄灯
+
+plBlask napięcia
 
 ptBrilho de Voltagem
 3
@@ -10782,7 +11785,7 @@ X�S�
 ukСяйво напруги
 
 zh电压辉光
-�����
+�����
 
 enCelestial Kaleidoscope
 
@@ -10791,6 +11794,8 @@ X�S�
 frKaléidoscope céleste
 
 ja青月の色硝子
+
+plNiebiański kalejdoskop
 
 ptCaleidoscópio Celestial
 )
@@ -10799,7 +11804,7 @@ X�S�
 uk'Небесний калейдоскоп
 
 zh天体万花筒
-�����
+�����
 
 enPolymetallic Cover
 
@@ -10808,6 +11813,8 @@ X�S�
 frProtection polymétallique
 
 ja白銀飾彫
+
+plPolimetaliczna osłona
 
 ptCobertura Polimetálica
 9
@@ -10816,7 +11823,7 @@ X�S�
 uk)Поліметалева оболонка
 
 zh多金属外壳
-����}
+�����
 
 enThunderstorm
 
@@ -10825,6 +11832,8 @@ X�S�
 frOrage
 
 ja閃く雷雨
+
+plBurza
 
 ru
 Гроза
@@ -10841,7 +11850,7 @@ X�S�
 enAMX 50 B Thunderstorm
 
 ruAMX 50 B Гроза
-�����
+�����
 
 enSplendid Spectacle
 
@@ -10850,6 +11859,8 @@ X�S�
 frSpectacle splendide
 !
 ja栄光のスペクタクル
+
+plWyborny spektakl
 
 ptEspetáculo Esplêndido
 
@@ -10858,7 +11869,7 @@ X�S�
 ukБлиск і слава
 
 zh恢弘奇观
-�����
+�����
 
 enRustplate Exosuit
 
@@ -10867,13 +11878,15 @@ X�S�
 frExocombinaison rouillée
 
 ja錆鉄骨スーツ
+!
+plZaśniedziały egzoszkielet
 /
 ru)Металлический экзощит
 )
 uk#Іржавий екзокостюм
 
 zh锈板外壳
-�����
+�����
 
 enProtective Coating
 
@@ -10882,6 +11895,8 @@ X�S�
 frRevêtement protecteur
 
 ja防護バリケード
+
+plPowłoka ochronna
 
 ptRevestimento Protetor
 '
@@ -10890,7 +11905,7 @@ X�S�
 ukЗахисне покриття
 
 zh防护涂层
-�����
+�����
 
 enRestricted Zone
 
@@ -10899,6 +11914,8 @@ X�S�
 frZone restreinte
 
 ja乖離ゾーン
+
+plStrefa chroniona
 
 ptZona Restrita
 #
@@ -10907,7 +11924,7 @@ X�S�
 ukЗаборонена зона
 
 zh	限制区
-�����
+�����
 
 enMechanical Shell
 
@@ -10916,6 +11933,8 @@ X�S�
 frCoquille mécanique
 
 ja機関シェル
+
+plMechaniczna powłoka
 
 ptCarcaça Mecânica
 /
@@ -10975,11 +11994,13 @@ N�I�
 enVz. 55 Xeno"
 
 enVz. 55 Xeno
-~�y�8
+����I
 
 enInventor
 
 ja天才発明家
+
+pl	Wynalazca
 
 zh	发明家
 
@@ -11049,7 +12070,7 @@ x�s�4
 enProgetto 65 Maestro"
 
 enProgetto 65 Maestro
-�����
+�����
 
 en
 Neon Fades
@@ -11059,6 +12080,8 @@ Neon Fades
 frNéons estompés
 
 jaフェードゾーン
+
+plNeonowe plamy
 
 ptResquícios de Neon
 
@@ -11067,7 +12090,7 @@ Neon Fades
 ukНеонове згасання
 
 zh褪色霓虹
-�����
+�����
 
 enAbandoned Beauty
 
@@ -11076,6 +12099,8 @@ Neon Fades
 frBeauté oubliée
 *
 ja$プログレッション・ルイン
+
+plOpuszczone piękno
 
 ptBeleza Abandonada
 #
@@ -11084,7 +12109,7 @@ Neon Fades
 ukПокинута краса
 
 zh混乱美感
-�����
+�����
 
 en
 Grim Place
@@ -11094,6 +12119,8 @@ Grim Place
 frLieu sinistre
 *
 ja$ダウンタウン・デンジャー
+
+plPonure miejsce
 
 ptLugar Sombrio
 %
@@ -11102,7 +12129,7 @@ Grim Place
 ukПохмуре місце
 
 zh阴森之地
-�����
+�����
 
 enEchoes of Elegance
 
@@ -11111,6 +12138,8 @@ Grim Place
 frSouvenirs d'élégance
 *
 ja$ビハインド・スプレンダー
+
+plEcha elegancji
 
 ptEcos de Elegância
 %
@@ -11119,7 +12148,7 @@ Grim Place
 uk)Відлуння витонченості
 
 zh优雅回响
-�����
+�����
 
 enBig Wave
 
@@ -11129,6 +12158,8 @@ Grim Place
 
 jaビッグウェーブ
 
+plWielka fala
+
 ptGrande Onda
 
 ruБольшая волна
@@ -11136,7 +12167,7 @@ Grim Place
 ukВелика хвиля
 
 zh	大波浪
-�����
+�����
 
 enLuminescent Glow
 
@@ -11145,6 +12176,8 @@ Grim Place
 frLueur luminescente
 $
 jaルミネセンス・グロウ
+
+plLuminescencyjna poświata
 
 ptBrilho Luminescente
 3
@@ -11153,20 +12186,24 @@ $
 uk%Люмінесцентне сяйво
 
 zh冷光
-U�P�
+f�a�.
 
 enDignity
+
+pl	Godność
 
 zh庄严
 
 enTS-60 Dignity"
 
 enTS-60 Dignity
-t�o�<
+����O
 
 en	Rocketeer
 
 jaロケッティア
+
+plRakietowiec
 
 zh	火箭兵
 
@@ -11199,19 +12236,21 @@ y�t�5
 enIS-3 Roamer
 
 ruИС-3 Roamer
-��}�@
+����P
 
 en
 Peacemaker
 
 jaピースメーカー
+
+plRozjemca
 
 zh	和事佬
 
 enOutcast Peacemaker"
 
 enOutcast Peacemaker
-�����
+�����
 
 enEerie Stillness
 
@@ -11220,6 +12259,8 @@ Peacemaker
 frCalme inquiétant
 
 jaざわめく静寂
+
+plUpiorny bezruch
 
 ptQuietude Misteriosa
 #
@@ -11228,7 +12269,7 @@ Peacemaker
 ukМоторошна тиша
 
 zh诡异的寂静
-�����
+�����
 
 enThreads of Darkness
 
@@ -11237,6 +12278,8 @@ Peacemaker
 frFils des ténèbres
 
 ja漆黒の織糸
+
+plStrzępy ciemności
 
 ptFios da Escuridão
 
@@ -11245,7 +12288,7 @@ Peacemaker
 ukНитки мороку
 
 zh黑暗威胁
-�����
+�����
 
 enCreepy Roots
 
@@ -11254,6 +12297,8 @@ Peacemaker
 frRacines effrayantes
 
 ja這い寄る根
+
+plPrzerażające korzenie
 
 ptRaízes Assustadoras
 %
@@ -11262,7 +12307,7 @@ Peacemaker
 ukКорені жаху
 
 zh恐怖根须
-�����
+�����
 
 enSwamp Monster
 
@@ -11271,6 +12316,8 @@ Peacemaker
 frMonstre du marais
 
 ja沼地のモンスター
+
+plBagienny potwór
 
 ptMonstro do Pântano
 !
@@ -11279,7 +12326,7 @@ Peacemaker
 ukБолотний монстр
 
 zh沼泽怪物
-�����
+�����
 
 enCrystal Quarry
 
@@ -11288,6 +12335,8 @@ Peacemaker
 frCarrière de cristal
 
 jaクリスタル坑道
+
+plKopalnia kryształów
 
 ptPedreira de Cristal
 )
@@ -11296,7 +12345,7 @@ Peacemaker
 uk"Кришталевий кар'єр
 
 zh水晶矿场
-�����
+�����
 
 enMolecular Cascade
 
@@ -11305,6 +12354,8 @@ Peacemaker
 frCascade moléculaire
 
 ja分子カスケード
+
+plKaskada cząsteczek
 
 ptCascata Molecular
 +
@@ -11313,7 +12364,7 @@ Peacemaker
 uk%Молекулярний каскад
 
 zh分子级联
-�����
+�����
 
 enSubterranean Lab
 
@@ -11322,6 +12373,8 @@ Peacemaker
 frLabo souterrain
 
 jaラボ地中局
+
+plPodziemne laboratorium
 
 ptLaboratório Subterrâneo
 /
@@ -11330,7 +12383,7 @@ Peacemaker
 uk'Підземна лабораторія
 
 zh地下实验室
-�����
+�����
 
 enUncharted Catalyst
 
@@ -11339,6 +12392,8 @@ Peacemaker
 frCatalyseur inconnu
 
 ja未分類カタリスト
+
+plNiezbadany czynnik
 
 ptCatalisador Desconhecido
 /
@@ -11361,7 +12416,7 @@ Y�T�
 enSheridan Wavebreaker"
 
 enSheridan Wavebreaker
-����m
+����~
 
 enSwale
 
@@ -11371,6 +12426,8 @@ Y�T�
 frNoue
 
 ja湿地の暗影
+
+pl	Uroczysko
 
 
 ptVala
@@ -11384,7 +12441,7 @@ Y�T�
 
 en
 53TP Swale
-����q
+�����
 
 enDriller
 
@@ -11393,6 +12450,8 @@ Y�T�
 fr	Tunnelier
 
 jaドリラー
+
+plWiertło
 
 pt
 Perfurador
@@ -11404,11 +12463,13 @@ Perfurador
 enM-III-Yoh Driller"
 
 enM-III-Yoh Driller
-����Y
+����j
 
 en	Baba-Yaga
 
 jaバーバ・ヤガー
+
+pl	Baba Jaga
 
 ruБаба-яга
 
@@ -11421,7 +12482,7 @@ Perfurador
 enIS-7 Baba-Yaga
 
 ruИС-7 Баба-яга
-�����
+�����
 
 enRating Zeal
 !
@@ -11430,6 +12491,8 @@ Perfurador
 frZèle des cotées
 '
 ja!意気軒昂のレーティング
+
+plZapał punktacyjny
 
 ptZelo de Classificação
 !
@@ -11438,7 +12501,7 @@ Perfurador
 uk%Рейтингове завзяття
 
 zh评级狂热
-�����
+�����
 
 enPowerful Rating
 
@@ -11447,6 +12510,8 @@ Perfurador
 frCote de puissance
 !
 jaレーティングの底力
+
+plPotęga punktacji
 
 ptClassificação Poderosa
 !
@@ -11455,7 +12520,7 @@ Perfurador
 ukПотужний рейтинг
 
 zh强大评级
-�����
+�����
 
 en
 Terrifying
@@ -11466,6 +12531,8 @@ Terrifying
 Terrifiant
 
 ja恐慄のキメラ
+
+plPrzerażający
 
 ptAterrorizante
 
@@ -11489,11 +12556,13 @@ Terrifiant
 enLeopard Barrikade"
 
 enLeopard Barrikade
-����k
+����y
 
 enAzimuth
 
 ja天体方位
+
+plAzymut
 
 ptAzimute
 
@@ -11521,7 +12590,7 @@ Terrifiant
 enTiger II Aurora"
 
 enTiger II Aurora
-�����
+�����
 
 enPolar Drift
 
@@ -11530,6 +12599,8 @@ Terrifiant
 frDérive polaire
 !
 jaポーラー・ドリフト
+
+plDryf polarny
 
 ptVento Polar
 !
@@ -11538,7 +12609,7 @@ Terrifiant
 ukПолярний дрейф
 
 zh极地漂移
-�����
+�����
 
 enJotun's Camp
 
@@ -11547,6 +12618,8 @@ Terrifiant
 frCampement de Jotun
 !
 jaヨトゥンのキャンプ
+
+plObóz Jotuna
 
 ptAcampamento de Jotun
 
@@ -11562,7 +12635,7 @@ Q�L�G
 jaノルシュケハーヴェ
 
 zh	挪威海
-�����
+�����
 
 enNorthern Fest
 
@@ -11571,6 +12644,8 @@ Q�L�G
 frFête nordique
 !
 jaノーザン・フェスト
+
+plFestiwal północny
 
 ptFestival do Norte
 %
@@ -11596,7 +12671,7 @@ Q�L�G
 enCS-63 Starcatcher"
 
 enCS-63 Starcatcher
-�����
+�����
 
 enLeaves and Tails
 
@@ -11605,6 +12680,8 @@ Q�L�G
 frFeuilles et dindes
 
 ja紅葉と尾羽
+
+plLiście i ogony
 
 ptFolhas e Caudas
 "
@@ -11621,7 +12698,7 @@ Tiki Chill
 frTiki-détente
 
 ukТікі-релакс
-�����
+�����
 
 en	Field Net
 
@@ -11631,6 +12708,8 @@ Tiki Chill
 
 jaベクトルネット
 
+plSiatka polowa
+
 ptRede de Campo
 
 ruСиловая сеть
@@ -11638,7 +12717,7 @@ Tiki Chill
 ukСилова сітка
 
 zh	战地网
-�����
+�����
 
 en
 Plasmabite
@@ -11648,13 +12727,15 @@ Plasmabite
 frMorsure du plasma
 
 jaプラズマバーン
+
+plPlazmowżery
 #
 ruПлазменный ожог
 !
 ukПлазмовий опік
 
 zh等离子灼烧
-�����
+�����
 
 enStatic Storm
 
@@ -11663,6 +12744,8 @@ Plasmabite
 frTempête statique
 $
 jaスタティックストーム
+
+plBurza statyczna
 
 ptTempestade Estática
 '
@@ -11671,7 +12754,7 @@ $
 ukСтатичний шторм
 
 zh静电风暴
-x�s�n
+�����
 
 enInterfusion
 
@@ -11679,10 +12762,12 @@ x�s�n
 $
 jaインターフュージョン
 
+plPrzenikanie
+
 ptInterfusão
 
 zh融合
-�����
+�����
 
 enFlamedragon
 
@@ -11691,6 +12776,8 @@ $
 frDragon de flamme
 
 jaフレイムドラゴン
+
+plOgnisty smok
 
 ptChamas de Dragão
 %
@@ -11703,7 +12790,7 @@ $
 enWZ-122 TM Flamedragon"
 
 enWZ-122 TM Flamedragon
-�����
+�����
 
 enSand Cruise
 
@@ -11712,6 +12799,8 @@ $
 frCroiseur des dunes
 
 ja	砂遊船
+
+plPiaszczysta podróż
 
 ptCruzador de Areia
 #
@@ -11742,11 +12831,13 @@ $
 enBZ-58-2 Beryl"
 
 enBZ-58-2 Beryl
-����R
+����`
 
 enRevenant
 
 jaレヴェナント
+
+plUpiór
 
 ruУцелевший
 
@@ -11766,13 +12857,15 @@ O�J�
 enWZ-121 Neon Wild"
 
 enWZ-121 Neon Wild
-�����
+�����
 
 enConstructor
 
 frConstructeur
 
 jaコンストラクター
+
+plKonstruktor
 
 pt
 Construtor
@@ -11786,7 +12879,7 @@ Construtor
 enSMV CC-64 Constructor"
 
 enSMV CC-64 Constructor
-�����
+�����
 
 enImposter
 
@@ -11795,6 +12888,8 @@ Construtor
 fr	Imposteur
 
 jaインポスター
+
+plOszust
 
 ptImpostor
 
@@ -11811,7 +12906,7 @@ Construtor
 enRhm.-B. WT Imposter
 !
 ruRhm.-B. WT Лазутчик
-����~
+�����
 
 enTempest
 
@@ -11820,6 +12915,9 @@ Construtor
 frTempête
 
 jaテンペスト
+
+pl
+Nawałnica
 
 pt
 Tempestade
@@ -11835,7 +12933,7 @@ Tempestade
 enIS-4 Tempest
 
 ruИС-4 Буря
-�����
+�����
 
 en	Antiphase
 
@@ -11844,6 +12942,8 @@ Tempestade
 frOpposition de phase
 
 ja	逆位相
+
+plPrzeciwfaza
 
 ptAntifase
 
@@ -11852,7 +12952,7 @@ Tempestade
 ukПротифаза
 
 zh反相
-�����
+�����
 
 enMeta-Stable
 
@@ -11862,6 +12962,8 @@ Tempestade
 
 ja準安定ステート
 
+plMetastabilny
+
 ptMetaestável
 &
 ru Метастабильность
@@ -11869,7 +12971,7 @@ Tempestade
 uk Метастабільність
 
 zh	亚稳态
-�����
+�����
 
 enSpontaneous Emission
 
@@ -11878,6 +12980,8 @@ Tempestade
 frÉmission spontanée
 
 ja自然放出プロセス
+
+plSpontaniczna emisja
 
 ptEmissão Espontânea
 -
@@ -11886,7 +12990,7 @@ Tempestade
 uk/Спонтанне випромінювання
 
 zh自发辐射
-�����
+�����
 
 enSaturation Photocurrent
 "
@@ -11895,6 +12999,8 @@ Tempestade
 frSaturation photovoltaïque
 
 ja飽和光電流
+
+plFotoprąd nasycenia
 !
 ptSaturação de Fotocorrente
 '
@@ -11903,7 +13009,7 @@ Tempestade
 uk%Фотострум насичення
 
 zh饱和光电流
-�����
+�����
 
 en
 Encryption
@@ -11914,6 +13020,8 @@ Encryption
 Encryptage
 
 ja暗号化コード
+
+plSzyfrowanie
 
 ptCriptografia
 
@@ -11940,7 +13048,7 @@ Destruidor
 enP.44 Pantera Shredder"
 
 enP.44 Pantera Shredder
-�����
+�����
 
 en	Channel 6
 
@@ -11950,6 +13058,8 @@ Destruidor
 Channel 6
 
 jaチャンネル 6
+
+plKanał 6
 
 ptCanal 6
 
@@ -11963,7 +13073,7 @@ Channel 6
 enT110E5 Channel 6"
 
 enT110E5 Channel 6
-�����
+�����
 
 en	Principle
 
@@ -11972,6 +13082,8 @@ Channel 6
 frPrincipe
 
 jaプリンシプル
+
+plZasada
 
 ptPrincípios
 
@@ -11984,7 +13096,7 @@ Channel 6
 enShPTK-TVP Principle"
 
 enShPTK-TVP Principle
-�����
+�����
 
 enWhere Is My Pizza?!
 
@@ -11993,6 +13105,8 @@ Channel 6
 frOù est ma pizza ?!
 #
 jaボクのピザ知らない?!
+
+plGdzie moja pizza?!
 
 ptOnde Está Minha Pizza?!
  
@@ -12001,7 +13115,7 @@ Channel 6
 ukДе моя піца?!
 
 zh我的披萨呢？！
-�����
+�����
 
 enJump in the Party Wagon!
 $
@@ -12010,6 +13124,8 @@ $
 frDans le Van des Tortues !
 +
 ja%パーティワゴンに飛び乗れ!
+
+plWskakuj do imprezowozu!
  
 ptEntre no Furgão de Festa!
 3
@@ -12018,7 +13134,7 @@ $
 uk9Застрибуй у фургон для вечірок!
 
 zh坐上派对车！
-�����
+�����
 
 enMeet in the Sewers!
 (
@@ -12027,6 +13143,8 @@ $
 frRendez-vous dans les égouts !
 "
 ja下水道で待ってるぜ!
+
+plSpotkanie w kanałach!
 
 ptReunião no Esgoto!
 5
@@ -12035,7 +13153,7 @@ $
 uk3Зустрінемося в каналізації!
 
 zh下水道见！
-�����
+�����
 
 enEvil Won't Pass!
 
@@ -12044,6 +13162,8 @@ $
 frLe Mal ne passera pas !
 (
 ja"悪が栄えた試なしってな!
+
+plZło nie ma wstępu!
 
 ptO Mal Não Passará!
 !
@@ -12067,13 +13187,15 @@ $
 enKa-Ri Morinoko-Ju"
 
 enKa-Ri Morinoko-Ju
-����e
+����y
 
 enVertex
 
 esVértice
 !
 jaバーテックス集約体
+
+plWierzchołek
 
 ukВертекс
 
@@ -12082,7 +13204,7 @@ $
 en53TP Vertex"
 
 en53TP Vertex
-�����
+�����
 
 enPrecious Marquetry
 
@@ -12091,6 +13213,8 @@ $
 frMarqueterie précieuse
 
 ja貴石細工
+
+plDrogocenna markieteria
 
 ptMarchetaria Preciosa
 3
@@ -12099,13 +13223,15 @@ $
 uk!Коштовне маркетрі
 
 zh珍贵镶嵌艺术
-�����
+�����
 
 en	TMNT Camo
 
 esCamuflaje «TMNT»
 
 frCamo Tortues Ninja
+
+plKamuflaż TMNT
 $
 ptCamuflagem As Tartarugas Ninja
 %
@@ -12114,13 +13240,15 @@ $
 uk4Камуфляж «Черепашки-ніндзя»
 
 zh忍者神龟涂装
-�����
+�����
 
 enSplinter Camo
 
 esCamuflaje «Splinter»
 
 frCamo Splinter
+
+plKamuflaż Splinter
 
 ptCamuflagem Splinter
 
@@ -12129,7 +13257,7 @@ $
 uk%Камуфляж «Сплінтер»
 
 zh斯普林特涂装
-�����
+�����
 
 en	Custodian
 
@@ -12138,6 +13266,8 @@ $
 fr	Nettoyeur
 
 ja	監督者
+
+plDozorca
 
 ptZelador
 
@@ -12150,7 +13280,7 @@ $
 enChieftain Mk. 6 Custodian"!
 
 enChieftain Mk. 6 Custodian
-�����
+�����
 
 enHenhouse
 
@@ -12160,6 +13290,8 @@ $
 Poulailler
 
 jaニワトリ小屋
+
+plKurnik
 
 pt
 Galinheiro
@@ -12177,7 +13309,7 @@ Galinheiro
 enFV4005 Henhouse
 
 ruFV4005 Курятник
-�����
+�����
 
 
 enFuze
@@ -12187,6 +13319,8 @@ Galinheiro
 frMèche
 
 ja起爆ヒューズ
+
+plZapalnik
 
 ptEspoleta
 
@@ -12208,11 +13342,14 @@ L�G�B
 esMusica elettronica
 
 zh电音
-����m
+����
 
 enPartysan
 
 esFestivalero
+
+pl
+Imprezobus
 
 ptFesteiro
 !
@@ -12251,9 +13388,11 @@ L�G�B
 ukАвтопригода
 
 zh公路旅行
-~�y�t
+�����
 
 en	Weekender
+
+plWeekendówka
 
 ptBolsa de Viagem
 
@@ -12262,13 +13401,15 @@ L�G�B
 ukСаквояж
 
 zh周末旅行包
-�����
+�����
 
 enDaydreamin'
 
 esSueño colorido
 
 frRêverie
+
+plSen na jawie
 
 ptViajando no Som
 
@@ -12277,7 +13418,7 @@ L�G�B
 ukМрійливий
 
 zh白日美梦
-�����
+�����
 
 en
 Main Stage
@@ -12285,6 +13426,8 @@ Main Stage
 esRey del escenario
 
 frGrande scène
+
+plScena główna
 
 ptPalco Principal
 
@@ -12301,7 +13444,7 @@ Alpha-1701
 enT92E1 Alpha-1701"
 
 enT92E1 Alpha-1701
-�����
+�����
 
 enLollipop
 
@@ -12310,6 +13453,8 @@ Alpha-1701
 frBonbon
 $
 jaペロペロキャンディー
+
+plLizak
 
 ptPirulito
 
@@ -12326,7 +13471,7 @@ $
 enT-62A Lollipop
 
 ruТ-62А Леденец
-�����
+�����
 
 en
 Borg Drone
@@ -12337,6 +13482,8 @@ Borg Drone
 Drone Borg
 
 jaボーグ・ドローン
+
+pl	Dron Borg
 
 pt
 Drone Borg
@@ -12356,7 +13503,7 @@ Borg Drone
 Borg Drone
 
 ruДрон Боргов
-�����
+�����
 
 enVulcan Wisdom
 
@@ -12365,6 +13512,8 @@ Borg Drone
 frSagesse vulcaine
 
 jaヴァルカンの叡智
+
+plWolkańska mądrość
 
 ptSabedoria Vulcana
 +
@@ -12373,7 +13522,7 @@ Borg Drone
 uk%Вулканська мудрість
 
 zh瓦肯智慧
-�����
+�����
 
 enExperience and Ingenuity
 
@@ -12382,6 +13531,8 @@ Borg Drone
 frExpérience et ingéniosité
 
 ja経験と創意
+%
+plDoświadczenie i pomysłowość
 "
 ptExperiência e Engenhosidade
 4
@@ -12390,7 +13541,7 @@ Borg Drone
 uk&Досвід і кмітливість
 
 zh经验与创造力
-�����
+�����
 
 enKlingon Honor
 
@@ -12399,6 +13550,8 @@ Borg Drone
 frHonneur klingon
 
 jaクリンゴンの誇り
+
+plKlingoński honor
 
 ptHonra Klingon
 '
@@ -12407,7 +13560,7 @@ Borg Drone
 uk!Клінгонська честь
 
 zh克林贡荣耀
-�����
+�����
 
 enLead and Protect
 
@@ -12416,6 +13569,8 @@ Borg Drone
 frMener et protéger
 
 ja先導と保護
+
+plPrzewodzić i chronić
 
 ptLiderar e Proteger
 $
@@ -12424,13 +13579,15 @@ $
 uk*Скеровувати й захищати
 
 zh引导与保护
-�����
+�����
 
 enCall from Beyond
 
 esLlamada del más allá
 
 frAppel de l'au-delà
+
+plZew z otchłani
 
 ptChamado do Além
 '
@@ -12439,7 +13596,7 @@ $
 uk'Поклик з іншого світу
 
 zh远方的呼唤
-�����
+�����
 
 enThe Borg
 
@@ -12448,6 +13605,9 @@ $
 frLe Borg
 
 jaザ・ボーグ
+
+
+plBorg
 
 
 ptBorg
@@ -12474,7 +13634,7 @@ $
 enPershing Speedfire"
 
 enPershing Speedfire
-�����
+�����
 
 en
 Scrap Yard
@@ -12484,6 +13644,8 @@ Scrap Yard
 frTas de ferraille
 
 jaスクラップヤード
+
+plZłomowisko
 
 ptSucata
 
@@ -12493,7 +13655,7 @@ Scrap Yard
 Брухт
 
 zh	废料场
-�����
+�����
 
 enMetal Corrosion
 
@@ -12502,6 +13664,8 @@ Scrap Yard
 frCorrosion métallique
 
 jaラスティ・メタル
+
+plKorozja
 
 ptMetal Corroído
 &
@@ -12510,7 +13674,7 @@ Scrap Yard
 ukКорозія металу
 
 zh金属腐蚀
-�����
+�����
 
 en
 Rust Storm
@@ -12520,6 +13684,8 @@ Rust Storm
 frTempête de rouille
 !
 jaラスティ・ストーム
+
+plRdzawa burza
 
 ptTempestade de Ferrugem
 
@@ -12528,7 +13694,7 @@ Rust Storm
 ukІржава буря
 
 zh铁锈风暴
-�����
+�����
 
 enBattle Stoker
 
@@ -12537,6 +13703,8 @@ Rust Storm
 frChaufferie de combat
 $
 jaハーデスト・ボイラー
+
+plPodpalacz bitewny
 
 ptIncitador de Batalha
 #
@@ -12545,13 +13713,15 @@ $
 ukГорнило битви
 
 zh战斗锅炉
-��}�x
+�����
 
 enMosh Pit
 
 esBullicio festivalero
 
 jaモッシュピット
+
+plMosh pit
 
 ruСлэм
 
@@ -12565,7 +13735,7 @@ Q�L�
 enConcept 1B maXimal"
 
 enConcept 1B maXimal
-�����
+�����
 
 enMystery
 
@@ -12574,6 +13744,8 @@ Q�L�
 frMystérieuse
 
 jaミステリー
+
+pl	Tajemnica
 
 pt	Mistério
 
@@ -12590,7 +13762,7 @@ Q�L�
 enKpz. 07P(E) Mystery
 (
 ru"Kpz. 07P(E) Мистический
-�����
+�����
 
 en	Lich Lord
 
@@ -12599,6 +13771,8 @@ Q�L�
 frSeigneur liche
 
 ja不死身の屍王
+
+plWładca Liszów
 
 pt
 Lorde Lich
@@ -12617,7 +13791,7 @@ Lorde Lich
 enObject 268 Lich Lord
 !
 ruОбъект 268 Кощей
-�����
+�����
 
 enPlague Doctor
 
@@ -12626,6 +13800,8 @@ Lorde Lich
 frMédecin de peste
 
 jaペストマスク
+
+plDoktor plagi
 
 ptMédico da Peste
 
@@ -12664,7 +13840,7 @@ Lorde Lich
 enM-III-Yoh Bard"
 
 enM-III-Yoh Bard
-�����
+�����
 
 enPioneer
 
@@ -12673,6 +13849,8 @@ Lorde Lich
 frPionnier
 
 jaパイオニア
+
+plPionier
 
 ptPioneiro
  
@@ -12681,7 +13859,7 @@ Lorde Lich
 ukПершопроходець
 
 zh先驱
-�����
+�����
 
 en
 Steel Pike
@@ -12691,6 +13869,8 @@ Steel Pike
 frBec d'acier
 
 ja鋼鉄の槍
+
+plStalowa włócznia
 
 ptLança de Aço
 
@@ -12699,7 +13879,7 @@ Steel Pike
 ukСталева щука
 
 zh钢矛
-�����
+�����
 
 enForward
 
@@ -12708,6 +13888,8 @@ Steel Pike
 frEn avant
 
 jaフォワード
+
+pl	Napastnik
 
 ptFrente
 
@@ -12716,7 +13898,7 @@ Steel Pike
 ukФорвард
 
 zh前锋
-�����
+�����
 
 enAmerican Eagle
 
@@ -12725,6 +13907,8 @@ Steel Pike
 frAigle américain
 
 jaアメリカの鷲
+
+plAmerykański orzeł
 
 ptÁguia Americana
 
@@ -12735,7 +13919,7 @@ Steel Pike
 Орлан
 
 zh	白头鹰
-�����
+�����
 
 enFlagship
 
@@ -12744,6 +13928,8 @@ Steel Pike
 frPhare
 
 jaフラグシップ
+
+pl	Flagowiec
 
 ptNavio Almirante
 
@@ -12752,7 +13938,7 @@ Steel Pike
 ukФлагман
 
 zh领衔
-�����
+�����
 
 en	Commander
 
@@ -12763,6 +13949,8 @@ Comandante
 Commandant
 
 ja車長
+
+plDowódca
 
 pt
 Comandante
@@ -12772,7 +13960,7 @@ Comandante
 ukКомандир
 
 zh车长
-����{
+�����
 
 enCorporal
 
@@ -12782,6 +13970,8 @@ Comandante
 frCaporal
 
 ja伍長
+
+plKapral
 
 
 ptCabo
@@ -12806,7 +13996,7 @@ Comandante
 ukЛіхтар Джека
 
 zh	南瓜灯
-�����
+�����
 
 enWasted Shot
 
@@ -12816,6 +14006,8 @@ Comandante
 
 ja外れた砲弾
 
+plZmarnowany strzał
+
 ptTiro Desperdiçado
 
 ruНе пробил!
@@ -12823,7 +14015,7 @@ Comandante
 ukНе пробив!
 
 zh未能击中
-�����
+�����
 
 enStandard Bearer
 
@@ -12832,6 +14024,8 @@ Comandante
 frPorteur standard
 
 ja標準外観
+
+plSztandarowy
 
 ptPortador Padrão
 
@@ -12840,7 +14034,7 @@ Comandante
 ukПрапороносець
 
 zh旗手
-�����
+�����
 
 enLadder
 
@@ -12849,6 +14043,8 @@ Comandante
 frÉchelle
 
 ja	ハシゴ
+
+plDrabina
 
 ptEscada
 
@@ -12858,7 +14054,7 @@ Comandante
 Сходи
 
 zh梯子
-�����
+�����
 
 en
 Lucky Dice
@@ -12868,6 +14064,8 @@ Lucky Dice
 frDés de chanceux
 
 ja幸運のサイコロ
+
+plSzczęśliwe kości
 
 ptDado da Sorte
 
@@ -12876,7 +14074,7 @@ Lucky Dice
 ukВезунчик
 
 zh幸运骰子
-�����
+�����
 
 enField Kitchen
 
@@ -12885,6 +14083,8 @@ Lucky Dice
 frCuisine de terrain
 
 ja野外炊事場
+
+plKuchnia polowa
 
 ptCozinha de Campo
 !
@@ -12893,7 +14093,7 @@ Lucky Dice
 ukПохідна кухня
 
 zh战地厨房
-�����
+�����
 
 enMusic Lover
 
@@ -12903,6 +14103,8 @@ Lucky Dice
 
 ja音楽愛好家
 
+plMiłośnik muzyki
+
 ptAmante da Música
 
 ruМузыкант
@@ -12910,7 +14112,7 @@ Lucky Dice
 ukМузикант
 
 zh	音乐家
-�����
+�����
 
 en	24 Frames
 
@@ -12919,6 +14121,8 @@ Lucky Dice
 fr	24 images
 
 ja24 フレーム
+
+pl	24 klatki
 
 pt
 24 Quadros
@@ -12928,7 +14132,7 @@ Lucky Dice
 uk24 кадри
 
 zh24帧
-�����
+�����
 
 en
 Hard Shell
@@ -12938,6 +14142,8 @@ Hard Shell
 frCoquille dure
 
 ja頑強な外殻
+
+plTwardy pancerz
 
 ptProjétil Difícil
 
@@ -12946,7 +14152,7 @@ Hard Shell
 ukПанцир
 
 zh硬壳
-�����
+�����
 
 enVanguard
 
@@ -12957,6 +14163,8 @@ Vanguardia
 
 ja前衛
 
+pl	Awangarda
+
 pt	Vanguarda
 
 ruАвангард
@@ -12964,7 +14172,7 @@ Vanguardia
 ukАвангард
 
 zh先锋
-�����
+�����
 
 enRoyal Treatment
 
@@ -12973,6 +14181,8 @@ Vanguardia
 frTraitement royal
 
 ja王族の待遇
+
+plKrólewska uczta
 
 ptTratamento Real
 '
@@ -12981,7 +14191,7 @@ Vanguardia
 uk%Королівська гостина
 
 zh皇家待遇
-�����
+�����
 
 enNuclear Reactor
 
@@ -12990,6 +14200,8 @@ Vanguardia
 frRéacteur nucléaire
 
 ja	原子炉
+
+plReaktor jądrowy
 
 ptReator Nuclear
 #
@@ -12998,7 +14210,7 @@ Vanguardia
 ukЯдерний реактор
 
 zh核反应堆
-�����
+�����
 
 enNuclear Reactor
 
@@ -13007,6 +14219,8 @@ Vanguardia
 frRéacteur nucléaire
 
 ja	原子炉
+
+plReaktor jądrowy
 
 ptReator Nuclear
 #
@@ -13015,7 +14229,7 @@ Vanguardia
 ukЯдерний реактор
 
 zh核反应堆
-�����
+�����
 
 enNuclear Reactor
 
@@ -13024,6 +14238,8 @@ Vanguardia
 frRéacteur nucléaire
 
 ja	原子炉
+
+plReaktor jądrowy
 
 ptReator Nuclear
 #
@@ -13032,7 +14248,7 @@ Vanguardia
 ukЯдерний реактор
 
 zh核反应堆
-�����
+�����
 
 enChinese Proverbs
 
@@ -13041,6 +14257,8 @@ Vanguardia
 frProverbes chinois
 
 ja孔子の格言
+
+plChińskie przysłowia
 
 ptProvérbios Chineses
 
@@ -13049,7 +14267,7 @@ Vanguardia
 ukПитання буття
 
 zh子曾经曰过
-�����
+�����
 
 enBicycle
 
@@ -13058,6 +14276,8 @@ Vanguardia
 frVélo
 
 ja	自転車
+
+plRower
 
 pt	Bicicleta
 
@@ -13066,7 +14286,7 @@ Vanguardia
 ukВелосипед
 
 zh	自行车
-�����
+�����
 
 enWings of Night
 
@@ -13075,6 +14295,8 @@ Vanguardia
 frAiles de la nuit
 
 ja	夜の翼
+
+plSkrzydła nocy
 
 ptAsas da Noite
 
@@ -13083,7 +14305,7 @@ Vanguardia
 ukКрила ночі
 
 zh	夜之翼
-�����
+�����
 
 enSpear 'n Sear
 
@@ -13092,6 +14314,8 @@ Vanguardia
 frHarpon de feu
 
 ja	炎の槍
+
+plOgnisty harpun
 
 ptArpão de Fogo
 
@@ -13112,7 +14336,7 @@ Spezialset
 ukСпецкомплект
 
 zh特殊物品
-�����
+�����
 
 en	Lascannon
 
@@ -13121,13 +14345,15 @@ Spezialset
 frCanon laser
 
 jaレーザー砲
+
+plDziałko z laserem
 
 ruМиниган
 
 ukМініган
 
 zh	激光炮
-�����
+�����
 
 enEmoji Light
 
@@ -13136,6 +14362,8 @@ Spezialset
 frLampe emoji
 
 ja絵文字ライト
+
+plReflektor emoji
 
 pt	Emoji Luz
 3
@@ -13159,7 +14387,7 @@ $
 ukКроліквідатор
 
 zh	小兔纸
-�����
+�����
 
 enTeslagun
 
@@ -13170,6 +14398,8 @@ Arma Tesla
 
 jaテスラガン
 
+plDziało tesli
+
 ptCanhão Tesla
 
 ruТеслаган
@@ -13177,13 +14407,15 @@ Arma Tesla
 ukТеслаган
 
 zh特斯拉炮
-�����
+�����
 
 enD-2 Model 1926 AA Mount
 "
 esMontura AA D-2 Modelo 1926
 $
 frInstallation D-2 Model 1926 AA
+/
+pl)Stanowisko przeciwlotnicze D-2 Model 1926
 
 ptTorreta AA D-2 Model 1926
 <
@@ -13192,7 +14424,7 @@ $
 uk4Спарована установка Д-2 зр.1926
 #
 zhD-2 Model 1926型防空机枪
-�����
+�����
 
 enSnowgun
 
@@ -13201,6 +14433,8 @@ $
 frCanon à neige
 
 ja雪玉ブラスター
+
+plDziało śnieżne
 
 ptCanhão de Neve
 
@@ -13209,7 +14443,7 @@ $
 ukСнігова гармата
 
 zh雪炮
-�����
+�����
 
 enWhat's-in-the-Box?
 
@@ -13218,6 +14452,8 @@ $
 frQu'y a-t-il dans la boîte ?
 
 ja四次元ボックス
+
+plPudełko-niespodzianka
 
 ptO Que Tem na Caixa?
 
@@ -13243,10 +14479,12 @@ Noboribata
 esMG 08
 
 jaMG08重機関銃
- ��
+A�<�7
 
 enBlitz MP Corps
-�����
+
+plKorpus żandarmerii Blitz
+�����
 
 enSoul Conductor
 
@@ -13255,6 +14493,8 @@ Noboribata
 frConducteur des âmes
 
 ja幽魂の送り人
+
+plPrzewodnik dusz
 
 ptCondutor de Almas
 
@@ -13263,7 +14503,7 @@ Noboribata
 ukПровідник душ
 
 zh	魂引者
-�����
+�����
 
 enWhirly Bird
 
@@ -13272,6 +14512,8 @@ Noboribata
 frOiseau tourbillonnant
 !
 jaスカイガーディアン
+
+plPtaszyna-maszyna
 
 pt
 Passarinho
@@ -13281,7 +14523,7 @@ Passarinho
 ukОхоронець неба
 
 zh	直升机
-�����
+�����
 
 enRating Indicator
 !
@@ -13290,6 +14532,8 @@ Passarinho
 frIndicateur de cote
 0
 ja*レーティング・インジケーター
+
+plSymbol ligi
 "
 ptIndicador de Classificação
 )
@@ -13298,7 +14542,7 @@ Passarinho
 uk#Індикатор рейтингу
 
 zh评级指示器
-�����
+�����
 
 enTanky the Snowman
  
@@ -13307,6 +14551,8 @@ Passarinho
 frTanky le bonhomme de neige
 !
 ja雪だるまのタンキー
+
+plBałwanek Czołguś
 
 ptTanky o Boneco de Neve
 %
@@ -13315,7 +14561,7 @@ Passarinho
 uk!Сніговик-льодовик
 
 zh雪人Tanky
-�����
+�����
 
 enPot of Plenty
 
@@ -13324,6 +14570,8 @@ Passarinho
 frChaudron d'abondance
 
 ja長者の壺
+
+plKociołek obfitości
 
 ptPote de Fartura
 %
@@ -13332,20 +14580,22 @@ Passarinho
 ukГорщик достатку
 
 zh	聚宝盆
-�����
+�����
 
 en	Tesseract
 
 es	Teseracto
 !
 ja四次元相似キューブ
+
+pl	Tesserakt
 
 ruТессеракт
 
 ukТесеракт
 
 zh超立方体
-�����
+�����
 
 enRobocompanion
 
@@ -13354,13 +14604,16 @@ Passarinho
 frCompagnon robot
 
 jaロボ=コンパニオン
+
+pl
+Robokompan
 #
 ruРобот-компаньон
 %
 ukРобот-компаньйон
 
 zh机器人伙伴
-�����
+�����
 
 enMajor Breakthrough
 
@@ -13369,6 +14622,8 @@ Passarinho
 frPercée majeure
 
 ja堂々突破!
+
+plNiezły wyłom
 
 ptRompimento Principal
  
@@ -13377,7 +14632,7 @@ Passarinho
 ukПотужне пробиття
 
 zh重大突破
-�����
+�����
 
 enWitch's Fellow
 
@@ -13386,6 +14641,8 @@ Passarinho
 frCompagnon de sorcière
 
 ja魔女の旧友
+
+plTowarzysz wiedźmy
 
 ptCompanheiro de Bruxa
 !
@@ -13394,7 +14651,7 @@ Passarinho
 uk'Відьомський супутник
 
 zh女巫伙伴
-�����
+�����
 
 enWyvern Scalemail
 !
@@ -13403,6 +14660,8 @@ Passarinho
 frÉcaille de la vouivre
 
 jaワイバーンの鱗鎧
+
+plZbroja z łuski wiwerny
 
 ptEscama de Serpe
 
@@ -13411,7 +14670,7 @@ Passarinho
 ukЛуска віверни
 
 zh双足飞龙鳞甲
-�����
+�����
 
 enDruid's Wisp
 
@@ -13420,6 +14679,8 @@ Passarinho
 frEsprit du druide
 
 jaドルイドの鬼火
+
+plOgnik druida
 
 ptFogo-Fátuo do Druida
 %
@@ -13428,7 +14689,7 @@ Passarinho
 ukПосох друїда
 
 zh德鲁伊的小精灵
-�����
+�����
 
 enRogue's Knot
 
@@ -13437,6 +14698,8 @@ Passarinho
 frNœud du rôdeur
 
 jaローグの編み紐
+
+plWęzeł łotra
 
 ptNó do Ladino
 
@@ -13445,7 +14708,7 @@ Passarinho
 uk!Вузол пройдисвіта
 
 zh游荡者之结
-�����
+�����
 
 enWizard's Crystals
 
@@ -13454,6 +14717,8 @@ Passarinho
 frCristaux du sorcier
 !
 jaウィザードの魔水晶
+"
+plKryształy czarnoksiężnika
 
 ptCristais do Mago
 +
@@ -13462,7 +14727,7 @@ Passarinho
 uk#Кристали чарівника
 
 zh巫师水晶
-�����
+�����
 
 enRanger's Arrow
 
@@ -13471,6 +14736,8 @@ Passarinho
 frFlèche du rôdeur
 
 jaレンジャーの火矢
+"
+plStrzała leśnego strażnika
 
 ptFlecha do Ranger
 %
@@ -13479,7 +14746,7 @@ Passarinho
 ukСтріла слідопита
 
 zh游侠之箭
-�����
+�����
 
 en600° Fahrenheit
 
@@ -13489,6 +14756,8 @@ Passarinho
 
 ja600℉
 
+pl600 °F
+
 pt600 °F
 
 ru600 °F
@@ -13496,7 +14765,7 @@ Passarinho
 uk600 °F
 
 zh600 °F
-�����
+�����
 
 enGalactic Pony
 
@@ -13505,6 +14774,8 @@ Passarinho
 frPoney galactique
 '
 ja!銀河はポニーで回ってる
+
+plGalaktyczny kucyk
 
 ptPônei Galático
 )
@@ -13521,7 +14792,7 @@ I�D�?
 Biblioteca
 
 jaビブリオテカ
-�����
+�����
 
 enProphet
 
@@ -13530,6 +14801,8 @@ Biblioteca
 fr	Prophète
 
 ja	予言図
+
+plWieszcz
 
 ptProfeta
 
@@ -13543,7 +14816,7 @@ Biblioteca
 enInnervision
 
 jaインナービジョン
-�����
+�����
 
 enEra of Prosperity
 
@@ -13552,6 +14825,8 @@ Biblioteca
 frÈre de prospérité
 
 ja栄華の時光
+
+plEra dobrobytu
 
 ptEra de Prosperidade
 
@@ -13640,12 +14915,14 @@ T30 Gorgon
 enErich Konzept Bastion
 "
 ruErich Konzept Бастион
-����x
+�����
 
 en
 Poinsettia
 
 jaポインセチア
+
+plWilczomlecz
 
 pt
 Poinsétia
@@ -13657,7 +14934,7 @@ Poinsétia
 enProgetto mod. 54 Poinsettia"#
 !
 enProgetto mod. 54 Poinsettia
-�����
+�����
 
 enGift Supply
 
@@ -13666,6 +14943,8 @@ Poinsétia
 frAcheminement des cadeaux
 
 jaギフトサプライ
+
+plDostawa prezentów
 
 ptSuprimento de Presentes
 '
@@ -13674,7 +14953,7 @@ Poinsétia
 uk%Доставка подарунків
 
 zh礼物补给
-�����
+�����
 
 enWrapping Paper
 
@@ -13684,6 +14963,8 @@ Poinsétia
 !
 jaラッピングペーパー
 
+plPapier prezentowy
+
 ptPapel de Presente
 -
 ru'Праздничная упаковка
@@ -13691,7 +14972,7 @@ Poinsétia
 uk!Святкова обгортка
 
 zh	包装纸
-�����
+�����
 
 enMistletoe Bough
 
@@ -13700,6 +14981,8 @@ Poinsétia
 frBranche de gui
 
 jaヒイラギ飾り
+
+plGałązka jemioły
 
 ptRamo de Visco
 
@@ -13708,7 +14991,7 @@ Poinsétia
 ukГілка омели
 
 zh槲寄生枝
-�����
+�����
 
 enTwinkle Lights
 
@@ -13718,6 +15001,8 @@ Poinsétia
 
 jaイルミネーション
 
+plMigoczące lampki
+
 ptLuzes Cintilantes
 #
 ruСияющие огоньки
@@ -13725,7 +15010,7 @@ Poinsétia
 uk#Мерехтливі вогники
 
 zh闪烁灯饰
-�����
+�����
 
 enSleighing Song
 
@@ -13734,6 +15019,8 @@ Poinsétia
 frChanson pour traîneau
 
 jaそり遊びに歌って
+
+plKuligowa piosenka
 
 ptCantiga de Natal
 '
@@ -13742,7 +15029,7 @@ Poinsétia
 ukКолядка
 
 zh雪橇之歌
-�����
+�����
 
 enScorching Barricade
 
@@ -13751,6 +15038,8 @@ Poinsétia
 frBarricade embrasée
 
 ja灼熱のバリケード
+
+plRozjarzona barykada
 
 ptBarricada Ardente
 '
@@ -13759,7 +15048,7 @@ Poinsétia
 ukПекучий бар'єр
 
 zh灼热路障
-�����
+�����
 
 en
 Dark Woods
@@ -13769,6 +15058,9 @@ Dark Woods
 frBois sombres
 
 ja暗黒の森
+
+pl
+Ciemny Las
 
 ptMadeiras Escuras
 
@@ -13777,7 +15069,7 @@ Dark Woods
 ukПохмурий ліс
 
 zh黑暗森林
-�����
+�����
 
 enScorching Barricade
 
@@ -13786,6 +15078,8 @@ Dark Woods
 frBarricade embrasée
 
 ja灼熱のバリケード
+
+plRozjarzona barykada
 
 ptBarricada Ardente
 '
@@ -13794,7 +15088,7 @@ Dark Woods
 ukПекучий бар'єр
 
 zh灼热路障
-�����
+�����
 
 en
 Dark Woods
@@ -13804,6 +15098,9 @@ Dark Woods
 frBois sombres
 
 ja暗黒の森
+
+pl
+Ciemny Las
 
 ptMadeiras Escuras
 
@@ -13832,13 +15129,16 @@ H�C�
 ukТанчики
 
 zh坦克大战
-�����
+�����
 
 enTank-omb
 
 es	Carr-omba
 $
 jaレトロ・コレクション
+
+pl
+Czołg-omb
 
 ru	1000 в 1
 
@@ -13868,7 +15168,7 @@ E�@�
 enBlasteroid Neo"
 
 enBlasteroid Neo
-�����
+�����
 
 en
 Hard Proof
@@ -13878,6 +15178,8 @@ Hard Proof
 frPreuve tangible
 
 ja決定的証拠
+
+plTwarde dowody
 
 ptProva Difícil
 ?
@@ -13886,7 +15188,7 @@ Hard Proof
 uk#Незаперечні докази
 
 zh确凿证据
-�����
+�����
 
 enBaffling Business
 
@@ -13895,6 +15197,8 @@ Hard Proof
 frAventure déroutante
 
 ja複雑怪奇
+
+plZagadkowe interesy
 
 ptNegócio Desconcertante
 #
@@ -13903,7 +15207,7 @@ Hard Proof
 ukЗаплутана справа
 
 zh奇特买卖
-�����
+�����
 
 enSteer Clear
 
@@ -13912,6 +15216,8 @@ Hard Proof
 frSe tenir à l'écart
 
 ja味見厳禁
+
+plOmijać
 
 ptDesvio
 !
@@ -13920,7 +15226,7 @@ Hard Proof
 ukІдіть собі
 
 zh退避三舍
-�����
+�����
 
 enCase Closed
 
@@ -13929,6 +15235,8 @@ Hard Proof
 frAffaire classée
 
 jaイエティ激写!
+
+plSprawa zamknięta
 
 ptCaso Encerrado
 
@@ -13961,7 +15269,7 @@ $
 enGSOR 1008 Excalibur
 $
 ruGSOR 1008 Экскалибур
-�����
+�����
 
 enOrbital Platform
 
@@ -13970,6 +15278,8 @@ $
 frPlateforme orbitale
 
 ja宇宙ステーション
+
+plPlatforma orbitalna
 
 ptPlataforma Orbital
 +
@@ -13978,7 +15288,7 @@ $
 uk#Орбітальна станція
 
 zh轨道平台
-�����
+�����
 
 enInterstellar Probe
 
@@ -13987,6 +15297,8 @@ $
 frSonde interstellaire
 
 ja惑星探査機
+
+plSonda międzygwiezdna
 
 ptProva Interestelar
 1
@@ -13995,7 +15307,7 @@ $
 uk#Дослідницький зонд
 
 zh星际探测器
-�����
+�����
 
 enSpace Greenhouse
 
@@ -14004,6 +15316,8 @@ $
 frSerre spatiale
 
 ja真空ガーデン
+
+plKosmiczna szklarnia
 
 ptEstufa Espacial
 /
@@ -14012,7 +15326,7 @@ $
 uk#Космічна оранжерея
 
 zh太空温室
-�����
+�����
 
 enLunar Module
 
@@ -14021,6 +15335,8 @@ $
 frModule lunaire
 
 ja月面モジュール
+
+plModuł księżycowy
 
 ptMódulo Lunar
 
@@ -14036,7 +15352,7 @@ D�?�
 enRover LunarX"
 
 enRover LunarX
-����s
+����~
 	
 enFox
 
@@ -14045,6 +15361,8 @@ D�?�
 frRenard
 !
 jaヴュステンフックス
+	
+plLis
 
 ruЛис
 
@@ -14098,7 +15416,7 @@ D�?�
 frTiger I Baron
 
 ruTiger I Барон
-�����
+�����
 
 enPerfect Imitation
 
@@ -14108,6 +15426,8 @@ D�?�
 0
 ja*パーフェクト・イミテーション
 
+plImitacja doskonała
+
 ptImitação Perfeita
 )
 ru#Идеальная имитация
@@ -14115,7 +15435,7 @@ D�?�
 uk!Ідеальна імітація
 
 zh完美模拟
-�����
+�����
 
 enMimetic Polyalloy
 
@@ -14124,6 +15444,8 @@ D�?�
 frPolyalliage mimétique
 
 ja流体多結晶合金
+
+plStop mimetyczny
 
 ptLiga Polimimética
 3
@@ -14132,7 +15454,7 @@ D�?�
 uk)Мімікруючий полісплав
 
 zh拟态合金
-�����
+�����
 
 enSilicon Nightmare
 
@@ -14141,6 +15463,8 @@ D�?�
 frCauchemar en silicium
 0
 ja*サイバネティック・モンスター
+
+plKrzemowy koszmar
 
 ptPesadelo de Silicone
 
@@ -14149,7 +15473,7 @@ D�?�
 ukТехномонстр
 
 zh硅基梦魇
-�����
+�����
 
 enSelf-Destruct
 
@@ -14158,6 +15482,8 @@ D�?�
 frAutodestruction
 
 ja自己犠牲
+
+plAutodestrukcja
 
 ptAuto-Destrutível
 "
@@ -14188,7 +15514,7 @@ R�M�H
 ukСкайнет
 
 zh天网
-����|
+�����
 
 enWanderer
 
@@ -14197,6 +15523,9 @@ R�M�H
 frVagabond
 
 ja流浪
+
+pl
+Wędrowiec
 
 ru
 Номад
@@ -14212,7 +15541,7 @@ R�M�H
 enT110E4 Wanderer
 
 ruT110E4 Номад
-�����
+�����
 
 enSeawolf
 
@@ -14221,6 +15550,8 @@ R�M�H
 frLoup des mers
 
 jaシーウルフ号
+
+plWilk morski
 
 ruМорской Волк
 
@@ -14244,7 +15575,7 @@ t�o�.
 enFV215b 183 Starburst"
 
 enFV215b 183 Starburst
-�����
+�����
 
 enFirebreather
 
@@ -14253,6 +15584,8 @@ t�o�.
 frCracheur de feu
 
 ja息吹く火焔
+
+plOgnisty dech
 
 ruОгнедышащий
 
@@ -14267,7 +15600,7 @@ $
 enType 62 Firebreather
 $
 ruType 62 Огнедышащий
-�����
+�����
 
 en
 Deep Space
@@ -14277,6 +15610,8 @@ Deep Space
 frEspace lointain
 
 ja宇宙遥かに
+
+plPrzestrzeń kosmiczna
 
 ptEspaço Profundo
 !
@@ -14285,7 +15620,7 @@ Deep Space
 ukДалекий космос
 
 zh无人深空
-�����
+�����
 
 enCosmic Flow
 
@@ -14294,6 +15629,8 @@ Deep Space
 frFlux cosmique
 
 ja天上の吐息
+
+plPrąd kosmiczny
 
 ptFluxo Cósmico
 '
@@ -14302,7 +15639,7 @@ Deep Space
 ukПодих Всесвіту
 
 zh宇宙流转
-�����
+�����
 
 enImpulse
 
@@ -14311,6 +15648,8 @@ Deep Space
 fr	Impulsion
 
 jaインパルス
+
+plImpuls
 
 ruИмпульс
 
@@ -14325,7 +15664,7 @@ Deep Space
 enObject 777 Impulse
 %
 ruОбъект 777 Импульс
-�����
+�����
 
 en	Boarding!
 
@@ -14335,6 +15674,8 @@ Deep Space
 frEmbarquement !
 
 ja錨を上げろ!
+
+plDo abordażu!
 
 pt	Embarque!
  
@@ -14343,7 +15684,7 @@ Deep Space
 ukПідняти якір!
 
 zh	登舰！
-�����
+�����
 
 en
 Siren Song
@@ -14353,6 +15694,8 @@ Siren Song
 frChant des sirènes
 
 jaセイレーンの歌
+
+plSyreni śpiew
 
 ptCanto da Sereia
 
@@ -14361,7 +15704,7 @@ Siren Song
 ukПісня сирени
 
 zh海妖之歌
-�����
+�����
 
 enMessage in a Bottle
 
@@ -14370,6 +15713,8 @@ Siren Song
 frMessage dans une bouteille
 
 ja海底書簡
+
+plWiadomość w butelce
 
 ptMensagem na Garrafa
 (
@@ -14378,7 +15723,7 @@ Siren Song
 uk Послання з глибин
 
 zh	漂流瓶
-�����
+�����
 
 enSealord
 
@@ -14387,6 +15732,8 @@ Siren Song
 frSeigneur des mers
 
 ja諸海の主
+
+plWładca mórz
 
 ptSenhor do Mar
 
@@ -14417,7 +15764,7 @@ I�D�
 enChar Futur Mjölnir
 !
 ruChar Futur Мьёльнир
-�����
+�����
 
 enMidnight Raven
 
@@ -14426,6 +15773,8 @@ I�D�
 frCorbeau de minuit
 $
 jaレイヴン・フルムーン
+
+pl	Noc kruka
 
 ptCorvo da Meia-Noite
 '
@@ -14449,7 +15798,7 @@ $
 enHWK 30 Digitized"
 
 enHWK 30 Digitized
-���L
+����`
 
 enOcellus
 
@@ -14458,6 +15807,8 @@ $
 frOcelle
 
 jaオセラス
+
+plSztuczne oko
 
 zh眼纹
 
@@ -14477,7 +15828,7 @@ H�C�
 ��
 
 enRust in Peace
-�����
+�����
 
 enAzure Shield
 
@@ -14486,6 +15837,8 @@ H�C�
 frBouclier d'azur
 
 ja青光のシールド
+
+plLazurowa tarcza
 
 ptEscudo Azure
 
@@ -14501,7 +15854,7 @@ H�C�
 enChieftain Mk. 6 Dystopia" 
 
 enChieftain Mk. 6 Dystopia
-�����
+�����
 
 enDark Stranger
 
@@ -14510,6 +15863,8 @@ H�C�
 frSombre inconnu
 
 ja彷徨うシルエット
+
+plMroczny nieznajomy
 
 ptEstranho Obscuro
 #
@@ -14518,7 +15873,7 @@ H�C�
 uk)Таємничий незнайомець
 
 zh黑暗中的陌生人
-�����
+�����
 
 enHidden Truth
 
@@ -14527,6 +15882,8 @@ H�C�
 frVérité cachée
 
 ja隠された真実
+
+plSkrywana prawda
 
 ptVerdade Oculta
 !
@@ -14535,7 +15892,7 @@ H�C�
 ukПрихована істина
 
 zh隐秘真相
-�����
+�����
 
 enOut of the Darkness
 
@@ -14544,6 +15901,8 @@ H�C�
 frHors des ténèbres
 
 ja闇より出でて
+
+plSpomiędzy cieni
 
 ptFora da Escuridão
 (
@@ -14552,7 +15911,7 @@ H�C�
 ukЗ пітьми
 
 zh走出黑暗
-�����
+�����
 
 enSignal Interceptor
 
@@ -14561,6 +15920,8 @@ H�C�
 frIntercepteur de signal
 
 jaシグナル傍受機
+
+plPrzechwytywacz sygnału
 
 ptInterceptador de Sinal
 &
@@ -14569,7 +15930,7 @@ H�C�
 uk'Перехоплювач сигналу
 
 zh信号拦截器
-����V
+����a
 
 en	Blackbird
 
@@ -14578,13 +15939,15 @@ H�C�
 frMerle
 
 jaブラックバード
+	
+plKos
 
 zh黑鹂
 
 enFV4005 Blackbird"
 
 enFV4005 Blackbird
-�����
+�����
 
 enTasty Twists
 
@@ -14593,6 +15956,8 @@ H�C�
 frTouches savoureuses
 
 jaまんぷくツイスト
+
+plSmaczne precle
 
 ptReviravoltas Saborosas
 $
@@ -14614,11 +15979,14 @@ $
 en114 SP2 Interception"
 
 en114 SP2 Interception
-c�^�/
+u�p�A
 
 enNoble
 
 jaノーブル
+
+pl
+Szlachetny
 
 zh高贵
 
@@ -14633,7 +16001,7 @@ c�^�/
 en	Resilient
 
 ukКурінний
-�����
+�����
 
 enOld Reliable
 
@@ -14642,6 +16010,8 @@ c�^�/
 frVieux et fiable
 '
 ja!オールド・リライアブル
+
+plStary i niezawodny
 
 ptVelho de Confiança
 
@@ -14663,7 +16033,7 @@ _�Z�%
 enFV301 Tally-ho"
 
 enFV301 Tally-ho
-�����
+�����
 
 enHeavyweight
 
@@ -14672,6 +16042,8 @@ _�Z�%
 frPoids lourd
 
 jaヘビー級の証
+
+plWaga ciężka
 
 ptPeso-Pesado
 
@@ -14680,7 +16052,7 @@ _�Z�%
 ukВажковаговик
 
 zh	重量级
-�����
+�����
 
 enPain Threshold
 
@@ -14689,6 +16061,8 @@ _�Z�%
 frSeuil de douleur
 
 ja痛覚耐性
+
+plPróg bólu
 
 ptLimite de Dor
 
@@ -14697,7 +16071,7 @@ _�Z�%
 ukБольовий поріг
 
 zh疼痛阈值
-�����
+�����
 
 enFinal Argument
 
@@ -14706,6 +16080,8 @@ _�Z�%
 frArgument final
 $
 jaファイナル・ジャッジ
+
+plArgument ostateczny
 
 ptArgumento Final
 )
@@ -14714,7 +16090,7 @@ $
 uk!Останній аргумент
 
 zh最终争辩
-�����
+�����
 
 enFallen
 
@@ -14723,6 +16099,8 @@ $
 frDéchu
 
 jaフォールン
+
+plUpadły
 
 ptCaído
 
@@ -14735,7 +16113,7 @@ $
 enFV4202 Fallen"
 
 enFV4202 Fallen
-�����
+�����
 
 enLookout
 
@@ -14744,6 +16122,8 @@ $
 frVigie
 
 ja望楼
+
+pl	Czatownia
 
 ptMirante
 
@@ -14763,7 +16143,7 @@ I�D�
 enT77 Defending"
 
 enT77 Defending
-�����
+�����
 
 enDragon Scale
 
@@ -14772,6 +16152,8 @@ I�D�
 frÉcailles de dragon
 
 ja黒き龍鱗
+
+plSmocza łuska
 
 ptEscama de Dragão
 
@@ -14787,7 +16169,7 @@ P�K�
 enProgetto 46 Seeker"
 
 enProgetto 46 Seeker
-�����
+�����
 
 en	Cold-Glow
 
@@ -14796,6 +16178,8 @@ P�K�
 frLueur froide
 
 jaコールド・グロー
+
+plChłodna poświata
 
 ptBrilho Gelado
 !
@@ -14808,7 +16192,7 @@ P�K�
 enM48 Patton Cold-Glow"
 
 enM48 Patton Cold-Glow
-�����
+�����
 
 enBooming Party
 
@@ -14817,6 +16201,8 @@ P�K�
 frFête généreuse
 !
 jaブンブン・パーティ
+
+plGwarna impreza
 
 ptFesta Animada
 #
@@ -14825,7 +16211,7 @@ P�K�
 ukДушевна вечірка
 
 zh盛大派对
-�����
+�����
 
 enHoliday Magic
 
@@ -14835,6 +16221,8 @@ P�K�
 
 jaホリデーマジック
 
+plMagia świąt
+
 ptMagia Festiva
 1
 ru+Праздничное волшебство
@@ -14842,7 +16230,7 @@ P�K�
 ukСвяткова магія
 
 zh节日魔法
-�����
+�����
 
 enCaravan
 
@@ -14851,6 +16239,8 @@ P�K�
 frCaravane
 
 jaトレーラー
+
+pl	Przyczepa
 
 ptTrailer
 
@@ -14871,7 +16261,7 @@ P�K�
 ruCharioteer Трейлер
 
 ukCharioteer Причіп
-�����
+�����
 
 enFranky Four Fingers
 
@@ -14881,6 +16271,8 @@ P�K�
 0
 ja*フォーフィンガー・フランキー
 
+plFranky Cztery Palce
+
 ptFranky Quatro Dedos
 ,
 ru&Фрэнки Четыре Пальца
@@ -14888,7 +16280,7 @@ P�K�
 uk#Чотирипалий Френкі
 
 zh“四指”弗兰克
-�����
+�����
 
 enBullet-Tooth Tony
 
@@ -14897,6 +16289,8 @@ P�K�
 frTony Dents de plomb
 *
 ja$ブレットトゥース・トニー
+
+plKulozębny Tony
 
 ptTony Dente de Bala
 %
@@ -14905,7 +16299,7 @@ P�K�
 ukТоні Кулезуб
 
 zh“子弹牙齿”托尼
-�����
+�����
 
 enTurkish & Tommy
 
@@ -14915,6 +16309,8 @@ P�K�
 $
 jaターキッシュ＆トミー
 
+plTurek i Tommy
+
 ptTurco e Tommy
 
 ruТурок и Томми
@@ -14922,7 +16318,7 @@ $
 ukТурок і Томмі
 
 zh土耳其与汤米
-�����
+�����
 
 enBoris the Blade
 
@@ -14931,6 +16327,8 @@ $
 frBoris le Hachoir
 $
 jaボリス・ザ・ブレイド
+
+plBorys Brzytwa
 
 ptBoris, a Lâmina
 
@@ -14939,7 +16337,7 @@ $
 ukБорис Бритва
 
 zh刀疤老布
-�����
+�����
 
 en	Harvester
 
@@ -14949,6 +16347,9 @@ Recolector
 frMoissonneuse
 
 ja	採取機
+
+pl
+Żniwiarka
 
 ptColheitadeira
 
@@ -14965,7 +16366,7 @@ Recolector
 enMaus Harvester
 
 ruMaus Харвестер
-�����
+�����
 
 enHandmade
 
@@ -14975,6 +16376,8 @@ Artesanía
 frFait à la main
 
 jaハンドメイド
+
+plRobótka ręczna
 
 ptFeito à Mão
 
@@ -14991,7 +16394,7 @@ Artesanía
 enCS-53 Handmade
 
 ruCS-53 Хендмейд
-�����
+�����
 
 enSand and Spice
 
@@ -15000,6 +16403,8 @@ Artesanía
 frSable et Épice
 
 ja砂とスパイス
+
+plPiach i przyprawa
 
 ptAreia e Especiaria
 
@@ -15008,7 +16413,7 @@ Artesanía
 ukПісок і прянощі
 
 zh沙子与香料
-�����
+�����
 
 enSandworm
 
@@ -15017,6 +16422,8 @@ Artesanía
 frVer des sables
 
 jaサンドワーム
+
+plCzerw pustyni
 
 ptVerme da Areia
 !
@@ -15025,7 +16432,7 @@ Artesanía
 ukПіщаний хробак
 
 zh沙虫
-�����
+�����
 
 enGrandma's Cookies
 
@@ -15034,6 +16441,8 @@ Artesanía
 frCookies de grand-mère
 !
 jaグランマのクッキー
+
+plCiasteczka babuni
 
 ptBiscoitos da Vovó
 )
@@ -15042,7 +16451,7 @@ Artesanía
 ukБабусине печиво
 
 zh奶奶的饼干
-�����
+�����
 
 enGreen Thumb
 
@@ -15052,6 +16461,8 @@ Artesanía
 Pouce vert
 
 ja園芸マスター
+
+plPasjonat ogrodnictwa
 
 ptDedão Verde
 
@@ -15060,18 +16471,20 @@ Pouce vert
 ukСадівник
 
 zh园艺能手
-h�c�^
+w�r�m
 
 enMacramé
 
 jaマクラメ
+
+plMakrama
 
 ruМакраме
 
 ukМакраме
 
 zh绳结
-�����
+�����
 
 enPorcelain Cup
 
@@ -15080,6 +16493,8 @@ h�c�^
 frTasse en porcelaine
 
 ja磁器カップ
+
+plPorcelanowa filiżanka
 
 ptXícara de Porcelana
 
@@ -15114,11 +16529,14 @@ I�D�
 enJg.Pz. Scoop"
 
 enJg.Pz. Scoop
-����f
+����x
 
 en	Extractor
 
 jaエクストラクタ
+
+pl
+Ekstraktor
 
 ruЭкстрактор
 
@@ -15131,18 +16549,20 @@ I�D�
 enKV-1S Extractor
 #
 ruКВ-1С Экстрактор
-���z
+�����
 
 en	Supernova
 
 jaスーパーノヴァ
+
+pl	Supernowa
 #
 ruСвет сверхновой
 
 ukНаднова
 
 zh	超新星
-�����
+�����
 
 en	Crosshair
 
@@ -15151,6 +16571,8 @@ I�D�
 frCroix
 
 jaクロスヘア
+
+plKrzyżyk
 
 ptMira em Cruz
 
@@ -15159,7 +16581,7 @@ I�D�
 ukПерехрестя
 
 zh十字
-�����
+�����
 
 enEspionage Network
 
@@ -15169,6 +16591,8 @@ I�D�
 
 ja	情報網
 
+plSiatka szpiegowska
+
 ptRede de Espionagem
 !
 ruШпионская сеть
@@ -15176,7 +16600,7 @@ I�D�
 uk!Шпигунська мережа
 
 zh谍网
-�����
+�����
 
 enEyes on You
 
@@ -15185,6 +16609,8 @@ I�D�
 frYeux rivés sur vous
 
 ja監視の虜
+
+plNa oku
 
 ptDe Olho em Você
 
@@ -15193,7 +16619,7 @@ I�D�
 ukПід ковпаком
 
 zh紧盯不放
-�����
+�����
 
 enSignal and Receiver
 
@@ -15202,6 +16628,8 @@ I�D�
 frSignal et récepteur
 #
 jaシグナル×レシーバー
+
+plSygnał i odbiornik
 
 ptSinal e Receptor
 
@@ -15210,7 +16638,7 @@ I�D�
 ukЯк чути?
 
 zh信号与接收器
-�����
+�����
 
 enTeam Red
 
@@ -15219,6 +16647,8 @@ I�D�
 frÉquipe rouge
 
 jaチーム・レッド
+
+plDrużyna Czerwona
 
 ptEquipe Vermelha
 #
@@ -15227,7 +16657,7 @@ I�D�
 ukЧервона команда
 
 zh红队
-�����
+�����
 
 en
 Team Azure
@@ -15237,6 +16667,8 @@ Team Azure
 frÉquipe azurée
 
 jaチーム・アズール
+
+plDrużyna Błękitna
 
 ptEquipe Azul
 %
@@ -15245,7 +16677,7 @@ Team Azure
 ukЛазурова команда
 
 zh	蔚蓝队
-�����
+�����
 
 enTeam Yellow
 
@@ -15254,6 +16686,8 @@ Team Azure
 frÉquipe jaune
 
 jaチーム・イエロー
+
+plDrużyna Żółta
 
 ptEquipe Amarela
 !
@@ -15262,7 +16696,7 @@ Team Azure
 ukЖовта команда
 
 zh黄队
-�����
+�����
 
 enTeam Purple
 
@@ -15271,6 +16705,8 @@ Team Azure
 frÉquipe violette
 
 jaチーム・パープル
+
+plDrużyna Purpurowa
 
 ptEquipe Roxa
 )
@@ -15279,7 +16715,7 @@ Team Azure
 uk!Фіолетова команда
 
 zh紫队
-�����
+�����
 
 en
 Team Green
@@ -15289,6 +16725,8 @@ Team Green
 frÉquipe verte
 
 jaチーム・グリーン
+
+plDrużyna Zielona
 
 ptEquipe Verde
 #
@@ -15297,7 +16735,7 @@ Team Green
 ukЗелена команда
 
 zh绿队
-�����
+�����
 
 en	Team Blue
 
@@ -15306,6 +16744,8 @@ Team Green
 frÉquipe bleue
 
 jaチーム・ブルー
+
+plDrużyna Niebieska
 
 ptEquipe Azul
 

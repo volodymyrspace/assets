@@ -64,8 +64,8 @@ L
 tu
 ij
 pq
-ve�d�
-�
+ve�d�
+�
 
 en
 Gun Rammer
@@ -75,6 +75,8 @@ Gun Rammer
 frFouloir de canon
 
 ja	装填棒
+
+plMechanizm dosyłający
 
 ptPercussor do Canhão
 -
@@ -82,7 +84,7 @@ Gun Rammer
 '
 uk!Гарматний досилач
 
-zh火炮输弹机�
+zh火炮输弹机�
 H
 enBIncreases the rate of fire.
 %(gunReloadTimeFactor) to reload time.
@@ -95,6 +97,9 @@ R
 H
 jaB発射速度を向上。
 装填速度が %(gunReloadTimeFactor)。
+P
+plJZwiększa szybkostrzelność.
+%(gunReloadTimeFactor) czasu przeładowania.
 X
 ptRAumenta a taxa de disparos.
 %(gunReloadTimeFactor) para o tempo de recarregamento.
@@ -106,8 +111,8 @@ X
 %(gunReloadTimeFactor) до часу перезаряджання.
 <
 zh6提升射速。
-%(gunReloadTimeFactor) 装填时间。�e�
-�
+%(gunReloadTimeFactor) 装填时间。�e�
+�
 
 enHigh-End Consumables
 
@@ -116,6 +121,8 @@ X
 frConsommables haut de gamme
 
 ja高級消耗品
+"
+plMateriały z górnej półki
 !
 ptConsumíveis de Alto Nível
 5
@@ -123,7 +130,7 @@ X
 3
 uk-Першокласне спорядження
 
-zh高级消耗品�
+zh高级消耗品�
 �
 en�Allows bonuses from consumables and bonuses from abilities in modes to last longer.
 %(equipmentDurationFactor) to the duration of consumables and abilities.
@@ -136,6 +143,9 @@ X
 �
 ja�消耗品/戦闘モードの能力から受けるボーナスの、持続時間を延長。
 消耗品/戦闘モードの能力の効果時間が %(equipmentDurationFactor)。
+�
+pl�Wydłuża działanie premii od materiałów eksploatacyjnych i umiejętności w trybach.
+%(equipmentDurationFactor) czasu działania materiałów eksploatacyjnych i umiejętności.
 �
 pt�Permite que bônus de consumíveis e bônus de habilidades nos modos durem mais.
 %(equipmentDurationFactor) para a duração dos consumíveis e habilidades.
@@ -147,8 +157,8 @@ X
 %(equipmentDurationFactor) до часу дії спорядження та здібностей.
 �
 zh~使消耗品和能力提供的加成效果持续时间更长。
-%(equipmentDurationFactor)消耗品和能力的持续时间。�f�
-�
+%(equipmentDurationFactor)消耗品和能力的持续时间。�f�
+�
 
 enImproved Ventilation
 
@@ -157,6 +167,8 @@ X
 frVentilation améliorée
 
 ja改良型換気装置
+
+plUlepszona wentylacja
 
 ptVentilação Melhorada
 /
@@ -164,7 +176,7 @@ X
 -
 uk'Поліпшена вентиляція
 
-zh改进型风扇�
+zh改进型风扇�
 /
 en)Improves tank maneuverability and firing.
 9
@@ -173,6 +185,8 @@ X
 fr,Améliore la maniabilité et le tir du char.
 9
 ja3戦車の機動性と射撃性能を向上する。
+9
+pl3Poprawia zwrotność i skuteczność ognia czołgu.
 1
 pt+Melhora a mobilidade e o disparo do tanque.
 d
@@ -180,8 +194,8 @@ d
 g
 ukaВпливає на параметри маневровості та стрільби танка.
 '
-zh!提高坦克机动性和火力。�g�
-�
+zh!提高坦克机动性和火力。�g�
+�
 
 enCalibrated Shells
 
@@ -190,6 +204,8 @@ g
 frObus calibrés
 
 ja砲弾調整
+
+plSkalibrowane pociski
 
 ptProjéteis Calibrados
 /
@@ -197,7 +213,7 @@ g
 +
 uk%Калібровані снаряди
 
-zh校准炮弹�
+zh校准炮弹�
 �
 en�Increases the chance of penetrating the enemy's armor.
 Increases penetration for some shell types.
@@ -226,6 +242,13 @@ Augmente la valeur de pénétration de certains types d'obus.
 硬芯徹甲弾が %(ARMOR_PIERCING_CR)、
 対戦車榴弾が %(HOLLOW_CHARGE)、
 榴弾が %(HIGH_EXPLOSIVE)。
+�
+pl�Zwiększa szansę na przebicie pancerza przeciwnika.
+Zwiększa przebicie niektórymi typami pocisków.
+%(ARMOR_PIERCING) dla pocisków przeciwpancernych,
+%(ARMOR_PIERCING_CR) dla pocisków podkalibrowych (APCR),
+%(HOLLOW_CHARGE) dla pocisków kumulacyjnych (HEAT),
+%(HIGH_EXPLOSIVE) dla pocisków odłamkowo-burzących.
 �
 pt�Aumenta a chance de penetrar a blindagem do inimigo.
 Aumenta a penetração com qualquer tipo de projétil.
@@ -253,8 +276,10 @@ Aumenta a penetração com qualquer tipo de projétil.
 %(ARMOR_PIERCING)穿甲弹，
 %(ARMOR_PIERCING_CR)复合穿甲弹，
 %(HOLLOW_CHARGE) 高爆反坦克弹，
-%(HIGH_EXPLOSIVE)高爆弹。�	h�	
-�
+%(HIGH_EXPLOSIVE)高爆弹。�
+h�
+
+�
 
 enEnhanced Gun Laying Drive
 %
@@ -263,6 +288,8 @@ Aumenta a penetração com qualquer tipo de projétil.
 frSystème de visée amélioré
 
 ja改良型射撃装置
+$
+plUlepszony system naprowadzania
 
 ptMira do Canhão Melhorada
 6
@@ -270,7 +297,7 @@ Aumenta a penetração com qualquer tipo de projétil.
 <
 uk6Посилені механізми наведення
 
-zh改进型炮控系统�
+zh改进型炮控系统�
 a
 en[Decreases the aiming time after the tank has moved.
 %(gunAimingTimeFactor) to aiming speed.
@@ -283,6 +310,9 @@ p
 a
 ja[戦車移動後の照準時間を短縮する。
 照準速度が %(gunAimingTimeFactor) 。
+e
+pl_Zmniejsza czas celowania po poruszeniu czołgu.
+%(gunAimingTimeFactor) do szybkości celowania.
 j
 ptdDiminui o tempo de mira após o movimento do tanque.
 %(gunAimingTimeFactor) para velocidade de mira.
@@ -294,8 +324,8 @@ j
 %(gunAimingTimeFactor) до швидкості зведення.
 S
 zhM降低坦克移动后的瞄准时间。
-%(gunAimingTimeFactor)瞄准速度。�i�
-�
+%(gunAimingTimeFactor)瞄准速度。�i�
+�
 
 enVertical Stabilizer
 
@@ -304,6 +334,8 @@ S
 frStabilisateur Vertical
 
 ja砲垂直安定装置
+
+plStabilizator pionowy
 
 ptEstabilizador Vertical
 F
@@ -311,8 +343,7 @@ F
 L
 ukFСтабілізатор вертикального наведення
 
-zh垂直稳定器�
-
+zh垂直稳定器�
 �
 en�Allows for more accuracy when shooting while the tank is moving.
 %(additiveShotDispersionFactor) to accuracy during tank and turret movement.
@@ -325,6 +356,9 @@ L
 y
 jas移動時の射撃精度を強化。
 移動中/砲塔旋回中の射撃精度が %(additiveShotDispersionFactor)。
+�
+pl�Zapewnia lepszą celność podczas strzelania w ruchu.
+%(additiveShotDispersionFactor) do celności podczas poruszania się i obrotu wieży.
 �
 pt�Permite maior precisão ao atirar enquanto o tanque se movimenta.
 %(additiveShotDispersionFactor) de precisão durante o movimento e rotação da torre.
@@ -336,8 +370,8 @@ y
 %(additiveShotDispersionFactor) до точності під час руху та обертання башти.
 t
 zhn提升坦克移动中攻击的准度。
-%(additiveShotDispersionFactor)移动时和炮塔转动时的准度。�j�
-�
+%(additiveShotDispersionFactor)移动时和炮塔转动时的准度。�	j�	
+�
 
 enRefined Gun
 
@@ -347,13 +381,15 @@ t
 
 ja精密砲身
 
+plDziało wyborowe
+
 ptCanhão Refinado
 3
 ru-Сбалансированное орудие
 -
 uk'Збалансована гармата
 
-zh精密火炮�
+zh精密火炮�
 g
 enaIncreases the chance of hitting the enemy.
 %(shotDispersionAngleFactor) to dispersion at 100﻿m.
@@ -366,6 +402,9 @@ l
 _
 jaY敵への命中率を向上。
 100﻿m での散布界が %(shotDispersionAngleFactor)。
+g
+plaZwiększa szansę na trafienie przeciwnika.
+%(shotDispersionAngleFactor) do rozrzutu przy 100 m.
 d
 pt^Aumenta a chance de acertar o inimigo.
 %(shotDispersionAngleFactor) para dispersão a 100﻿m.
@@ -377,8 +416,8 @@ r
 %(shotDispersionAngleFactor) до розкиду на 100﻿ м.
 _
 zhY增加命中敌人的几率。
-%(shotDispersionAngleFactor)100﻿米距离上的误差。�k�
-�
+%(shotDispersionAngleFactor)100﻿米距离上的误差。�k�
+�
 
 enSupercharger
 
@@ -387,12 +426,14 @@ _
 frSurpresseur
 
 ja	強装薬
+
+plSuper doładowanie
 '
 ru!Увеличенный заряд
 %
 ukЗбільшений заряд
 
-zh	超负荷�
+zh	超负荷�
 �
 en�Increases the chance of hitting and penetrating from a distance.
 %(projectileSpeedFactor) to shell velocity.
@@ -409,6 +450,10 @@ _
 ja�遠距離からの命中率及び貫通率を向上。
 弾速が %(projectileSpeedFactor)。
 距離による貫通力低下が %(piercingPenaltyFactor500m)。
+�
+pl�Zwiększa szansę na trafienie i przebicie z dystansu.
+%(projectileSpeedFactor) prędkości pocisku.
+%(piercingPenaltyFactor500m) redukcji przebicia strzałami z dystansu.
 �
 pt�Aumenta a chance de acertar e penetrar a distância.
 %(projectileSpeedFactor) para a velocidade do projétil.
@@ -424,8 +469,8 @@ _
 �
 zh�提升远距离的命中率和穿透率。
 %(projectileSpeedFactor)炮弹飞行速度。
-%(piercingPenaltyFactor500m)飞行距离损失的穿透力。�l�
-�
+%(piercingPenaltyFactor500m)飞行距离损失的穿透力。�l�
+�
 
 enImproved Modules
 
@@ -434,6 +479,8 @@ _
 frÉléments améliorés
 
 ja改良型モジュール
+
+plZmodernizowane moduły
 
 ptMódulos Aprimorados
 +
@@ -441,7 +488,7 @@ _
 +
 uk%Допрацьовані модулі
 
-zh改进型模块�
+zh改进型模块�
 �
 en�Increases the durability of modules and reduces damage from ramming.
 %(maxHealthPercentageBonus) to track durability.
@@ -458,6 +505,10 @@ Réduit les dégâts de %(rammingAbsorptionPercent) en cas de collision.
 ja�モジュールの耐久性が上がり、体当たりで受けるダメージを軽減する。
 履帯の耐久性が %(maxHealthPercentageBonus)上昇。
 体当たりによるダメージが %(rammingAbsorptionPercent)減少。
+�
+pl�Zwiększa wytrzymałość modułów i zmniejsza uszkodzenia otrzymywane w wyniku taranowania.
+Dodaje %(maxHealthPercentageBonus) do wytrzymałości gąsienic.
+Zmniejsza uszkodzenia o %(rammingAbsorptionPercent), gdy przeciwnik taranuje.
 �
 pt�Aumenta a durabilidade dos módulos e reduz o dano de colisão.
 Adiciona %(maxHealthPercentageBonus) à durabilidade da esteira.
@@ -473,8 +524,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 �
 zh�提高模块的耐久度并降低受到的撞击伤害。
 提高%(maxHealthPercentageBonus)履带耐久度。
-受到的撞击伤害%(rammingAbsorptionPercent)。�m�
-�
+受到的撞击伤害%(rammingAbsorptionPercent)。�m�
+�
 
 enDefense System
 
@@ -484,13 +535,15 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 
 ja防護システム
 
+plSystem izolacyjny
+
 ptSistema de Defesa
 '
 ru!Защитный комплекс
 '
 uk!Захисний комплекс
 
-zh防御系统�
+zh防御系统�
 �
 en�Decreases the enemy's chances of dealing damage to your tank's modules and crew.
 %(engineEvasionPercentageBonus) to the chance of engine damage.
@@ -511,6 +564,11 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 エンジンダメージの確率が %(engineEvasionPercentageBonus)。
 搭乗員負傷の確率が %(crewEvasionPercentageBonus)。
 弾薬庫誘爆の確率が %(ammoEvasionPercentageBonus)。
+�
+pl�Zmniejsza szansę przeciwnika na zadanie uszkodzeń modułom Twojego czołgu i zranienie załogi.
+%(engineEvasionPercentageBonus) do szansy na uszkodzenie silnika.
+%(crewEvasionPercentageBonus) do szansy na zranienie załogi.
+%(ammoEvasionPercentageBonus) do szansy na wybuch magazynu amunicji.
 �
 pt�Diminui as chances do inimigo infligir danos aos módulos e tripulação do seu tanque.
 %(engineEvasionPercentageBonus) de chance de dano no motor.
@@ -530,8 +588,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 zh�降低敌人对您的坦克模块和乘员造成冲击伤害的几率：
 %(engineEvasionPercentageBonus)损伤引擎的几率。
 %(crewEvasionPercentageBonus)损伤乘员的几率。
-%(ammoEvasionPercentageBonus)引爆弹药架的几率。�n�
-�
+%(ammoEvasionPercentageBonus)引爆弹药架的几率。�	n�	
+�
 
 enEnhanced Armor
 
@@ -540,6 +598,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 frBlindage amélioré
 
 ja改良型装甲
+
+plWzmocniony pancerz
 
 ptBlindagem Aprimorada
 #
@@ -547,7 +607,7 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 !
 ukПосилена броня
 
-zh强化装甲�
+zh强化装甲�
 T
 enNStrengthens tank armor.
 %(armorHomogenizationFactor) to hull and turret armor.
@@ -560,6 +620,9 @@ l
 Z
 jaT戦車装甲を強化。
 車体及び砲塔装甲が %(armorHomogenizationFactor)。
+^
+plXWzmacnia pancerz czołgu.
+%(armorHomogenizationFactor) do pancerza kadłuba oraz wieży.
 g
 ptaFortalece a blindagem do tanque.
 %(armorHomogenizationFactor) para blindagem do casco e da torre.
@@ -571,8 +634,10 @@ g
 %(armorHomogenizationFactor) до бронювання корпусу та башти.
 S
 zhM强化坦克的装甲。
-%(armorHomogenizationFactor)车身和炮塔护甲。�	o�	
-�
+%(armorHomogenizationFactor)车身和炮塔护甲。�
+o�
+
+�
 
 enImproved Assembly
 
@@ -581,6 +646,8 @@ S
 frAssemblage amélioré
 
 ja改良型アセンブリ
+
+plStaranny montaż
 
 ptMontagem Melhorada
 '
@@ -588,7 +655,7 @@ S
 %
 ukПоліпшена збірка
 
-zh改进组装�
+zh改进组装�
 U
 enOIncreases tank HP and survivability in battle.
 %(maxHpBonusPercent) to tank HP.
@@ -601,6 +668,9 @@ i
 m
 jag戦車 HP と戦闘での生存性を向上。
 戦車の HP が %(maxHpBonusPercent) 向上します。
+k
+pleZwiększa liczbę PW czołgu i jego szansę na przetrwanie bitwy.
+%(maxHpBonusPercent) do PW czołgu.
 h
 ptbAumenta a energia do tanque e a sobrevivência em batalha.
 %(maxHpBonusPercent) ao HP do veículo.
@@ -612,8 +682,8 @@ h
 %(maxHpBonusPercent) до міцності танка.
 c
 zh]提升坦克生命值和在战斗中的生存能力。
-%(maxHpBonusPercent)坦克生命值。�p�
-�
+%(maxHpBonusPercent)坦克生命值。�p�
+�
 
 enEnhanced Tracks
 
@@ -622,6 +692,8 @@ c
 frChenilles améliorées
 
 ja改良型履帯
+
+plWzmocnione gąsienice
 
 ptSuspensão Melhorada
 6
@@ -629,8 +701,7 @@ c
 .
 uk(Посилені шарніри шасі
 
-zh强化履带�
-
+zh强化履带�
 �
 enzMakes the tracks more durable to withstand more damage.
 Also, fully repairs the tracks automatically if they're destroyed.
@@ -643,6 +714,9 @@ En outre, répare entièrement les chenilles automatiquement lorsqu'elles sont d
 �
 ja�履帯の耐久性が上がり、破損しにくくなる。
 また、故障した履帯が自動的に正常な状態まで回復するようになる。
+�
+pl�Sprawia, że gąsienice są wytrzymalsze i mogą odnieść większe uszkodzenia.
+W pełni naprawia gąsienice, jeśli zostały zniszczone.
 �
 pt�Aumenta a durabilidade das esteiras para que possam suportar mais danos.
 Além disso, repara totalmente as esteiras automaticamente se elas forem destruídas.
@@ -654,8 +728,8 @@ Além disso, repara totalmente as esteiras automaticamente se elas forem destru�
 Також автоматично відновлюють знищені гусениці повністю.
 d
 zh^提高履带的耐久度和承伤能力。
-此外，履带被摧毁时会自动完全修复。�q�
-�
+此外，履带被摧毁时会自动完全修复。�q�
+�
 
 enToolbox
 
@@ -664,6 +738,8 @@ d
 frBoîte à outils
 
 ja	工具箱
+
+plSkrzynka z narzędziami
 
 ptCaixa de Ferramentas
 ,
@@ -671,7 +747,7 @@ d
 ,
 uk&Ящик з інструментами
 
-zh	工具箱�
+zh	工具箱�
 2
 en,%(repairSpeedFactor) to module repair speed.
 I
@@ -680,6 +756,8 @@ G
 frA%(repairSpeedFactor) à la vitesse de réparation des éléments.
 <
 ja6モジュール修理速度が %(repairSpeedFactor)。
+8
+pl2%(repairSpeedFactor) szybkości naprawy modułów.
 C
 pt=%(repairSpeedFactor) para a velocidade de reparo de módulos.
 M
@@ -687,10 +765,8 @@ M
 Q
 ukK%(repairSpeedFactor) до швидкості ремонту модулів.
 /
-zh)%(repairSpeedFactor)模块修理速度。�
-r�
-
-�
+zh)%(repairSpeedFactor)模块修理速度。�r�
+�
 
 enImproved Optics
 
@@ -700,13 +776,15 @@ Q
 
 ja改良型レンズ
 
+plUlepszona optyka
+
 ptÓtica Melhorada
 '
 ru!Улучшенная оптика
 %
 ukПоліпшена оптика
 
-zh高级光学观察镜�
+zh高级光学观察镜�	
 p
 enjIncreases view range and helps with spotting enemies earlier.
 %(circularVisionRadiusFactor) to view range.
@@ -719,6 +797,9 @@ p
 y
 jas視認範囲を向上し、敵の早期発見を可能にする。
 視認範囲が %(circularVisionRadiusFactor)。
+�
+plZwiększa zasięg widzenia i umożliwia wcześniejsze wykrycie przeciwnika.
+%(circularVisionRadiusFactor) do zasięgu widzenia.
 �
 ptzAumenta o alcance de visão e ajuda a detectar inimigos mais cedo.
 %(circularVisionRadiusFactor) para o alcance de visão.
@@ -730,8 +811,8 @@ y
 %(circularVisionRadiusFactor) до радіусу огляду.
 f
 zh`提高视野范围，有助于更早发现敌人。
-%(circularVisionRadiusFactor)视野范围。�s�
-�
+%(circularVisionRadiusFactor)视野范围。�s�
+�
 
 enCamouflage Net
 
@@ -740,6 +821,8 @@ f
 frFilet de camouflage
 
 ja迷彩ネット
+
+plSiatka maskująca
 
 ptRede de Camuflagem
 )
@@ -747,7 +830,7 @@ f
 '
 uk!Маскувальна сітка
 
-zh	伪装网�
+zh	伪装网�
 �
 en�Increases tank concealment at a distance and makes fighting at long range more effective.
 %(detectabilityFactor) to concealment when the tank is moving.
@@ -764,6 +847,10 @@ Le bonus est doublé lorsque le char reste à l'arrêt pendant %(activateWhenSti
 ja�離れた場所での戦車の隠蔽率を強化し、遠距離戦を有利にします。
 移動中の戦車の隠蔽率は %(detectabilityFactor) 向上します。
 戦車が %(activateWhenStillSec)﻿ 秒静止している状態では、ボーナスは 2 倍になります。
+�
+pl�Zwiększa kamuflaż czołgu dla dużych odległości i sprawia, że walka na dystans jest skuteczniejsza.
+%(detectabilityFactor) do kamuflażu przy ruchu czołgu.
+Premia jest podwójna, jeśli czołg nie porusza się przez %(activateWhenStillSec) s.
 �
 pt�Aumenta a ocultação do tanque à distância e torna o combate de longo alcance mais eficaz.
 %(detectabilityFactor) de ocultação quando o tanque estiver em movimento.
@@ -779,10 +866,8 @@ O bônus é dobrado se o tanque permanecer parado por %(activateWhenStillSec)﻿
 �
 zh�增加坦克在远距离的隐蔽性使之更具远程作战效率。
 %(detectabilityFactor)坦克移动时的隐蔽性。
-坦克静止%(activateWhenStillSec)﻿秒后效果加倍。�
-t�
-
-�
+坦克静止%(activateWhenStillSec)﻿秒后效果加倍。�t�
+�
 
 enImproved Control
 
@@ -791,6 +876,8 @@ O bônus é dobrado se o tanque permanecer parado por %(activateWhenStillSec)﻿
 frContrôle amélioré
 
 ja改良型操縦装置
+
+plUlepszone sterowanie
 
 ptControle Melhorado
 /
@@ -798,7 +885,7 @@ O bônus é dobrado se o tanque permanecer parado por %(activateWhenStillSec)﻿
 +
 uk%Поліпшене керування
 
-zh增强操控�
+zh增强操控�	
 k
 eneAllows for faster responses to enemy actions.
 %(rotationSpeedLimit) to the top turn rate of the tank.
@@ -811,6 +898,9 @@ k
 o
 jai敵の行動に対し迅速に対応できる。
 戦車の最高旋回速度が %(rotationSpeedLimit) 。
+~
+plxPozwala na szybszą reakcję na działania przeciwnika.
+%(rotationSpeedLimit) do maksymalnej prędkości obrotu czołgu.
 s
 ptmPermite respostas mais rápidas às ações do inimigo.
 %(rotationSpeedLimit) de taxa de rotação do tanque.
@@ -822,10 +912,8 @@ s
 %(rotationSpeedLimit) до максимальної швидкості повороту танка.
 ^
 zhX提升对敌人攻击的反应速度。
-%(rotationSpeedLimit)坦克最大转向速率。�
-u�
-
-�
+%(rotationSpeedLimit)坦克最大转向速率。�u�
+�
 
 enEngine Accelerator
 
@@ -835,13 +923,15 @@ s
 
 jaエンジン加速器
 
+plAkcelerator silnika
+
 ptAcelerador de Motor
 @
 ru:Подкрученные обороты двигателя
 6
 uk0Підкручені оберти двигуна
 
-zh引擎加速器�
+zh引擎加速器�
 Z
 enTAllows strategic positions to be taken more quickly.
 %(enginePower) to engine power.
@@ -854,6 +944,9 @@ o
 j
 jad迅速に戦略的要所を押さえることができる。
 エンジン出力が %(enginePower)。
+V
+plPPozwala na szybsze zajęcie strategicznych pozycji.
+%(enginePower) mocy silnika.
 r
 ptlPermite que posições estratégicas sejam tomadas mais rapidamente.
 %(enginePower) para potência do motor.
@@ -865,8 +958,8 @@ r
 %(enginePower) до потужності двигуна.
 E
 zh?更快抵达战略目标地。
-%(enginePower)发动机功率。�v�
-�
+%(enginePower)发动机功率。�v�
+�
  
 enConsumable Delivery System
 '
@@ -875,6 +968,8 @@ E
 fr%Système de livraison de consommables
 *
 ja$消耗品デリバリーシステム
+ 
+plSystem dostaw materiałów
 '
 pt!Sistema de Entrega de Consumível
 6
@@ -882,7 +977,7 @@ E
 >
 uk8Система подавання спорядження
 
-zh消耗品配送系统�
+zh消耗品配送系统�
 �
 en�Allows consumables and abilities in modes to be used more often.
 %(equipmentReloadBoost) to cooldown speed of consumables and abilities.
@@ -895,6 +990,9 @@ E
 �
 ja�消耗品/戦闘モードの能力をより頻繁に使用できるようになる。
 消耗品/戦闘モードの能力のクールダウン速度が %(equipmentReloadBoost) 。
+�
+pl�Umożliwia częstsze używanie materiałów eksploatacyjnych i umiejętności w trybach.
+%(equipmentReloadBoost) szybkości odnawiania materiałów eksploatacyjnych i umiejętności.
 �
 pt�Permite que consumíveis e habilidades nos modos sejam usados com mais frequência.
 %(equipmentReloadBoost) para a velocidade de recarga de consumíveis e habilidades.
@@ -906,10 +1004,8 @@ E
 %(equipmentReloadBoost) до швидкості перезаряджання спорядження та здібностей.
 {
 zhu可以在模式中更频繁地使用消耗品和能力。
-%(equipmentReloadBoost)消耗品和能力的冷却速度。�
-w�
-
-�
+%(equipmentReloadBoost)消耗品和能力的冷却速度。�w�
+�
 
 enBinocular Telescope
 
@@ -918,6 +1014,8 @@ E
 frTélescope binoculaire
 
 ja	双眼鏡
+
+plLorneta polowa
 
 ptTelescópio Binocular
 
@@ -925,7 +1023,8 @@ E
 
 ukСтереотруба
 
-zh	炮队镜�	
+zh	炮队镜�
+
 z
 ent%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end) to view range for a stationary tank, up to 500m.
 �
@@ -934,6 +1033,8 @@ z
 fr�%(highlight_start)+%(circularVisionRadiusIncrease) %%(highlight_end) à la portée de vue lorsque le char est à l'arrêt, jusqu'à 500 m.
 u
 jao静止中の視認範囲が %(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end)。(最大 500m)
+~
+plx%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end) do zasięgu widzenia podczas postoju (maks. 500 m).
 �
 ptz%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end) de alcance de visão para um tanque parado, até 500m.
 �
@@ -941,8 +1042,8 @@ u
 �
 uk�%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end) до радіусу огляду з нерухомого танка, але не більше ніж 500 м.
 y
-zhs%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end)坦克静止时的观测范围，最高500米。�x�
-�
+zhs%(highlight_start)+%(circularVisionRadiusIncrease)%%(highlight_end)坦克静止时的观测范围，最高500米。�x�
+�
 
 enImproved Modules +
 
@@ -951,6 +1052,8 @@ y
 frÉléments améliorés +
  
 ja改良型モジュール +
+
+plZmodernizowane moduły +
 
 ptMódulos Aprimorados +
 -
@@ -958,7 +1061,7 @@ y
 -
 uk'Допрацьовані модулі +
 
-zh改进型模块+�
+zh改进型模块+�
 �
 en�Increases the durability of modules and reduces damage from ramming.
 %(maxHealthPercentageBonus) to track durability.
@@ -979,6 +1082,11 @@ Réduit les dégâts de %(rammingAbsorptionPercent) en cas de collision.
 履帯の耐久性が %(maxHealthPercentageBonus)上昇。
 体当たりによるダメージが %(rammingAbsorptionPercent)減少。
 130mm を超える口径の榴弾によるダメージが -10%減少。
+�
+pl�Zwiększa wytrzymałość modułów i zmniejsza uszkodzenia otrzymywane w wyniku taranowania.
+Dodaje %(maxHealthPercentageBonus) do wytrzymałości gąsienic.
+Zmniejsza uszkodzenia o %(rammingAbsorptionPercent), gdy przeciwnik taranuje.
+Zmniejsza uszkodzenia od pocisków odłamkowo-burzących o kal. większym niż 130 mm o -10%.
 �
 pt�Aumenta a durabilidade dos módulos e reduz o dano de colisão.
 Adiciona %(maxHealthPercentageBonus) à durabilidade da esteira.
@@ -998,8 +1106,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 zh�提高模块耐久度并降低受到的撞击伤害。
 提高%(maxHealthPercentageBonus)履带耐久度。
 降低%(rammingAbsorptionPercent)受到的撞击伤害。
-130毫米口径以上高爆弹对您的伤害-10%。�y�
-�
+130毫米口径以上高爆弹对您的伤害-10%。�y�
+�
 
 enDefense System +
 
@@ -1009,13 +1117,15 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 
 ja防御システム +
 
+plSystem izolacyjny +
+
 ptSistema de Defesa +
 )
 ru#Защитный комплекс +
 )
 uk#Захисний комплекс +
 
-zh防御系统+�
+zh防御系统+�
 �
 en�Decreases the enemy's chances of dealing damage to your tank's modules and crew.
 %(engineEvasionPercentageBonus) to the chance of engine damage.
@@ -1040,6 +1150,12 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 搭乗員負傷の確率が %(crewEvasionPercentageBonus)。
 弾薬庫誘爆の確率が %(ammoEvasionPercentageBonus)。
 130﻿mm より大きな口径の敵の榴弾による貫通率が -10%。
+�
+pl�Zmniejsza szanse przeciwnika na zadanie uszkodzeń modułom i zranienie załogi Twojego czołgu.
+%(engineEvasionPercentageBonus) szansy uszkodzenia silnika.
+%(crewEvasionPercentageBonus) szansy zranienia załogi.
+%(ammoEvasionPercentageBonus) szansy wybuchu magazynu amunicji.
+-10% szansy przebicia pociskami odłamkowo-burzącymi przeciwnika kalibru wyższego niż 130 mm﻿mm.
 �
 pt�Diminui as chances de o inimigo provocar danos aos módulos e à tripulação do seu tanque.
 %(engineEvasionPercentageBonus) de chance de dano ao motor.
@@ -1063,8 +1179,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 %(engineEvasionPercentageBonus)引擎受伤几率。
 %(crewEvasionPercentageBonus)乘员受伤几率。
 %(ammoEvasionPercentageBonus)弹药架爆炸几率。
--10%被敌方130﻿毫米以上口径高爆弹攻击的穿透深度。�z�
-�
+-10%被敌方130﻿毫米以上口径高爆弹攻击的穿透深度。�z�
+�
 "
 enImproved Vertical Stabilizer
 %
@@ -1073,6 +1189,8 @@ Reduz o dano em %(rammingAbsorptionPercent) quando o veículo sofre uma colisão
 fr!Stabilisateur vertical amélioré
 
 ja改良型安定装置
+$
+plUlepszony stabilizator pionowy
 &
 pt Estabilizador Vertical Melhorado
 B
@@ -1080,7 +1198,7 @@ B
 >
 uk8Поліпшена вертикальна наводка
 
-zh改进型垂直稳定器�
+zh改进型垂直稳定器�
 �
 en�Improves aiming ability.
 +%(upperPitchLimitIncrease)° to upper gun turn limit.
@@ -1097,6 +1215,10 @@ B
 ja�垂直方向のターゲティングを容易にする。
 主砲の仰角が +%(upperPitchLimitIncrease)度。
 主砲の俯角が +%(lowerPitchLimitIncrease)度。
+�
+pl�Poprawia stabilność celowania.
++%(upperPitchLimitIncrease)°górnego limitu obracania działa.
++%(lowerPitchLimitIncrease)° dolnego limitu obracania działa.
 �
 pt�Melhora a capacidade de mira.
 +%(upperPitchLimitIncrease)° para o limite superior de giro do canhão.
@@ -1112,8 +1234,8 @@ B
 �
 zh�提升瞄准能力。
 +%(upperPitchLimitIncrease)°火炮上仰角度限制。
-+%(lowerPitchLimitIncrease)°火炮下俯角度限制。�{�
-�
++%(lowerPitchLimitIncrease)°火炮下俯角度限制。�{�
+�
 
 enImproved Suspension
 
@@ -1122,6 +1244,8 @@ B
 frSuspension améliorée
 $
 ja改良型サスペンション
+
+plUlepszone zawieszenie
 
 ptSuspensão Melhorada
 +
@@ -1129,7 +1253,7 @@ $
 )
 uk#Поліпшена підвіска
 
-zh改进型悬挂系统�
+zh改进型悬挂系统�
 �
 en�Enhances terrain crossing capacity on various surfaces.
 %(firmGroundPassabilityIncrease) improvement to crossing capacity on roads.
@@ -1150,6 +1274,11 @@ $
 道での地形走破能力が %(firmGroundPassabilityIncrease)上昇。
 地面での地形走破能力が %(mediumGroundPassabilityIncrease)上昇。
 水辺での地形走破能力が %(softGroundPassabilityIncrease)上昇。
+�
+pl�Poprawia zdolność pokonywania terenów różnego rodzaju.
+%(firmGroundPassabilityIncrease) do potencjału w zakresie jazdy po drodze.
+%(mediumGroundPassabilityIncrease) do potencjału w zakresie jazdy po gruncie.
+%(softGroundPassabilityIncrease) do potencjału w zakresie jazdy po wodzie.
 �
 pt�Melhora a capacidade de travessia em várias superfícies.
 %(firmGroundPassabilityIncrease) de melhoria na capacidade de travessia em estradas.
