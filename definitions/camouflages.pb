@@ -15029,6 +15029,237 @@ Poinsétia
 ukКолядка
 
 zh雪橇之歌
+����}
+
+en	Satellite
+
+es	Satélite
+
+ja人工衛星
+
+plSatelita
+
+pt	Satélite
+
+ukСупутник
+
+zh卫星
+
+enT-100 LT Satellite"
+
+enT-100 LT Satellite
+�����
+
+en
+Ice Dragon
+
+esDragón de hielo
+
+frDragon de glace
+
+ja	氷の竜
+
+plLodowy smok
+
+ptDragão de Gelo
+!
+ruЛедяной дракон
+#
+ukКрижаний дракон
+
+zh冰龙
+
+enBZ-74-1 Ice Dragon"
+
+enBZ-74-1 Ice Dragon
+�����
+
+enSatellite Guidance
+ 
+esOrientación por satélite
+
+frGuidage satellite
+
+ja衛星の導き
+
+plNaprowadzanie satelitarne
+
+ptVia Satélite
+/
+ru)Спутниковое наведение
+/
+uk)Супутникове наведення
+
+zh卫星导航
+�����
+
+enTactical Interface
+
+esInterfaz táctica
+
+frInterface tactique
+'
+ja!戦闘用インターフェース
+
+plInterfejs taktyczny
+
+ptInterface Tática
+/
+ru)Тактический интерфейс
++
+uk%Тактичний інтерфейс
+
+zh战术界面
+�����
+
+enTracking System
+
+esSistema de seguimiento
+
+frSystème de suivi
+
+ja追跡システム
+
+plSystem namierzania
+
+ptSistema de Rastreamento
+%
+ruСистема слежения
+/
+uk)Система відстежування
+
+zh追踪系统
+�����
+
+enTarget Locked
+
+esObjetivo fijado
+
+frCible verrouillée
+
+jaターゲット捕捉
+
+plCel na muszce
+
+ptAlvo Travado
+!
+ruЦель захвачена
+%
+ukЦіль зафіксовано
+
+zh目标锁定
+�����
+
+en
+Duct Taped
+
+esCinta adhesiva
+
+frScotché
+
+ja粘着テープまみれ
+
+pl
+Posklejany
+
+pt	Remendado
+
+ruМощь изоленты
+$
+ukНа чесному слові
+
+zh胶带修补
+�����
+
+enGood As New
+
+es
+Como nuevo
+
+fr
+Comme neuf
+
+ja完全補修完了
+
+pl
+Jak nówka
+
+pt
+Quase Novo
+
+ruКак новенький
+
+ukЯк новенький
+
+zh完好如初
+�����
+
+enCat Box
+
+esCaja para gatos
+
+frBoîte à chat
+
+jaネコボックス
+
+plKocie pudło
+
+ptCaixa de Gato
+'
+ru!Котейкина коробка
+*
+uk$Коробка для котиків
+
+zh猫咪专用纸盒
+�����
+
+en	Tarped Up
+
+esCubierto de lona
+
+frBâché
+
+ja防水加工
+
+plOkryty
+
+ptEncurralado
++
+ru%Брезентовая обмотка
+
+ukПід брезентом
+
+zh帆布包裹
+�����
+
+enCatboard
+
+esGato de cartón
+
+fr	Chat-rton
+
+jaニャンボール
+
+plKoci karton
+
+ptPapelão
+
+ruКартон
+
+ukКартон
+
+zh猫咪专用纸箱
+
+enTiger II Catboard"
+
+enTiger II Catboard
+D�?�
+
+enCorbie
+
+enFV301 Corbie"
+
+enFV301 Corbie
 �����
 
 enScorching Barricade
@@ -16818,3 +17049,217 @@ c�^�%
 enAMX 13 90 Aerial"
 
 enAMX 13 90 Aerial
+r�m�6
+
+enRandom
+
+plLosowy
+
+ruРандомный
+
+enRandom mau5Tank"
+
+enRandom mau5Tank
+,�'�"
+
+enRed mau5
+
+zh
+红色mau5
+-�(�#
+
+en	BOOM mau5
+
+zh
+爆炸mau5
+��
+
+en
+Blitz mau5
+j�e�`
+
+enBlink
+
+esFulgor
+
+frScintillant
+
+jaブリンク
+
+ruБлик
+
+zh闪烁
+b�]�X
+
+en5trobe
+
+esE5troboscópico
+
+fr5troboscope
+
+pl
+5troboskop
+
+zh灯球
+�����
+
+enSnake of Combat
+
+esSerpiente de combate
+
+frSerpent de combat
+$
+jaコンバット・スネーク
+
+plWąż walki
+
+ptSerpente de Combate
+
+ruБоевой змей
+
+ukЗмія битви
+
+zh战蛇
+
+enBZ-75 Combat"
+
+enBZ-75 Combat
+����y
+
+enLophius
+
+jaキアンコウ
+
+plŻabnica
+
+ruУдильщик
+
+ukВудильник
+
+zh	安康鱼
+
+enCS-63 Lophius"
+
+enCS-63 Lophius
+~�y�B
+
+en	Hrimthurs
+
+jaフリームスルス
+
+zh冰霜巨人
+
+enE 100 Hrimthurs"
+
+enE 100 Hrimthurs
+�����
+
+enSnake of Fortune
+
+esSerpiente de la suerte
+
+frSerpent de fortune
+
+ja幸運の巳
+
+plWąż pomyślności
+
+ptSerpente da Fortuna
+
+ruЗмеиная удача
+
+ukЗмія удачі
+
+zh瑞蛇
+B�=�
+
+enOscuro
+
+enLion Oscuro"
+
+enLion Oscuro
+W�R�
+
+enWujiang
+
+zh武将
+
+enBZ-166 Wujiang"
+
+enBZ-166 Wujiang
+�����
+
+enThermal Contraction
+
+esContracción térmica
+
+frContraction thermique
+
+ja	熱収縮
+
+plSkurcz termiczny
+
+ptContração Térmica
+
+ruТермоусадка
+)
+uk#Термічне стиснення
+
+zh冷缩
+�����
+
+en
+Permafrost
+
+es
+Permahielo
+
+frPergélisol
+
+ja永久凍土
+
+pl	Zmarzlina
+#
+ruСнежное зеркало
+!
+ukВічна мерзлота
+
+zh永冻之土
+�����
+
+enSteam Engine
+
+esMotor de vapor
+
+frMoteur à vapeur
+
+ja蒸気機関
+
+plSilnik parowy
+
+ptMotor a Vapor
+'
+ru!Паровой двигатель
+!
+ukПаровий двигун
+
+zh蒸汽引擎
+�����
+
+enIce Core
+
+esNúcleo de hielo
+
+frNoyau de glace
+
+ja氷床コア
+
+plLodowy rdzeń
+
+ptNúcleo de Gelo
+
+ruЛедяное ядро
+
+ukКрижаний керн
+
+zh冰冷核心
