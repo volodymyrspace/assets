@@ -15260,6 +15260,130 @@ D�?�
 enFV301 Corbie"
 
 enFV301 Corbie
+�����
+
+enHeraldic Armor
+
+esBlindaje heráldico
+
+frBlindage héraldique
+
+ja鋼鉄の紋章
+
+plHeraldyczny pancerz
+
+ptArmadura Heráldica
+1
+ru+Геральдические доспехи
+/
+uk)Геральдичні обладунки
+
+zh纹章装甲
+����:
+
+enMonolith
+
+jaモノリス
+
+ruМонолит1
+
+enK-91 Monolith
+
+ruК-91 Монолит"1
+
+enK-91 Monolith
+
+ruК-91 Монолит
+����z
+
+enRaroh
+
+esRaróg
+
+ja	ラロー
+
+plRaróg
+
+ptRaróg
+
+ru
+Рарог
+
+uk
+Рарог
+
+zh火鹰+
+
+en
+IS-8 Raroh
+
+ruИС-8 Рарог"+
+
+en
+IS-8 Raroh
+
+ruИС-8 Рарог
+����
+
+enAquilon
+
+esAquilón
+
+jaアキリオン
+
+plAkwilon
+
+ruАквилон
+
+ukАквілон
+
+zh寒风
+
+enCC 1 Mk. 2 Aquilon"
+
+enCC 1 Mk. 2 Aquilon
+��
+
+enMotherboard
+��
+
+enRender
+��
+
+en	Blueprint
+��
+
+enSchema
+]�X�
+
+enTransceiver
+
+enAMX 50 100 Transceiver"
+
+enAMX 50 100 Transceiver
+�����
+
+enSilver Vanguard
+
+esVanguardia de plata
+
+frAvant-garde d'argent
+
+ja白銀の前衛隊
+
+plSrebrna Awangarda
+
+ptVanguarda Prateada
++
+ru%Серебряный авангард
+%
+ukСрібний авангард
+
+zh白银先锋$
+"
+enS. Conqueror Silver Vanguard"$
+"
+enS. Conqueror Silver Vanguard
 �����
 
 enScorching Barricade

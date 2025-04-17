@@ -54,17 +54,6 @@ U
 ij
 pq
 ve
-`
-&AlternatePitchGrouserPresetNoElevation6
-dg
-lm
-|{
-hk
-no
-tu
-ij
-pq
-ve
 R
 DrumGunPitchLimitsPreset6
 fg
@@ -1320,59 +1309,4 @@ $
 zh�强化在各种地形上的越野能力。
 %(firmGroundPassabilityIncrease)在道路上的越野能力。
 %(mediumGroundPassabilityIncrease)在地面上的越野能力。
-%(softGroundPassabilityIncrease)在水面上的越野能力。�|�
-�
-"
-enImproved Vertical Stabilizer
-%
-esEstabilizador vertical mejorado
-'
-fr!Stabilisateur vertical amélioré
-
-ja改良型安定装置
-$
-plUlepszony stabilizator pionowy
-&
-pt Estabilizador Vertical Melhorado
-B
-ru<Улучшенная вертикальная наводка
->
-uk8Поліпшена вертикальна наводка
-
-zh改进型垂直稳定器�
-�
-en�Improves aiming ability.
-+%(upperPitchLimitIncrease)° to upper gun turn limit.
-+%(lowerPitchLimitIncrease)° to lower gun turn limit.
-�
-es�Mejora la capacidad de apuntamiento.
-+%(upperPitchLimitIncrease)° al límite de rotación superior del cañón.
-+%(lowerPitchLimitIncrease)° al límite de rotación inferior del cañón.
-�
-fr�Améliore la capacité de visée.
-+%(upperPitchLimitIncrease)° au débattement du canon vers le haut.
-+%(lowerPitchLimitIncrease)° au débattement du canon vers le bas.
-�
-ja�垂直方向のターゲティングを容易にする。
-主砲の仰角が +%(upperPitchLimitIncrease)度。
-主砲の俯角が +%(lowerPitchLimitIncrease)度。
-�
-pl�Poprawia stabilność celowania.
-+%(upperPitchLimitIncrease)°górnego limitu obracania działa.
-+%(lowerPitchLimitIncrease)° dolnego limitu obracania działa.
-�
-pt�Melhora a capacidade de mira.
-+%(upperPitchLimitIncrease)° para o limite superior de giro do canhão.
-+%(lowerPitchLimitIncrease)° para o limite inferir de giro do canhão.
-�
-ru�Позволяет удобнее прицеливаться.
-+%(upperPitchLimitIncrease)° к наводке вверх.
-+%(lowerPitchLimitIncrease)° к наводке вниз.
-�
-uk�Дає змогу зручніше прицілюватись.
-+%(upperPitchLimitIncrease)° до наведення вгору.
-+%(lowerPitchLimitIncrease)° до наводки вниз.
-�
-zh�提升瞄准能力。
-+%(upperPitchLimitIncrease)°火炮上仰角度限制。
-+%(lowerPitchLimitIncrease)°火炮下俯角度限制。
+%(softGroundPassabilityIncrease)在水面上的越野能力。
