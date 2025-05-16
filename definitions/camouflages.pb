@@ -17476,7 +17476,7 @@ Ganímedes
 ukГанімед
 
 zh‌木卫三
-�����
+�����
 
 enGoldvein
 
@@ -17485,6 +17485,8 @@ Ganímedes
 frVeine aurifère
 
 ja	金鉱脈
+
+plŻyła złota
 
 ptVeio de Ouro
 
