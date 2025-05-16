@@ -17476,10 +17476,24 @@ Ganímedes
 ukГанімед
 
 zh‌木卫三
- ��
-
-en
-
-en"
-
-en
+�����
+
+enGoldvein
+
+esVetas de oro
+
+frVeine aurifère
+
+ja	金鉱脈
+
+ptVeio de Ouro
+
+ruЗолотая жила
+
+ukЗолота жила
+
+zh金矿 
+
+enChieftain Proto Goldvein" 
+
+enChieftain Proto Goldvein
