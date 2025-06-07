@@ -15279,13 +15279,25 @@ D�?�
 uk)Геральдичні обладунки
 
 zh纹章装甲
-����:
+�����
 
 enMonolith
+
+esMonolito
+
+fr	Monolithe
 
 jaモノリス
+
+plMonolit
+
+ptMonolito
 
-ruМонолит1
+ruМонолит
+
+ukМоноліт
+
+zh巨石1
 
 enK-91 Monolith
 
@@ -15342,21 +15354,84 @@ IS-8 Raroh
 enCC 1 Mk. 2 Aquilon"
 
 enCC 1 Mk. 2 Aquilon
-��
+�����
 
 enMotherboard
-��
+
+es
+Placa base
+
+frCarte mère
+
+jaマザーボード
+
+plPłyta główna
+
+pt
+Placa-mãe
+
+ruМатеринка
+'
+uk!Материнська плата
+
+zh主板
+����~
 
 enRender
-��
+
+esRenderizado
+
+frRendu
+
+jaレンダリング
+
+ruРендер
+
+ukРендер
+
+zh渲染
+{�v�q
 
 en	Blueprint
-��
+
+esPlano
+
+
+frPlan
+
+jaブループリント
+
+plProjekt
+
+ptPlano
+
+zh蓝图
+y�t�o
 
 enSchema
-]�X�
+
+esEsquema
+
+frSchéma
+
+jaスキーマ
+
+plSchemat
+
+ptEsquema
+
+zh	架构图
+����^
 
-enTransceiver
+enTransceiver
+
+esTransceptor
+
+frTransmetteur
+
+plPrzemiennik
+
+zh	收发器
 
 enAMX 50 100 Transceiver"
 
@@ -15384,6 +15459,111 @@ IS-8 Raroh
 enS. Conqueror Silver Vanguard"$
 "
 enS. Conqueror Silver Vanguard
+O�J�
+
+enCharger
+
+enJagdtiger Charger"
+
+enJagdtiger Charger
+�����
+
+enRadar Scanner
+
+esEscáner de radar
+
+frÉcran de radar
+
+ja探知レーダー
+
+plCzytnik radaru
+
+ptScanner de Radar
+
+ruРадилокатор
+'
+uk!Радарний детектор
+
+zh雷达扫描器
+�����
+
+enNavigation Beacons
+
+esBalizas de navegación
+
+frRepaires de navigation
+
+ja航行ビーコン
+
+plSygnalizatory nawigacyjne
+"
+ptSinalizadores de Navegação
+
+ruМаячки
+)
+uk#Навігаційні маячки
+
+zh导航信标
+�����
+
+enGeopositioning
+
+esGeoposicionamiento
+
+frGéolocalisation
+!
+jaジオポジショニング
+
+plGeopozycjonowanie
+
+ptGeoposicionamento
+
+ruГеометка
+
+ukГеолокація
+
+zh地理定位
+�����
+
+enBattle Signal
+
+esSeñal de combate
+
+frSignal de bataille
+
+ja戦闘シグナル
+
+plSygnał bitewny
+
+ptSinal de Batalha
+
+ruСигнал к бою
+
+ukСигнал до бою
+
+zh战斗信号
+b�]�
+
+enDesert Assault
+
+enObj. 140 Desert Assault"
+
+enObj. 140 Desert Assault
+Z�U�
+
+en
+A-Signaler
+
+enT-54 ltwt. A-Signaler"
+
+enT-54 ltwt. A-Signaler
+Y�T�
+
+en	Excavator
+
+enJPanther II Excavator"
+
+enJPanther II Excavator
 �����
 
 enScorching Barricade
@@ -17476,25 +17656,9 @@ Ganímedes
 ukГанімед
 
 zh‌木卫三
-�����
+^�Y�
 
-enGoldvein
-
-esVetas de oro
-
-frVeine aurifère
-
-ja	金鉱脈
-
-plŻyła złota
-
-ptVeio de Ouro
-
-ruЗолотая жила
-
-ukЗолота жила
-
-zh金矿 
+enGoldvein 
 
 enChieftain Proto Goldvein" 
 
