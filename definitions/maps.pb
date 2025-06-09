@@ -170,45 +170,6 @@ Ouro Negro
 ukЗолота долина
 
 zh黑色矿脉
-���
-
-enOasis Palms
-
-esOasis de palmeras
-
-frPalmiers de l'oasis
-
-jaオアシスの椰子
-
-
-plOaza
-
-ptPalmeiras do Oásis
-
-ruГорящие пески
-
-ukПалаючі піски
-
-zh砂丘
-���
-
-enGhost Factory
-
-esFábrica fantasma
-
-frUsine fantôme
-
-ja	廃工場
-
-plFabryka duchów
-
-ptFábrica Fantasma
-
-ruПромзона
-
-ukПромзона
-
-zh幽灵工厂
 rnj
 
 enYukon
@@ -224,17 +185,6 @@ rnj
 ukЮкон
 
 zh育空
-uqm
-
-en	Molendijk
-
-jaモレンダイク
-
-ruМолендейк
-
-ukМолендейк
-
-zh水坝
 ���
 
 enPort Bay
@@ -411,42 +361,6 @@ c_[
 ukЛагуна
 
 zh	环礁湖
-���
-
-enCanyon
-
-esCañón
-
-ja渓谷
-
-plKanion
-
-ptDesfiladeiro
-
-ruКаньон
-
-ukКаньйон
-
-zh峡谷
-���
-
-enMayan Ruins
-
-esRuinas Mayas
-
-frPyramides antiques
-
-jaマヤ遺跡
-
-plStarożytne piramidy
-
-ptPirâmides Antigas
-%
-ruДревние пирамиды
-+
-uk%Стародавні піраміди
-
-zh古老的金字塔
 ���
 
 enDynasty's Pearl
