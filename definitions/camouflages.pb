@@ -15549,10 +15549,16 @@ b�]�
 enObj. 140 Desert Assault"
 
 enObj. 140 Desert Assault
-Z�U�
+����N
 
 en
-A-Signaler
+A-Signaler
+
+esControlador
+
+plA-Sygnalista
+
+zhA级通信兵
 
 enT-54 ltwt. A-Signaler"
 
@@ -17656,9 +17662,25 @@ Ganímedes
 ukГанімед
 
 zh‌木卫三
-^�Y�
+�����
 
-enGoldvein 
+enGoldvein
+
+esVetas de oro
+
+frVeine aurifère
+
+ja	金鉱脈
+
+plŻyła złota
+
+ptVeio de Ouro
+
+ruЗолотая жила
+
+ukЗолота жила
+
+zh金矿 
 
 enChieftain Proto Goldvein" 
 
