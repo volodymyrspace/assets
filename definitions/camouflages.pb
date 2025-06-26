@@ -15459,9 +15459,23 @@ y�t�o
 enS. Conqueror Silver Vanguard"$
 "
 enS. Conqueror Silver Vanguard
-O�J�
+�����
 
-enCharger
+enCharger
+
+esBestia de carga
+
+ja	突撃手
+
+plTaran
+
+ptCavalo de Guerra
+
+ruБоевой зверь
+
+ukБойовий звір
+
+zh	冲锋者
 
 enJagdtiger Charger"
 
@@ -15542,9 +15556,25 @@ O�J�
 ukСигнал до бою
 
 zh战斗信号
-b�]�
+�����
 
-enDesert Assault
+enDesert Assault
+
+esAsalto desértico
+
+frAssaut désertique
+
+ja砂漠強襲
+
+plPustynny szturm
+
+ptOfensiva no Deserto
+"
+ruШтурм в пустыне
+'
+uk!Пустельний наступ
+
+zh沙漠突击
 
 enObj. 140 Desert Assault"
 
@@ -15563,13 +15593,116 @@ A-Signaler
 enT-54 ltwt. A-Signaler"
 
 enT-54 ltwt. A-Signaler
-Y�T�
+P�K�
+
+enBagger
+
+enJPanther II Bagger"
+
+enJPanther II Bagger
+�����
+
+enInfiltrator
+
+esInfiltrador
+
+frInfiltrateur
+$
+jaインフィルトレーター
+
+pt
+Infiltrado
 
-en	Excavator
-
-enJPanther II Excavator"
-
-enJPanther II Excavator
+zh	渗透者
+
+enELC AMX-901 Infiltrator"
+
+enELC AMX-901 Infiltrator
+%� �
+
+enPrismatic Trickster
+!��
+
+enPulse Conductor
+��
+
+enBurning Crown
+��
+
+enEx Vivo
+����j
+
+enHelios
+
+frHélios
+
+jaヘリオス
+
+ruГелиос
+
+ukГеліос
+
+zh	太阳神(
+
+enIS-3 Helios
+
+ruИС-3 Helios"(
+
+enIS-3 Helios
+
+ruИС-3 Helios
+����~
+
+enTalon
+
+esGarra de águila
+
+frSerres
+
+ja	タロン
+
+plSzpon
+
+ptGarra
+
+uk
+Пазур
+
+zh利爪
+
+en
+ATAC Talon"
+
+en
+ATAC Talon
+C�>�
+
+enKingpin
+
+enT69 Kingpin"
+
+enT69 Kingpin
+����b
+
+enAnthem
+
+esHimno
+
+frHymne
+
+jaアンセム
+
+
+plHymn
+
+
+ptHino
+
+zh赞歌
+
+enATAC Anthem"
+
+enATAC Anthem
 �����
 
 enScorching Barricade
