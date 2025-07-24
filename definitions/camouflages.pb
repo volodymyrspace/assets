@@ -15618,18 +15618,74 @@ Infiltrado
 enELC AMX-901 Infiltrator"
 
 enELC AMX-901 Infiltrator
-%� �
+�����
 
 enPrismatic Trickster
-!��
+
+esTimador prismático
+
+frIllusionniste prismatique
+*
+ja$プリズマ・トリックスター
+
+plPryzmatyczny trickster
+
+ptVigarista Espectral
+!
+ruПриматы призмы
+/
+uk)Призматичний трикстер
+
+zh幻彩诡影
+�����
 
 enPulse Conductor
-��
+
+esConductor de pulsos
+
+frConducteur d'impulsions
+$
+jaパルス・コンダクター
+
+plPrzewodnik impulsów
+
+ptCondutor de Pulso
+
+ruИм-пульс
++
+uk%Провідник імпульсів
+
+zh脉冲导体
+�����
 
 enBurning Crown
-��
+
+esCorona ardiente
+
+frCouronne ardente
+$
+jaバーニング・クラウン
+
+plPłonąca korona
+
+ptCoroa de Fogo
+#
+ruОгненная корона
+$
+ukПолум'яна корона
+
+zh燃烧王冠
+m�h�c
 
 enEx Vivo
+
+esEx vivo
+
+jaエクス・ヴィヴォ
+
+ukEx Vivo
+
+zh生体殖装
 ����j
 
 enHelios
@@ -15703,6 +15759,27 @@ C�>�
 enATAC Anthem"
 
 enATAC Anthem
+�����
+
+enSylvan
+
+esSilvano
+
+fr	Sylvestre
+
+pl	Sylvestre
+
+pt	Sylvestre
+
+ru	Sylvestre
+
+uk	Sylvestre
+
+zh幽林
+
+enAMX AC 48 Sylvestre"
+
+enAMX AC 48 Sylvestre
 �����
 
 enScorching Barricade
@@ -17818,3 +17895,79 @@ Ganímedes
 enChieftain Proto Goldvein" 
 
 enChieftain Proto Goldvein
+�����
+
+enEvergreen Forest
+
+esBosque perenne
+
+frForêt persistante
+
+ja常緑樹の森
+
+plWiecznie zielony las
+
+ptFloresta Perene
+%
+ruВечнозеленый лес
+%
+ukВічнозелений ліс
+
+zh常青森林
+�����
+
+enShrub Swamp
+
+esPantano con arbustos
+
+frRoseaux
+
+ja灌木の沼地
+
+plKrzewiaste bagna
+
+ptPântano de Arbustos
+#
+ruТравяное болото
+!
+ukЗаросле болото
+
+zh灌木沼泽
+�����
+
+enMountain Bedrock
+
+esMontaña rocosa
+
+frSubstrat montagneux
+
+ja山の岩盤
+
+plSkalisty
+
+ptLeito Rochoso
+!
+ruСкалистые горы
+!
+ukГірська порода
+
+zh山地基岩
+�����
+
+enDesert Caldera
+
+esCráter desértico
+
+frCaldeira du désert
+
+ja砂漠のカルデラ
+
+plKaldera pustynna
+
+ptCaldeira do Deserto
+)
+ru#Пустынная кальдера
+)
+uk#Пустельна кальдера
+
+zh沙漠火山口
