@@ -15780,6 +15780,172 @@ C�>�
 enAMX AC 48 Sylvestre"
 
 enAMX AC 48 Sylvestre
+M�H�
+
+
+enZubr
+
+plŻubr
+
+enSDP 60 Zubr"
+
+enSDP 60 Zubr
+X�S�
+
+enSeikai
+
+ja星海
+
+enType 5 H Seikai"
+
+enType 5 H Seikai
+@�;�
+
+
+enDzik
+
+enSDP 57 Dzik"
+
+enSDP 57 Dzik
+�����
+
+enSpiral Brocade
+
+esBrocado en espiral
+
+frBrocart en spirale
+
+jaらせん模様
+
+plSpiralny brokat
+
+ptBrocado Espiral
+
+ruЗавитки парчи
+#
+ukСпіральна парча
+
+zh螺旋云锦
+�����
+
+enDesiccated Clay
+
+esArcilla seca
+
+frArgile desséchée
+
+ja乾燥粘土
+
+plWysuszona glina
+
+ptArgila Seca
+#
+ruОпалённая земля
+!
+ukВисушена глина
+
+zh干裂陶土
+�����
+
+enRed Pine
+
+es	Pino rojo
+
+fr	Pin rouge
+
+jaアカマツ
+
+plSosna czerwona
+
+ptPinho Vermelho
+
+ruБагровая хвоя
+
+ukЧервона сосна
+
+zh红松
+�����
+
+enSpear Thistle
+
+esTallo de cardo
+
+frCirse
+
+jaオニアザミ
+
+plOstrożeń lancetowaty
+
+ptCardo Espinhoso
+)
+ru#Колючий чертополох
+
+ukЧортополох
+
+zh矛蓟
+=�8�
+	
+enTur
+
+en
+SDP 58 Tur"
+
+en
+SDP 58 Tur
+a�\�
+
+enZapfenstreich
+
+enLKpz.70 K Zapfenstreich"
+
+enLKpz.70 K Zapfenstreich
+F�A�
+
+enBocian
+
+enSDP 40 Bocian"
+
+enSDP 40 Bocian
+X�S�
+
+enHakage
+
+ja葉陰
+
+enType 5 H Hakage"
+
+enType 5 H Hakage
+D�?�
+
+enOrzeł
+
+enNC 70 Orzeł"
+
+enNC 70 Orzeł
+X�S�
+
+en
+Nawałnica
+
+enSDP wz 66 Nawałnica"
+
+enSDP wz 66 Nawałnica
+O�J�
+
+en	Mokradło
+
+enSDP 44 Mokradło"
+
+enSDP 44 Mokradło
+Y�T�
+
+enZurawik
+
+plŻurawik
+
+enSDP 58 Zurawik"
+
+enSDP 58 Zurawik
 �����
 
 enScorching Barricade
