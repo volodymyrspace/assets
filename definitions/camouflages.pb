@@ -15946,6 +15946,290 @@ Y�T�
 enSDP 58 Zurawik"
 
 enSDP 58 Zurawik
+�����
+
+enDark Herald
+
+esHeraldo oscuro
+
+frSombre présage
+
+ja闇の布告者
+
+plMroczny herold
+
+ptArauto das Trevas
+#
+ruТёмный глашатай
+)
+uk#Темний передвісник
+
+zh黑暗使徒
+�����
+
+enVittra Soil
+
+esTierra de Vittra
+
+frTerres du Vittra
+
+jaヴィトラの土
+
+plTerytorium Vittry
+
+ptSolo Vittra
+
+ruЗемля виттр
+
+ukЗемля ветте
+
+zh维特拉土
+�����
+
+en
+Snake Knot
+
+esNudo de serpiente
+
+frNœud de serpent
+
+ja縺れ合うヘビ
+
+plWężowy węzeł
+
+ptNó da Serpente
+
+ruКлубок змей
+
+ukЗміїний вузол
+
+zh蛇结
+�����
+
+enForest Sprite
+
+esDuende del bosque
+
+frEsprit de la forêt
+
+ja森のスプライト
+
+plLeśny chochlik
+
+ptEspírito da Floresta
+
+ruЛесной дух
+
+ukЛісовий дух
+
+zh森林精灵
+�����
+
+enNeutral Ground
+
+esTerreno neutral
+
+frTerrain neutre
+
+ja中立地帯
+
+plStrefa neutralna
+
+ptTerreno Neutro
+1
+ru+Нейтральная территория
+#
+ukНейтральна зона
+
+zh中立地带
+�����
+
+en
+Flank Raid
+
+esIncursión de flanco
+
+frRaid par le flanc
+
+ja側面奇襲
+
+plNajazd na flankę
+
+ptAtaque Flanqueado
+!
+ruФланговый удар
+%
+ukФланговий наступ
+
+zh侧翼突袭
+�����
+
+enConcrete Ash
+
+esCenizas de cemento
+
+frBéton de cendres
+
+ja混凝土の灰
+
+plBetonowy żar
+
+ptPó de Concreto
+!
+ruБетонный пепел
+%
+ukВипалений цемент
+
+zh混凝土灰
+�����
+
+en	Metal Ops
+
+esOperaciones de acero
+
+frTroupes d'acier
+
+ja鋼鉄部隊
+
+plStalowe siły desantowe
+
+ptForça Metal
+#
+ruСтальной десант
+#
+ukСталевий десант
+
+zh金属行动
+�����
+
+enChthonid Omega
+
+frChtonien Oméga
+!
+jaクトニオス・オメガ
+
+plChtonid omega
+
+ptCtônio Ômega
+
+ruХтонид-Омега
+!
+ukХтонід «Омега»
+
+zh凯索尼德欧米伽H
+
+enObj. 140 Chthonid Omega
+'
+ru!Об. 140 Хтонид-Омега"H
+
+enObj. 140 Chthonid Omega
+'
+ru!Об. 140 Хтонид-Омега
+�����
+
+enChthonid Alpha
+
+esChthonid Alfa
+
+frChtonien Alpha
+$
+jaクトニオス・アルファ
+
+plChtonid alpha
+
+ptCtônio Alfa
+
+ruХтонид-Альфа
+!
+ukХтонід «Альфа»
+
+zh凯索尼德阿尔法H
+
+enObj. 140 Chthonid Alpha
+'
+ru!Об. 140 Хтонид-Альфа"H
+
+enObj. 140 Chthonid Alpha
+'
+ru!Об. 140 Хтонид-Альфа
+�����
+
+enHunter's Moon Folio
+ 
+esVolumen de la luna de caza
+"
+frFolio de la Lune du chasseur
+
+ja狩人の月の文書
+
+plKrwawy księżyc Folio
+
+ptFólio da Lua do Caçador
+*
+ru$Фолиант полной луны
+0
+uk*Фоліант Повного Місяця
+
+zh猎人之月
+q�l�+
+
+en	Patroller
+
+jaパトローラー
+
+enIndien-Pz. Patroller"
+
+enIndien-Pz. Patroller
+V�Q�
+
+enReckoner
+
+enNemesis the Reckoner"
+
+enNemesis the Reckoner
+����X
+
+enDraugr
+
+jaドラウグ
+
+ruДраугр
+
+ukДраугр
+
+zh尸鬼
+
+enEmil I Draugr"
+
+enEmil I Draugr
+�����
+
+en	Fullmetal
+
+es
+Metalizado
+
+frTout de métal
+
+jaフルメタル
+
+plStalowy
+
+ptMetal Total
+
+ruСплав железа
+(
+uk"Суцільнометалевий
+
+zh	全金属<
+
+enFullmetal Witch
+#
+ruСтальная Ведьма"<
+
+enFullmetal Witch
+#
+ruСтальная Ведьма
 �����
 
 enScorching Barricade

@@ -1,17 +1,4 @@
 
-���
-
-en	Rockfield
-
-jaロックフィールド
-
-pl	Kamieniec
-!
-ruБалтийский щит
-#
-ukБалтійський щит
-
-zh	石之域
 ���
 
 enDesert Sands
@@ -137,39 +124,45 @@ Martwy tor
 ukФорт
 
 zh绝望堡垒
-�	�	�
+���
 
-enHimmelsdorf
-
-jaヒメルズドルフ
-
-ruХиммельсдорф
-
-ukХіммельсдорф
-
-zh锡默尔斯多夫
-�
-�
-�
-
-enBlack Goldville
+enOasis Palms
+
+esOasis de palmeras
 
-esVilla del oro negro
-
-frGoldville noire
-
-ja黒き黄金の村
-
-plCzarne złoto
-
-pt
-Ouro Negro
-!
-ruЗолотая долина
+frPalmiers de l'oasis
+
+jaオアシスの椰子
+
+
+plOaza
+
+ptPalmeiras do Oásis
 
-ukЗолота долина
+ruГорящие пески
+
+ukПалаючі піски
+
+zh砂丘
+���
+
+enGhost Factory
+
+esFábrica fantasma
+
+frUsine fantôme
+
+ja	廃工場
+
+plFabryka duchów
+
+ptFábrica Fantasma
+
+ruПромзона
+
+ukПромзона
 
-zh黑色矿脉
+zh幽灵工厂
 rnj
 
 enYukon
@@ -185,6 +178,17 @@ rnj
 ukЮкон
 
 zh育空
+uqm
+
+en	Molendijk
+
+jaモレンダイク
+
+ruМолендейк
+
+ukМолендейк
+
+zh水坝
 ���
 
 enPort Bay
@@ -310,6 +314,25 @@ c_[
 ukЛагуна
 
 zh	环礁湖
+���
+
+enMayan Ruins
+
+esRuinas Mayas
+
+frPyramides antiques
+
+jaマヤ遺跡
+
+plStarożytne piramidy
+
+ptPirâmides Antigas
+%
+ruДревние пирамиды
++
+uk%Стародавні піраміди
+
+zh古老的金字塔
 ���
 
 enDynasty's Pearl
@@ -329,52 +352,17 @@ c_[
 ukПерлинне місто
 
 zh王朝的珍珠
-�#�#�
-
-enNaval Frontier
-
-esFrontera naval
-
-frFrontière maritime
-
-ja沿岸要塞
-
-plMorskie rubieże
-
-ptFronteira Naval
-
-ruМорской рубеж
-!
-ukМорський рубіж
-
-zh海军前沿
-�&�&�
-
-en
-Alpenstadt
-!
-jaアルペンシュタット
+�&�&�
+
+enHorrorstadt
+
+jaホラーシュタット
 
-ruАльпенштадт
+ruХоррорштадт
 
-ukАльпенштадт
-
-zh阿尔潘斯丹特
-o'k'g
-
-enFaust
-
-esFausto
-
-jaファウスト
-
-ru
-Фауст
-
-uk
-Фауст
+ukХоррорштадт
 
-zh	浮士德
+zh	恐怖城
 �(�(�
 
 enNew Bay
@@ -413,23 +401,6 @@ Normandía
 ukНормандія
 
 zh	诺曼底
-�+�+�
-
-enHellas
-
-esHélade
-
-ja	ヘラス
-
-plHellada
-
-ptHélade
-
-ruЭллада
-
-ukЕллада
-
-zh	赫拉斯
 �,�,�
 
 enDesert Sands - Town
@@ -677,25 +648,9 @@ $
 ukКанал. Завод
 
 zh运河 — 工厂
-�9�9�
-
-enAlpenstadt - Town
+"99
 
-esAlpenstadt: Pueblo
-
-frAlpenstadt - Ville
-'
-ja!アルペンシュタット - 町
-
-plAlpenstadt – Miasto
-
-ptAlpenstadt - Cidade
-(
-ru"Альпенштадт. Город
-(
-uk"Альпенштадт. Місто
-#
-zh阿尔潘斯丹特 — 小镇
+enHorrorstadt - Town
 �:�:�
 
 enNormandy - Hills
@@ -789,61 +744,3 @@ $
 ukКопальні. Центр
 
 zh矿山 — 中心
-�F�F�
-
-enSea of Tranquility
-
-esMar de la Tranquilidad
-
-frMer de la Tranquillité
-
-ja平穏の海
-
-plMorze Spokoju
-
-ptMar da Tranquilidade
-%
-ruМоре Спокойствия
-
-ukМоре Спокою
-
-zh宁静之海
-�G�G�
-
-en	Wasteland
-
-esTierras baldías
-
-frTerrain vague
-
-ja廃墟
-
-pl	Kataklizm
-
-ptTerra de Ninguém
-
-ruПустошь
-
-ukПустище
-
-zh不毛之地
-�H�H�
-
-en	Everfrost
-
-esHielo perpetuo
-
-fr
-Permagivre
-
-ja解けない霜
-
-plWieczna zmarzlina
-
-ptGeada Eterna
-
-ruЭверфрост
-
-ukЕверфрост
-
-zh永冻
