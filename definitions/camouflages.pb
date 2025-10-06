@@ -18421,3 +18421,49 @@ Ganímedes
 uk#Пустельна кальдера
 
 zh沙漠火山口
+�����
+
+enLucille's Retribution
+
+esVenganza de Lucille
+
+frChâtiment de Lucille
+
+jaルシールの裁き
+
+plOdwet Lucille
+
+ptO Castigo de Lucille
+%
+ruВозмездие Люсиль
+
+ukПомста Люсіль
+
+zh露西尔的复仇!
+
+enM48 Lucille's Retribution"!
+
+enM48 Lucille's Retribution
+�����
+
+enGeorgia Tracker
+
+esRastreador de Georgia
+
+frTraqueur de Géorgie
+'
+ja!ジョージア・トラッカー
+
+plŁowca z Georgii
+
+ptRastreador da Georgia
+,
+ru&Следопыт из Джорджии
+,
+uk&Слідопит із Джорджії
+
+zh佐治亚追踪者
+
+enT32 Georgia Tracker"
+
+enT32 Georgia Tracker

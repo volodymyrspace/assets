@@ -648,9 +648,25 @@ $
 ukКанал. Завод
 
 zh运河 — 工厂
-"99
+�9�9�
 
 enHorrorstadt - Town
+
+esHorrorstadt: Pueblo
+
+frHorrorstadt - Ville
+%
+jaホラーシュタット - 町
+
+plHorrorstadt - Miasto
+
+ptHorrorstadt - Cidade
+'
+ru!Город Хоррорштадт
+(
+uk"Хоррорштадт. Місто
+
+zh恐怖城 — 小镇
 �:�:�
 
 enNormandy - Hills
